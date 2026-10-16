@@ -1,0 +1,1340 @@
+{
+  "string": [
+    {
+      "name": "d_result",
+      "value": "%d resultaat"
+    },
+    {
+      "name": "d_results",
+      "value": "%d resultaten"
+    },
+    {
+      "name": "i_failed_passcode_attempt",
+      "value": "%d mislukte wachtwoordcodepoging"
+    },
+    {
+      "name": "i_failed_passcode_attempts",
+      "value": "%d mislukte wachtwoordcodepogingen"
+    },
+    {
+      "name": "i_note_trashed",
+      "value": "%d Notitie in prullenbak"
+    },
+    {
+      "name": "i_notes_trashed",
+      "value": "%d Notities in prullenbak"
+    },
+    {
+      "name": "i_reference",
+      "value": "%d Referentie"
+    },
+    {
+      "name": "i_references",
+      "value": "%d Referenties"
+    },
+    {
+      "name": "i_selected",
+      "value": "%d Geselecteerd"
+    },
+    {
+      "name": "minimum_of_8_characters",
+      "value": "- Minimaal 8 tekens"
+    },
+    {
+      "name": "neither_tabs_nor_newlines_are_allowed",
+      "value": "- Tabs en nieuwe regels niet toegestaan"
+    },
+    {
+      "name": "password_cannot_match_email",
+      "value": "- Wachtwoord mag niet hetzelfde zijn als e-mailadres"
+    },
+    {
+      "name": "s_1_minute",
+      "value": "1 minuut"
+    },
+    {
+      "name": "s_15_seconds",
+      "value": "15 seconden"
+    },
+    {
+      "name": "s_2_minutes",
+      "value": "2 minuten"
+    },
+    {
+      "name": "s_3_minutes",
+      "value": "3 minuten"
+    },
+    {
+      "name": "s_30_seconds",
+      "value": "30 seconden"
+    },
+    {
+      "name": "s_4_minutes",
+      "value": "4 minuten"
+    },
+    {
+      "name": "s_5_minutes",
+      "value": "5 minuten"
+    },
+    {
+      "name": "a_network_connection_is_required_please_check_your_connectio",
+      "value": "Een netwerkverbinding is vereist. Controleer je verbinding en probeer het nogmaals."
+    },
+    {
+      "name": "about",
+      "value": "Over"
+    },
+    {
+      "name": "accept",
+      "value": "Accepteren"
+    },
+    {
+      "name": "account",
+      "value": "Account"
+    },
+    {
+      "name": "account_verification_required",
+      "value": "Accountverificatie vereist"
+    },
+    {
+      "name": "add_a_new_collaborator",
+      "value": "Een nieuwe samenwerker toevoegen..."
+    },
+    {
+      "name": "add_a_tag_to_the_current_note",
+      "value": "Een tag toevoegen aan de huidige notitie"
+    },
+    {
+      "name": "add_an_email_address_to_share_this_note_with_someone_then_yo",
+      "value": "Voeg een e-mailadres toe om deze notitie met iemand te delen. Dan kunnen jullie beiden wijzigingen aanbrengen."
+    },
+    {
+      "name": "add_tag",
+      "value": "Tag toevoegen"
+    },
+    {
+      "name": "all_notes",
+      "value": "Alle notities"
+    },
+    {
+      "name": "an_email_has_been_sent_to_check_your_inbox_and_follow_the_in",
+      "value": "Er is een e-mail verzonden naar %s Controleer je inbox en volg de instructies om het verwijderen van je account te bevestigen.\n\nJe account zal niet worden verwijderd totdat we je bevestiging hebben ontvangen"
+    },
+    {
+      "name": "an_error_occured_please_try_again_if_the_problem_continues_c",
+      "value": "Er is een fout opgetreden. Probeer het opnieuw. Neem contact met ons op via support@simplenote.com voor hulp als het probleem niet is opgelost."
+    },
+    {
+      "name": "an_error_was_encountered_while_signing_in",
+      "value": "Er is een aanmeldfout opgetreden."
+    },
+    {
+      "name": "appearance",
+      "value": "Weergave"
+    },
+    {
+      "name": "are_you_a_developer_we_re_hiring",
+      "value": "Ben je ontwikkelaar? Wij zijn op zoek naar nieuwe collega's."
+    },
+    {
+      "name": "are_you_sure_you_want_to_delete_1",
+      "value": "Weet je zeker dat je '%1$s' wilt verwijderen?"
+    },
+    {
+      "name": "are_you_sure_you_want_to_empty_the_trash_this_cannot_be_undo",
+      "value": "Weet je zeker dat je de prullenbak wilt leegmaken? Deze actie kan niet ongedaan worden gemaakt."
+    },
+    {
+      "name": "attempt_to_fetch_current_note_content_failed_please_try_agai",
+      "value": "Het is niet gelukt om de inhoud van de huidige notitie op te halen.  Probeer het later opnieuw."
+    },
+    {
+      "name": "attempt_to_fetch_entities_failed_please_try_again_later",
+      "value": "Het is niet gelukt om entiteiten op te halen.  Probeer het later opnieuw."
+    },
+    {
+      "name": "attempt_to_fetch_notes_failed_please_try_again_later",
+      "value": "Het is niet gelukt om notities op te halen.  Probeer het later opnieuw."
+    },
+    {
+      "name": "attempt_to_fetch_tags_failed_please_try_again_later",
+      "value": "Het is niet gelukt om tags op te halen.  Probeer het later opnieuw."
+    },
+    {
+      "name": "authenticated",
+      "value": "Geverifieerd"
+    },
+    {
+      "name": "become_a_simplenote_sustainer",
+      "value": "Word Simplenote Sustainer"
+    },
+    {
+      "name": "blog",
+      "value": "Blog"
+    },
+    {
+      "name": "by_creating_an_account_you_agree_to_our",
+      "value": "Door een account aan te maken, ga je akkoord met onze"
+    },
+    {
+      "name": "by_deleting_the_account_for_all_notes_created_with_this_acco",
+      "value": "Door het account voor %s te verwijderen zullen alle opmerkingen die gemaakt zijn met dit account permanent worden verwijderd. Dit kan niet worden teruggedraaid"
+    },
+    {
+      "name": "cancel",
+      "value": "Annuleren"
+    },
+    {
+      "name": "cancel_share",
+      "value": "Delen annuleren"
+    },
+    {
+      "name": "cannot_confirm_account",
+      "value": "Account kan niet worden bevestigd"
+    },
+    {
+      "name": "cannot_send_verification_email",
+      "value": "Verificatiemail kan niet worden verzonden"
+    },
+    {
+      "name": "careers",
+      "value": "Carrières"
+    },
+    {
+      "name": "change_email",
+      "value": "E-mail wijzigen"
+    },
+    {
+      "name": "change_password",
+      "value": "Wijzig wachtwoord"
+    },
+    {
+      "name": "characters",
+      "value": "Tekens"
+    },
+    {
+      "name": "check_your_email",
+      "value": "Controleer je e-mail!"
+    },
+    {
+      "name": "check_your_email_2",
+      "value": "Controleer je e-mail"
+    },
+    {
+      "name": "choose_a_4_digit_passcode",
+      "value": "Kies een viercijferige pincode"
+    },
+    {
+      "name": "code",
+      "value": "Code"
+    },
+    {
+      "name": "collaborate",
+      "value": "Samenwerken"
+    },
+    {
+      "name": "collaboration_has_moved",
+      "value": "Samenwerking is verplaatst"
+    },
+    {
+      "name": "collaborators",
+      "value": "Samenwerkers"
+    },
+    {
+      "name": "compromised_password",
+      "value": "Wachtwoord loopt gevaar"
+    },
+    {
+      "name": "condensed_note_list",
+      "value": "Beknopte notitielijst"
+    },
+    {
+      "name": "confirm",
+      "value": "Bevestigen"
+    },
+    {
+      "name": "confirm_your_passcode",
+      "value": "Bevestig je pincode"
+    },
+    {
+      "name": "contribute",
+      "value": "Bijdragen"
+    },
+    {
+      "name": "copy_internal_link",
+      "value": "Interne link kopiëren"
+    },
+    {
+      "name": "copy_link_2",
+      "value": "Link kopiëren"
+    },
+    {
+      "name": "copy_link",
+      "value": "Link kopiëren"
+    },
+    {
+      "name": "could_be_better",
+      "value": "Kan beter"
+    },
+    {
+      "name": "could_not_create_an_account_with_the_provided_email_address",
+      "value": "Kan geen account maken met het opgegeven e-mailadres en wachtwoord."
+    },
+    {
+      "name": "could_not_delete_tag",
+      "value": "Kon tag niet verwijderen"
+    },
+    {
+      "name": "could_not_fetch_notes",
+      "value": "Het is niet gelukt om notities op te halen"
+    },
+    {
+      "name": "could_not_fetch_tags",
+      "value": "Het is niet gelukt om tags op te halen"
+    },
+    {
+      "name": "could_not_fetch_entities",
+      "value": "Het is niet gelukt om entiteiten op te halen"
+    },
+    {
+      "name": "could_not_fetch_note_content",
+      "value": "Het is niet gelukt om de notitie-inhoud op te halen"
+    },
+    {
+      "name": "could_not_login_with_the_provided_email_address_and_password",
+      "value": "Kan niet inloggen met het opgegeven e-mailadres en wachtwoord."
+    },
+    {
+      "name": "could_you_tell_us_how_we_could_improve",
+      "value": "Kun je ons vertellen wat we kunnen verbeteren?"
+    },
+    {
+      "name": "couldn_t_retrieve_history",
+      "value": "Geschiedenis ophalen mislukt"
+    },
+    {
+      "name": "couldn_t_sign_in",
+      "value": "Aanmelden mislukt"
+    },
+    {
+      "name": "create_a_new_note",
+      "value": "Een nieuwe notitie maken"
+    },
+    {
+      "name": "create_a_new_note_2",
+      "value": "Een nieuwe notitie maken"
+    },
+    {
+      "name": "create_a_new_note_instantly_with_one_tap",
+      "value": "Tik één keer om onmiddellijk een nieuwe notitie te maken."
+    },
+    {
+      "name": "create_a_new_note_titled",
+      "value": "Een nieuwe opmerking maken met de titel '%s'"
+    },
+    {
+      "name": "create_your_first_note",
+      "value": "Voeg je eerste opmerking toe"
+    },
+    {
+      "name": "created",
+      "value": "Aangemaakt"
+    },
+    {
+      "name": "created_newest",
+      "value": "Aangemaakt op: Nieuwste"
+    },
+    {
+      "name": "created_oldest",
+      "value": "Aangemaakt op: Oudste"
+    },
+    {
+      "name": "current_collaborators",
+      "value": "Huidige samenwerkers"
+    },
+    {
+      "name": "dark",
+      "value": "Donker"
+    },
+    {
+      "name": "debug",
+      "value": "Debug"
+    },
+    {
+      "name": "debug_disabled",
+      "value": "Debug uitgeschakeld"
+    },
+    {
+      "name": "delete",
+      "value": "Verwijderen"
+    },
+    {
+      "name": "delete_account",
+      "value": "Account verwijderen"
+    },
+    {
+      "name": "delete_note",
+      "value": "Notitie verwijderen"
+    },
+    {
+      "name": "delete_notes",
+      "value": "Notities verwijderen"
+    },
+    {
+      "name": "delete_tag",
+      "value": "Tag verwijderen"
+    },
+    {
+      "name": "deselect_all",
+      "value": "Alles deselecteren"
+    },
+    {
+      "name": "diagnostics",
+      "value": "Diagnoses"
+    },
+    {
+      "name": "didn_t_get_an_email_there_may_already_be_an_account_associat",
+      "value": "Geen e-mail ontvangen? Misschien is er al een account gekoppeld aan dit e-mailadres. Neem voor hulp contact op met %1$s."
+    },
+    {
+      "name": "disable_markdown_formatting",
+      "value": "Markdown-opmaak uitschakelen"
+    },
+    {
+      "name": "dismiss",
+      "value": "Afbreken"
+    },
+    {
+      "name": "dismiss_history",
+      "value": "Geschiedenis negeren"
+    },
+    {
+      "name": "dismiss_information",
+      "value": "Informatie negeren"
+    },
+    {
+      "name": "dismiss_keyboard",
+      "value": "Toetsenbord sluiten"
+    },
+    {
+      "name": "document",
+      "value": "Document"
+    },
+    {
+      "name": "done",
+      "value": "Klaar"
+    },
+    {
+      "name": "edit",
+      "value": "Bewerken"
+    },
+    {
+      "name": "email",
+      "value": "E-mailen"
+    },
+    {
+      "name": "email_in_use",
+      "value": "E-mail in gebruik"
+    },
+    {
+      "name": "empty",
+      "value": "Leegmaken"
+    },
+    {
+      "name": "empty_trash",
+      "value": "Prullenbak leegmaken"
+    },
+    {
+      "name": "enable_markdown_formatting",
+      "value": "Markdown-opmaak inschakelen"
+    },
+    {
+      "name": "end_editing",
+      "value": "Bewerken beëindigen"
+    },
+    {
+      "name": "enqueued",
+      "value": "Aantal in wachtrij"
+    },
+    {
+      "name": "enter_code",
+      "value": "Voer code in"
+    },
+    {
+      "name": "enter_password",
+      "value": "Voer wachtwoord in"
+    },
+    {
+      "name": "enter_the_password_for_the_account_email",
+      "value": "Voer het wachtwoord van het account {{EMAIL}} in"
+    },
+    {
+      "name": "enter_your_passcode",
+      "value": "Voer je wachtwoordcode in"
+    },
+    {
+      "name": "error",
+      "value": "Fout"
+    },
+    {
+      "name": "faq_or_contact_us",
+      "value": "Veelgestelde vragen of neem contact met ons op"
+    },
+    {
+      "name": "face_id",
+      "value": "Gezichts-ID"
+    },
+    {
+      "name": "fetching_version",
+      "value": "Versie ophalen"
+    },
+    {
+      "name": "forgot_your_password",
+      "value": "Wachtwoord vergeten?"
+    },
+    {
+      "name": "get_help",
+      "value": "Ontvang hulp"
+    },
+    {
+      "name": "get_quick_access_to_a_list_of_all_notes_or_based_on_the_sele",
+      "value": "Krijg snel toegang tot een lijst van al je notities of op basis van de geselecteerde tag."
+    },
+    {
+      "name": "get_quick_access_to_one_of_your_notes",
+      "value": "Krijg snel toegang tot een van je notities."
+    },
+    {
+      "name": "great_mind_leaving_a_review_to_tell_us_what_you_like",
+      "value": "Geweldig! Denk je eraan een beoordeling achter te laten om ons te vertellen wat je zou willen?"
+    },
+    {
+      "name": "help",
+      "value": "Help"
+    },
+    {
+      "name": "help_us_improve_simplenote_by_sharing_usage_data_with_our_an",
+      "value": "Help ons Simplenote te verbeteren door gebruiksgegevens te delen met onze analysetool."
+    },
+    {
+      "name": "history",
+      "value": "Geschiedenis"
+    },
+    {
+      "name": "i_like_it",
+      "value": "Ik vind het leuk"
+    },
+    {
+      "name": "index_notes_in_spotlight",
+      "value": "Notities indexeren in Spotlight"
+    },
+    {
+      "name": "index_removed",
+      "value": "Index verwijderd"
+    },
+    {
+      "name": "information",
+      "value": "Informatie"
+    },
+    {
+      "name": "insert_checklist",
+      "value": "Checklist invoegen"
+    },
+    {
+      "name": "inserts_a_new_checklist_item",
+      "value": "Voegt een nieuwe afvinktaak toe"
+    },
+    {
+      "name": "last_modified_1",
+      "value": "Laatst aangepast %1$s"
+    },
+    {
+      "name": "lastseen",
+      "value": "Laatst bekeken om"
+    },
+    {
+      "name": "learn_more",
+      "value": "Meer informatie"
+    },
+    {
+      "name": "leave_a_review",
+      "value": "Laat een beoordeling achter"
+    },
+    {
+      "name": "light",
+      "value": "Licht"
+    },
+    {
+      "name": "link_copied",
+      "value": "Link gekopieerd"
+    },
+    {
+      "name": "lock_timeout",
+      "value": "Time-out voor vergrendeling"
+    },
+    {
+      "name": "log_in",
+      "value": "Inloggen"
+    },
+    {
+      "name": "log_in_with_password",
+      "value": "Inloggen met wachtwoord"
+    },
+    {
+      "name": "log_out",
+      "value": "Uitloggen"
+    },
+    {
+      "name": "log_in_to_see_your_notes",
+      "value": "Log in om je notitites te bekijken"
+    },
+    {
+      "name": "log_in_with_wordpress_com",
+      "value": "Inloggen met WordPress.com"
+    },
+    {
+      "name": "log_in_with_email",
+      "value": "Inloggen met e-mail"
+    },
+    {
+      "name": "log_in_with_email_failed_please_enter_your_password",
+      "value": "Inloggen met e-mail is mislukt, voer je wachtwoord in"
+    },
+    {
+      "name": "login_code_is_too_short",
+      "value": "Inlogcode is te kort"
+    },
+    {
+      "name": "mmm_d",
+      "value": "d MMM"
+    },
+    {
+      "name": "mmm_d_h_mm_a",
+      "value": "d MMM, u:mm a"
+    },
+    {
+      "name": "mmm_d_yyyy",
+      "value": "d MMM jjjj"
+    },
+    {
+      "name": "mmm_yyyy",
+      "value": "MMM jjjj"
+    },
+    {
+      "name": "main_app_is_not_configured",
+      "value": "Hoofdapp is niet geconfigureerd"
+    },
+    {
+      "name": "markdown",
+      "value": "Snelle stijl"
+    },
+    {
+      "name": "menu",
+      "value": "Menu"
+    },
+    {
+      "name": "modified",
+      "value": "Aangepast"
+    },
+    {
+      "name": "modified_newest",
+      "value": "Aangepast op: Nieuwste"
+    },
+    {
+      "name": "modified_oldest",
+      "value": "Aangepast op: Oudste"
+    },
+    {
+      "name": "move_selected_notes_to_trash",
+      "value": "Verplaats de geselecteerde notities naar de prullenbak"
+    },
+    {
+      "name": "move_to_trash",
+      "value": "Verplaatsen naar prullenbak"
+    },
+    {
+      "name": "name_a_z",
+      "value": "Naam: A-Z"
+    },
+    {
+      "name": "name_z_a",
+      "value": "Naam: Z-A"
+    },
+    {
+      "name": "new_note",
+      "value": "Nieuwe opmerking"
+    },
+    {
+      "name": "new_note_4",
+      "value": "Nieuwe notitie…"
+    },
+    {
+      "name": "new_note_2",
+      "value": "Nieuwe notitie"
+    },
+    {
+      "name": "new_note_3",
+      "value": "Nieuwe notitie …"
+    },
+    {
+      "name": "next_match",
+      "value": "Volgende resultaat"
+    },
+    {
+      "name": "no",
+      "value": "Nee"
+    },
+    {
+      "name": "no_results",
+      "value": "Geen resultaten"
+    },
+    {
+      "name": "no_simplenote_account",
+      "value": "Geen Simplenote-account"
+    },
+    {
+      "name": "no_notes_tagged",
+      "value": "Geen opmerkingen getagd met '%s'"
+    },
+    {
+      "name": "no_previous_valid_purchases_found_for_the_current_period",
+      "value": "Geen geldige eerdere aankopen gevonden voor de huidige periode"
+    },
+    {
+      "name": "no_purchases_found",
+      "value": "Geen aankopen gevonden"
+    },
+    {
+      "name": "no_thanks",
+      "value": "Nee, liever niet"
+    },
+    {
+      "name": "no_untagged_notes",
+      "value": "Geen niet-getagde opmerkingen"
+    },
+    {
+      "name": "note",
+      "value": "Notitie"
+    },
+    {
+      "name": "note_list",
+      "value": "Notitielijst"
+    },
+    {
+      "name": "note_trashed",
+      "value": "Notitie in prullenbak"
+    },
+    {
+      "name": "note_no_longer_available",
+      "value": "Notitie is niet meer beschikbaar"
+    },
+    {
+      "name": "notes",
+      "value": "Notities"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "off",
+      "value": "Uit"
+    },
+    {
+      "name": "ok_2",
+      "value": "Ok"
+    },
+    {
+      "name": "okay",
+      "value": "Oké"
+    },
+    {
+      "name": "on",
+      "value": "Aan"
+    },
+    {
+      "name": "open_simplenote",
+      "value": "Open Simplenote"
+    },
+    {
+      "name": "open_note",
+      "value": "Notitie openen"
+    },
+    {
+      "name": "options",
+      "value": "Opties"
+    },
+    {
+      "name": "or",
+      "value": "Of"
+    },
+    {
+      "name": "passcode",
+      "value": "Wachtwoordcode"
+    },
+    {
+      "name": "passcodes_did_not_match_try_again",
+      "value": "Wachtwoordcodes komen niet overeen. Probeer het opnieuw."
+    },
+    {
+      "name": "password",
+      "value": "Wachtwoord"
+    },
+    {
+      "name": "password_cannot_match_email_2",
+      "value": "Wachtwoord mag niet hetzelfde zijn als e-mailadres"
+    },
+    {
+      "name": "password_must_contain_at_least_d_characters",
+      "value": "Wachtwoord moet minstens %d tekens bevatten"
+    },
+    {
+      "name": "password_must_not_contain_tabs_nor_newlines",
+      "value": "Wachtwoord mag geen tabs of nieuwe regels bevatten"
+    },
+    {
+      "name": "pendings",
+      "value": "Aantal in behandeling"
+    },
+    {
+      "name": "pin_note",
+      "value": "Notitie vastmaken"
+    },
+    {
+      "name": "pin_to_top",
+      "value": "Vastmaken aan bovenzijde"
+    },
+    {
+      "name": "please_activate_your_wordpress_com_account_via_email_and_try",
+      "value": "Activeer je WordPress.com-account via e-mail en probeer het nogmaals."
+    },
+    {
+      "name": "please_check_your_network_settings_and_try_again",
+      "value": "Controleer je netwerkinstellingen en probeer het nogmaals."
+    },
+    {
+      "name": "please_log_into_your_simplenote_account_first_by_using_the_s",
+      "value": "Log eerst in bij je Simplenote-account met behulp van de Simplenote-app."
+    },
+    {
+      "name": "please_try_again",
+      "value": "Probeer het nog eens"
+    },
+    {
+      "name": "please_upgrade_to_the_latest_ios_release_to_restore_purchase",
+      "value": "Upgrade naar de nieuwste versie van iOS om aankopen te herstellen"
+    },
+    {
+      "name": "preview",
+      "value": "Voorbeeld bekijken"
+    },
+    {
+      "name": "previous_match",
+      "value": "Vorig resultaat"
+    },
+    {
+      "name": "privacy_notice_for_california_users",
+      "value": "Privacyverklaring voor gebruikers in Californië"
+    },
+    {
+      "name": "privacy_policy",
+      "value": "Privacybeleid"
+    },
+    {
+      "name": "privacy_settings",
+      "value": "Privacy instellingen"
+    },
+    {
+      "name": "publish",
+      "value": "Publiceren"
+    },
+    {
+      "name": "publish_successful",
+      "value": "Gepubliceerd"
+    },
+    {
+      "name": "publish_note",
+      "value": "Notitie publiceren"
+    },
+    {
+      "name": "publishing_note",
+      "value": "Notitie publiceren..."
+    },
+    {
+      "name": "publishing",
+      "value": "Publiceren..."
+    },
+    {
+      "name": "rate_us",
+      "value": "Beoordeel ons"
+    },
+    {
+      "name": "reachability",
+      "value": "Bereikbaarheid"
+    },
+    {
+      "name": "recent",
+      "value": "Recent"
+    },
+    {
+      "name": "recovered_note_cotent",
+      "value": "Inhoud herstelde notitie - "
+    },
+    {
+      "name": "referenced_in",
+      "value": "Naar verwezen in"
+    },
+    {
+      "name": "remove_all_notes_from_trash",
+      "value": "Alle notities verwijderen uit prullenbak"
+    },
+    {
+      "name": "remove_tag_from_the_current_note",
+      "value": "Tag verwijderen uit de huidige notitie"
+    },
+    {
+      "name": "rename",
+      "value": "Hernoemen"
+    },
+    {
+      "name": "request_account_deletion",
+      "value": "Accountverwijdering aanvragen"
+    },
+    {
+      "name": "request_error",
+      "value": "Verzoekfout"
+    },
+    {
+      "name": "resend_email",
+      "value": "E-mail opnieuw verzenden"
+    },
+    {
+      "name": "resend_verification_email",
+      "value": "Verificatiemail opnieuw verzenden"
+    },
+    {
+      "name": "reset",
+      "value": "Resetten"
+    },
+    {
+      "name": "reset_required",
+      "value": "Reset vereist"
+    },
+    {
+      "name": "response",
+      "value": "Antwoord"
+    },
+    {
+      "name": "restore_note",
+      "value": "Notitie herstellen"
+    },
+    {
+      "name": "review_your_account",
+      "value": "Controleer je account"
+    },
+    {
+      "name": "save",
+      "value": "Opslaan"
+    },
+    {
+      "name": "search",
+      "value": "Zoeken"
+    },
+    {
+      "name": "search_by_tag",
+      "value": "Zoeken op tag"
+    },
+    {
+      "name": "search_notes_or_tags",
+      "value": "Notities of tags zoeken"
+    },
+    {
+      "name": "security",
+      "value": "Beveiliging"
+    },
+    {
+      "name": "select",
+      "value": "Selecteer"
+    },
+    {
+      "name": "select_all",
+      "value": "Alles selecteren"
+    },
+    {
+      "name": "select_a_version",
+      "value": "Kies een versie"
+    },
+    {
+      "name": "send_a_test_crash",
+      "value": "Een testcrash verzenden"
+    },
+    {
+      "name": "send_feedback",
+      "value": "Stuur feedback"
+    },
+    {
+      "name": "set_up_passcode",
+      "value": "Pincode instellen"
+    },
+    {
+      "name": "settings",
+      "value": "Instellingen"
+    },
+    {
+      "name": "share",
+      "value": "Delen"
+    },
+    {
+      "name": "share_analytics",
+      "value": "Analyses delen"
+    },
+    {
+      "name": "share_2",
+      "value": "Delen"
+    },
+    {
+      "name": "sharing_notes_is_now_accessed_through_the_action_menu_from_t",
+      "value": "Je kunt vanaf nu notities delen via het actiemenu vanuit de werkbalk."
+    },
+    {
+      "name": "sidebar",
+      "value": "Sidebar"
+    },
+    {
+      "name": "sign_up",
+      "value": "Registreren"
+    },
+    {
+      "name": "signing_out_will_delete_any_unsynced_notes_you_can_verify_yo",
+      "value": "Door je af te melden worden gesynchroniseerde notities verwijderd. Je kunt je gesynchroniseerde notities verifiëren door je aan te melden via de web-app."
+    },
+    {
+      "name": "simplenote",
+      "value": "Simplenote"
+    },
+    {
+      "name": "simplenote_sustainer",
+      "value": "Simplenote Sustainer"
+    },
+    {
+      "name": "simplenote_ios_feedback",
+      "value": "Feedback over Simplenote voor iOS"
+    },
+    {
+      "name": "simplenote_must_be_configured_and_logged_in_to_setup_widgets",
+      "value": "Simplenote moet worden geconfigureerd en ingelogd bij configuratiewidgets"
+    },
+    {
+      "name": "sorry",
+      "value": "Sorry!"
+    },
+    {
+      "name": "sort_alphabetically",
+      "value": "Alfabetische volgorde"
+    },
+    {
+      "name": "sort_order",
+      "value": "Sorteervolgorde"
+    },
+    {
+      "name": "sort_by",
+      "value": "Sorteren op:"
+    },
+    {
+      "name": "spotlight_history_may_still_appear_in_search_results_but_not",
+      "value": "Spotlight-geschiedenis kan nog steeds in zoekresultaten verschijnen, maar notities zijn niet meer geïndexeerd"
+    },
+    {
+      "name": "status_code",
+      "value": "Statuscode"
+    },
+    {
+      "name": "support_your_favorite_notes_app_to_help_unlock_future_featur",
+      "value": "Steun je favoriete notitie-app en help toekomstige functies mogelijk te maken"
+    },
+    {
+      "name": "sustainer_app_icon",
+      "value": "Sustainer-app-pictogram"
+    },
+    {
+      "name": "sustainer_subscription_restored_thank_you_for_supporting_sim",
+      "value": "Sustainer-abonnement hersteld. Bedankt voor je steun aan Simplenote!"
+    },
+    {
+      "name": "system_default",
+      "value": "Systeemstandaard"
+    },
+    {
+      "name": "tag",
+      "value": "Tag"
+    },
+    {
+      "name": "tag_no_longer_available",
+      "value": "Tag is niet meer beschikbaar"
+    },
+    {
+      "name": "tags",
+      "value": "Tags"
+    },
+    {
+      "name": "tag_3",
+      "value": "Tag…"
+    },
+    {
+      "name": "tap_button_to_select_or_deselect_all_notes",
+      "value": "Tik op de knop om alle notities te selecteren of deselecteren"
+    },
+    {
+      "name": "terms_and_conditions",
+      "value": "Algemene voorwaarden"
+    },
+    {
+      "name": "terms_of_service",
+      "value": "Servicevoorwaarden"
+    },
+    {
+      "name": "thank_you",
+      "value": "Bedankt!"
+    },
+    {
+      "name": "thank_you_for_your_continued_support",
+      "value": "Bedankt voor je voortdurende ondersteuning"
+    },
+    {
+      "name": "the_authentication_code_you_ve_requested_has_expired_please",
+      "value": "De authenticatiecode die je aangevraagd hebt, is verlopen. Vraag een nieuwe aan"
+    },
+    {
+      "name": "the_code_you_ve_entered_is_not_correct_please_try_again",
+      "value": "De code die je hebt ingevuld, is onjuist. Probeer het nog eens"
+    },
+    {
+      "name": "the_email_you_ve_entered_is_already_associated_with_a_simple",
+      "value": "Het e-mailadres dat je hebt ingevoerd, is al gekoppeld aan een Simplenote-account."
+    },
+    {
+      "name": "the_network_could_not_be_reached",
+      "value": "Het netwerk kon niet worden bereikt."
+    },
+    {
+      "name": "the_simplest_way_to_keep_notes",
+      "value": "De eenvoudigste manier om notities bij te houden."
+    },
+    {
+      "name": "theme",
+      "value": "Thema"
+    },
+    {
+      "name": "themes",
+      "value": "Thema's"
+    },
+    {
+      "name": "there_was_an_preparing_your_verification_email_please_try_ag",
+      "value": "Er is een fout opgetreden bij het voorbereiden van je verificatie-e-mail. Probeer het later opnieuw."
+    },
+    {
+      "name": "this_note_was_deleted_on_another_device",
+      "value": "Deze notitie is verwijderd op een ander apparaat"
+    },
+    {
+      "name": "this_password_has_appeared_in_a_data_breach_which_puts_your",
+      "value": "Dit wachtwoord is gelekt tijdens een datalek, waardoor je account gevaar loopt. Om je data te beschermen moet je je wachtwoord bijwerken voordat je je weer mag aanmelden."
+    },
+    {
+      "name": "to_enable_1_you_must_have_a_passcode_setup_first",
+      "value": "Om %1$s in te schakelen, moet je eerst een pincode instellen."
+    },
+    {
+      "name": "to_unlock_the_application",
+      "value": "Om de toepassing te ontgrendelen"
+    },
+    {
+      "name": "today",
+      "value": "Vandaag"
+    },
+    {
+      "name": "toggle_markdown",
+      "value": "Markdown in-\\/uitschakelen"
+    },
+    {
+      "name": "toggle_tag_sidebar",
+      "value": "Tag-sidebar tonen\\/verbergen"
+    },
+    {
+      "name": "too_many_login_attempts",
+      "value": "Te veel aanmeldpogingen"
+    },
+    {
+      "name": "too_many_login_attempts_try_again_later",
+      "value": "Te veel aanmeldpogingen. Probeer het later nog eens."
+    },
+    {
+      "name": "touch_id",
+      "value": "Touch ID"
+    },
+    {
+      "name": "trash",
+      "value": "Prullenbak"
+    },
+    {
+      "name": "trash_notes",
+      "value": "Notities verwijderen"
+    },
+    {
+      "name": "turn_off_passcode",
+      "value": "Wachtwoordcode uitschakelen"
+    },
+    {
+      "name": "undo",
+      "value": "Ongedaan maken"
+    },
+    {
+      "name": "unnamed_tag",
+      "value": "Ongetitelde tag"
+    },
+    {
+      "name": "unpin",
+      "value": "Losgemaakt"
+    },
+    {
+      "name": "unpin_note",
+      "value": "Notitie losmaken"
+    },
+    {
+      "name": "unpublish_note",
+      "value": "Notitie verwijderen"
+    },
+    {
+      "name": "unpublish_successful",
+      "value": "Verwijderd"
+    },
+    {
+      "name": "unpublishing_note",
+      "value": "Notitie verwijderen..."
+    },
+    {
+      "name": "unpublishing",
+      "value": "Verwijderen ..."
+    },
+    {
+      "name": "unsupported",
+      "value": "Niet ondersteund"
+    },
+    {
+      "name": "unsynced_notes_detected",
+      "value": "Ongesynchroniseerde notities gedetecteerd"
+    },
+    {
+      "name": "untagged",
+      "value": "Tag verwijderd"
+    },
+    {
+      "name": "untagged_notes",
+      "value": "Niet-getagde notities"
+    },
+    {
+      "name": "username",
+      "value": "Gebruikersnaam"
+    },
+    {
+      "name": "verify_your_email",
+      "value": "Verifieer je e-mail"
+    },
+    {
+      "name": "version",
+      "value": "Versie %s"
+    },
+    {
+      "name": "visit_web_app",
+      "value": "Web-app bezoeken"
+    },
+    {
+      "name": "we_ll_email_you_a_code_to_log_in_or_you_can",
+      "value": "We sturen je via e-mail een code die je kan gebruiken om in te loggen, of je kan"
+    },
+    {
+      "name": "we_re_having_problems_please_try_again_soon",
+      "value": "We ondervinden wat problemen. Probeer het later opnieuw."
+    },
+    {
+      "name": "we_ve_sent_a_code_to_email_the_code_will_be_valid_for_a_few",
+      "value": "We hebben een code gestuurd naar {{EMAIL}}. De code is een paar minuten geldig."
+    },
+    {
+      "name": "websocket",
+      "value": "WebSocket"
+    },
+    {
+      "name": "we_ve_sent_a_verification_email_to_1_please_check_your_inbox",
+      "value": "We hebben een verificatiemail verzonden naar %1$s. Controleer je postvak IN en volg de instructies."
+    },
+    {
+      "name": "we_ve_sent_an_email_to_1_please_check_your_inbox_and_follow",
+      "value": "We hebben een e-mail verzonden naar %1$s. Controleer je postvak IN en volg de instructies."
+    },
+    {
+      "name": "what_do_you_think_about_simplenote",
+      "value": "Wat vind je van Simplenote?"
+    },
+    {
+      "name": "will_attempt_to_recover_shortcut_content_on_next_launch",
+      "value": "Bij het opstarten wordt geprobeerd de shortcut-inhoud te herstellen"
+    },
+    {
+      "name": "words",
+      "value": "Woorden"
+    },
+    {
+      "name": "yes",
+      "value": "Ja"
+    },
+    {
+      "name": "yesterday",
+      "value": "Gisteren"
+    },
+    {
+      "name": "you_are_a_simplenote_sustainer",
+      "value": "Je bent een Simplenote Sustainer!"
+    },
+    {
+      "name": "you_are_registered_with_simplenote_using_the_email_1_improve",
+      "value": "Je staat geregistreerd bij Simplenote met het e-mailadres %1$s.\n\nVerbeteringen aan accountbeveiliging kunnen leiden tot accountverlies als je geen toegang meer hebt tot dit e-mailadres."
+    },
+    {
+      "name": "you_must_verify_your_email_before_being_able_to_login",
+      "value": "Je moet je e-mailadres verifiëren voordat je kunt inloggen."
+    },
+    {
+      "name": "you_re_already_a_sustainer_thank_you_for_supporting_simpleno",
+      "value": "Je bent al een Sustainer. Bedankt voor je steun aan Simplenote!"
+    },
+    {
+      "name": "your_authentication_code_has_expired_please_request_a_new_on",
+      "value": "Je authenticatiecode is verlopen. Vraag een nieuwe aan"
+    },
+    {
+      "name": "your_email_address_is_not_valid",
+      "value": "Je e-mailadres is niet geldig."
+    },
+    {
+      "name": "your_password_is_insecure_and_must_be_reset_the_password_req",
+      "value": "Je wachtwoord is onveilig en moet opnieuw worden ingesteld. De wachtwoordvereisten zijn:"
+    },
+    {
+      "name": "your_trash_is_empty",
+      "value": "Je prullenbak is leeg"
+    },
+    {
+      "name": "log_in_manually",
+      "value": "handmatig inloggen."
+    },
+    {
+      "name": "tag_2",
+      "value": "tag:"
+    },
+    {
+      "name": "debug_enabled",
+      "value": "🐞 Debug ingeschakeld 🐞"
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "string": [
+    {
+      "name": "d_result",
+      "value": "%d Canlyniad"
+    },
+    {
+      "name": "d_results",
+      "value": "%d Canlyniad "
+    },
+    {
+      "name": "i_failed_passcode_attempt",
+      "value": "%d Ymgais Aflwyddiannus gyda'r Cod Cyfrin"
+    },
+    {
+      "name": "i_failed_passcode_attempts",
+      "value": "%d Ymgais Aflwyddiannus gyda'r Cod Cyfrin"
+    },
+    {
+      "name": "accept",
+      "value": "Derbyn"
+    },
+    {
+      "name": "account",
+      "value": "Cyfrif"
+    },
+    {
+      "name": "add_a_new_collaborator",
+      "value": "Ychwanegu cydweithredwr newydd..."
+    },
+    {
+      "name": "add_tag",
+      "value": "Ychwanegu tag"
+    },
+    {
+      "name": "all_notes",
+      "value": "Pob Nodyn"
+    },
+    {
+      "name": "blog",
+      "value": "Blog"
+    },
+    {
+      "name": "cancel",
+      "value": "Canslo"
+    },
+    {
+      "name": "collaborate",
+      "value": "Cydweithredu"
+    },
+    {
+      "name": "collaborators",
+      "value": "Cydweithredwyr"
+    },
+    {
+      "name": "condensed_note_list",
+      "value": "Rhestr Gryno o Nodiadau"
+    },
+    {
+      "name": "confirm",
+      "value": "Cadarnhau"
+    },
+    {
+      "name": "could_be_better",
+      "value": "Gallai Fod yn Well"
+    },
+    {
+      "name": "could_not_create_an_account_with_the_provided_email_address",
+      "value": "Nid oedd modd creu cyfrif gyda'r cyfeiriad e-bost a chyfrinair a ddarparwyd."
+    },
+    {
+      "name": "could_not_login_with_the_provided_email_address_and_password",
+      "value": "Nid oedd modd mewngofnodi gyda'r cyfeiriad e-bost a chyfrinair a ddarparwyd. "
+    },
+    {
+      "name": "could_you_tell_us_how_we_could_improve",
+      "value": "Dwedwch wrthym sut y gallwn ni ei wella?"
+    },
+    {
+      "name": "create_a_new_note_2",
+      "value": "Creu nodyn newydd"
+    },
+    {
+      "name": "current_collaborators",
+      "value": "Cydweithredwyr Cyfredol"
+    },
+    {
+      "name": "debug",
+      "value": "Dadfygio"
+    },
+    {
+      "name": "delete",
+      "value": "Dileu"
+    },
+    {
+      "name": "delete_tag",
+      "value": "Dileu tag"
+    },
+    {
+      "name": "dismiss",
+      "value": "Cau"
+    },
+    {
+      "name": "dismiss_keyboard",
+      "value": "Cau'r bysellfwrdd"
+    },
+    {
+      "name": "done",
+      "value": "Gorffen"
+    },
+    {
+      "name": "email",
+      "value": "E-bost"
+    },
+    {
+      "name": "empty",
+      "value": "Gwagio"
+    },
+    {
+      "name": "empty_trash",
+      "value": "Clirio'r sbwriel"
+    },
+    {
+      "name": "enter_your_passcode",
+      "value": "Rhowch eich cod cyfrin"
+    },
+    {
+      "name": "error",
+      "value": "Gwall"
+    },
+    {
+      "name": "history",
+      "value": "Hanes"
+    },
+    {
+      "name": "i_like_it",
+      "value": "Rydw i'n ei Hoffi"
+    },
+    {
+      "name": "leave_a_review",
+      "value": "Gadael Adolygiad"
+    },
+    {
+      "name": "mmm_d",
+      "value": "MMM d"
+    },
+    {
+      "name": "mmm_d_h_mm_a",
+      "value": "MMM d, h:mm a"
+    },
+    {
+      "name": "mmm_d_yyyy",
+      "value": "MMM d, yyyy"
+    },
+    {
+      "name": "mmm_yyyy",
+      "value": "MMM yyyy"
+    },
+    {
+      "name": "menu",
+      "value": "Dewislen"
+    },
+    {
+      "name": "new_note_2",
+      "value": "Nodyn newydd"
+    },
+    {
+      "name": "no_results",
+      "value": "Dim Canlyniadau"
+    },
+    {
+      "name": "no_thanks",
+      "value": "Dim Diolch"
+    },
+    {
+      "name": "notes",
+      "value": "Nodiadau"
+    },
+    {
+      "name": "ok",
+      "value": "IAWN"
+    },
+    {
+      "name": "off",
+      "value": "I ffwrdd"
+    },
+    {
+      "name": "on",
+      "value": "Ymlaen"
+    },
+    {
+      "name": "open_note",
+      "value": "Agor nodyn"
+    },
+    {
+      "name": "passcode",
+      "value": "Cod cyfrin"
+    },
+    {
+      "name": "passcodes_did_not_match_try_again",
+      "value": "Nid oedd y codau cyfrin yn cyfateb. Rhowch gynnig arall arni."
+    },
+    {
+      "name": "password",
+      "value": "Cyfrinair"
+    },
+    {
+      "name": "password_must_contain_at_least_d_characters",
+      "value": "Rhaid i'r cyfrinair gynnwys o leiaf %d nod."
+    },
+    {
+      "name": "pin_note",
+      "value": "Pinio'r nodyn"
+    },
+    {
+      "name": "pin_to_top",
+      "value": "Pinio'r i'r top"
+    },
+    {
+      "name": "preview",
+      "value": "Rhagolwg"
+    },
+    {
+      "name": "publish",
+      "value": "Cyhoeddi"
+    },
+    {
+      "name": "publish_note",
+      "value": "Cyhoeddi nodyn"
+    },
+    {
+      "name": "publishing",
+      "value": "Wrthi'n cyhoeddi..."
+    },
+    {
+      "name": "rate_us",
+      "value": "Pa mor dda?"
+    },
+    {
+      "name": "remove_all_notes_from_trash",
+      "value": "Cael gwared â'r holl nodiadau o'r sbwriel"
+    },
+    {
+      "name": "rename",
+      "value": "Ailenwi"
+    },
+    {
+      "name": "restore_note",
+      "value": "Adfer Nodyn"
+    },
+    {
+      "name": "save",
+      "value": "Cadw"
+    },
+    {
+      "name": "security",
+      "value": "Diogelwch"
+    },
+    {
+      "name": "send_feedback",
+      "value": "Anfon Adborth"
+    },
+    {
+      "name": "settings",
+      "value": "Gosodiadau"
+    },
+    {
+      "name": "share",
+      "value": "Rhannu"
+    },
+    {
+      "name": "sidebar",
+      "value": "Bar ochr"
+    },
+    {
+      "name": "sign_up",
+      "value": "Cofrestru"
+    },
+    {
+      "name": "signing_out_will_delete_any_unsynced_notes_you_can_verify_yo",
+      "value": "Bydd all-gofnodi'n dileu unrhyw nodau heb eu cydweddu. Gallwch ddilysu eich nodau wedi eu cydweddu drwy fewngofnodi i'r Web App."
+    },
+    {
+      "name": "sort_order",
+      "value": "Trefn didoli"
+    },
+    {
+      "name": "theme",
+      "value": "Thema"
+    },
+    {
+      "name": "today",
+      "value": "Heddiw"
+    },
+    {
+      "name": "toggle_tag_sidebar",
+      "value": "Bar ochr toglo tagiau"
+    },
+    {
+      "name": "touch_id",
+      "value": "Enw Cyffwrdd"
+    },
+    {
+      "name": "trash",
+      "value": "Sbwriel"
+    },
+    {
+      "name": "turn_off_passcode",
+      "value": "Diffodd y cod cyfrin"
+    },
+    {
+      "name": "undo",
+      "value": "Dadwneud"
+    },
+    {
+      "name": "unpin_note",
+      "value": "Dadbinio'r nodyn"
+    },
+    {
+      "name": "unpublish_note",
+      "value": "Dad-gyhoeddi'r nodyn"
+    },
+    {
+      "name": "unpublishing",
+      "value": "Wrthi'n dad-gyhoeddi..."
+    },
+    {
+      "name": "unsynced_notes_detected",
+      "value": "Wedi Canfod Nodau Heb eu Cydweddu"
+    },
+    {
+      "name": "what_do_you_think_about_simplenote",
+      "value": "Beth ydych chi'n ei feddwl Simplenote?"
+    },
+    {
+      "name": "words",
+      "value": "Gair"
+    },
+    {
+      "name": "yesterday",
+      "value": "Ddoe"
+    },
+    {
+      "name": "your_email_address_is_not_valid",
+      "value": "Nid yw eich cyfeiriad e-bost yn ddilys."
+    }
+  ]
+}

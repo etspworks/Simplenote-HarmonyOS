@@ -1,0 +1,1340 @@
+{
+  "string": [
+    {
+      "name": "d_result",
+      "value": "%d 個搜尋結果"
+    },
+    {
+      "name": "d_results",
+      "value": "%d 個搜尋結果"
+    },
+    {
+      "name": "i_failed_passcode_attempt",
+      "value": "嘗試輸入密碼失敗 %d 次"
+    },
+    {
+      "name": "i_failed_passcode_attempts",
+      "value": "嘗試輸入密碼失敗 %d 次"
+    },
+    {
+      "name": "i_note_trashed",
+      "value": "%d 筆記已移至垃圾桶"
+    },
+    {
+      "name": "i_notes_trashed",
+      "value": "%d 筆記已移至垃圾桶"
+    },
+    {
+      "name": "i_reference",
+      "value": "%d 參考"
+    },
+    {
+      "name": "i_references",
+      "value": "%d 參考資料"
+    },
+    {
+      "name": "i_selected",
+      "value": "%d 已選取"
+    },
+    {
+      "name": "minimum_of_8_characters",
+      "value": "- 長度至少為 8 個字元"
+    },
+    {
+      "name": "neither_tabs_nor_newlines_are_allowed",
+      "value": "- 不得包含定位字元或換行"
+    },
+    {
+      "name": "password_cannot_match_email",
+      "value": "- 密碼不能和電子郵件地址相同"
+    },
+    {
+      "name": "s_1_minute",
+      "value": "1 分鐘"
+    },
+    {
+      "name": "s_15_seconds",
+      "value": "15 秒"
+    },
+    {
+      "name": "s_2_minutes",
+      "value": "2 分鐘"
+    },
+    {
+      "name": "s_3_minutes",
+      "value": "3 分鐘"
+    },
+    {
+      "name": "s_30_seconds",
+      "value": "30 秒"
+    },
+    {
+      "name": "s_4_minutes",
+      "value": "4 分鐘"
+    },
+    {
+      "name": "s_5_minutes",
+      "value": "5 分鐘"
+    },
+    {
+      "name": "a_network_connection_is_required_please_check_your_connectio",
+      "value": "需要網路連線。 請檢查你的連線並再試一次。"
+    },
+    {
+      "name": "about",
+      "value": "關於"
+    },
+    {
+      "name": "accept",
+      "value": "接受"
+    },
+    {
+      "name": "account",
+      "value": "帳號"
+    },
+    {
+      "name": "account_verification_required",
+      "value": "帳號需要驗證"
+    },
+    {
+      "name": "add_a_new_collaborator",
+      "value": "新增協作者…"
+    },
+    {
+      "name": "add_a_tag_to_the_current_note",
+      "value": "將標籤新增至目前筆記"
+    },
+    {
+      "name": "add_an_email_address_to_share_this_note_with_someone_then_yo",
+      "value": "新增電子郵件地址，將此筆記與他人分享。 這樣雙方都能變更筆記內容。"
+    },
+    {
+      "name": "add_tag",
+      "value": "新增標籤"
+    },
+    {
+      "name": "all_notes",
+      "value": "所有筆記"
+    },
+    {
+      "name": "an_email_has_been_sent_to_check_your_inbox_and_follow_the_in",
+      "value": "電子郵件已傳送至 %s。請檢查你的收件匣，並按照說明確認刪除帳號。\n\n在收到你的確認之前，我們不會刪除你的帳號"
+    },
+    {
+      "name": "an_error_occured_please_try_again_if_the_problem_continues_c",
+      "value": "發生錯誤。 請再試一次。 如果問題持續發生，請聯絡我們尋求協助：support@simplenote.com。"
+    },
+    {
+      "name": "an_error_was_encountered_while_signing_in",
+      "value": "登入時發生錯誤。"
+    },
+    {
+      "name": "appearance",
+      "value": "外觀"
+    },
+    {
+      "name": "are_you_a_developer_we_re_hiring",
+      "value": "你是開發人員嗎？ 我們在招募人才。"
+    },
+    {
+      "name": "are_you_sure_you_want_to_delete_1",
+      "value": "是否確定要刪除「%1$s」？"
+    },
+    {
+      "name": "are_you_sure_you_want_to_empty_the_trash_this_cannot_be_undo",
+      "value": "確定要清空垃圾桶？此動作無法復原。"
+    },
+    {
+      "name": "attempt_to_fetch_current_note_content_failed_please_try_agai",
+      "value": "嘗試擷取目前備註內容失敗。  請稍後再試。"
+    },
+    {
+      "name": "attempt_to_fetch_entities_failed_please_try_again_later",
+      "value": "嘗試擷取實體失敗。  請稍後再試一次。"
+    },
+    {
+      "name": "attempt_to_fetch_notes_failed_please_try_again_later",
+      "value": "嘗試擷取備註失敗。  請稍後再試。"
+    },
+    {
+      "name": "attempt_to_fetch_tags_failed_please_try_again_later",
+      "value": "嘗試擷取標籤失敗。  請稍後再試。"
+    },
+    {
+      "name": "authenticated",
+      "value": "已驗證"
+    },
+    {
+      "name": "become_a_simplenote_sustainer",
+      "value": "成為 Simplenote Sustainer"
+    },
+    {
+      "name": "blog",
+      "value": "網誌"
+    },
+    {
+      "name": "by_creating_an_account_you_agree_to_our",
+      "value": "建立帳號即表示你同意我們的"
+    },
+    {
+      "name": "by_deleting_the_account_for_all_notes_created_with_this_acco",
+      "value": "若刪除 %s 的帳號，此帳號建立的所有筆記將永久刪除。 此動作無法復原"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "cancel_share",
+      "value": "取消分享"
+    },
+    {
+      "name": "cannot_confirm_account",
+      "value": "無法確認帳號"
+    },
+    {
+      "name": "cannot_send_verification_email",
+      "value": "無法傳送驗證電子郵件"
+    },
+    {
+      "name": "careers",
+      "value": "工作機會"
+    },
+    {
+      "name": "change_email",
+      "value": "變更電子郵件"
+    },
+    {
+      "name": "change_password",
+      "value": "變更密碼"
+    },
+    {
+      "name": "characters",
+      "value": "字元"
+    },
+    {
+      "name": "check_your_email",
+      "value": "請檢查電子郵件"
+    },
+    {
+      "name": "check_your_email_2",
+      "value": "請檢查電子郵件"
+    },
+    {
+      "name": "choose_a_4_digit_passcode",
+      "value": "選擇 4 位數的密碼"
+    },
+    {
+      "name": "code",
+      "value": "程式碼"
+    },
+    {
+      "name": "collaborate",
+      "value": "協作"
+    },
+    {
+      "name": "collaboration_has_moved",
+      "value": "協作已移動"
+    },
+    {
+      "name": "collaborators",
+      "value": "協作者"
+    },
+    {
+      "name": "compromised_password",
+      "value": "密碼遭洩漏"
+    },
+    {
+      "name": "condensed_note_list",
+      "value": "精簡版筆記清單"
+    },
+    {
+      "name": "confirm",
+      "value": "確認"
+    },
+    {
+      "name": "confirm_your_passcode",
+      "value": "確認你的密碼"
+    },
+    {
+      "name": "contribute",
+      "value": "參與"
+    },
+    {
+      "name": "copy_internal_link",
+      "value": "複製內部連結"
+    },
+    {
+      "name": "copy_link_2",
+      "value": "複製連結"
+    },
+    {
+      "name": "copy_link",
+      "value": "複製連結"
+    },
+    {
+      "name": "could_be_better",
+      "value": "可以再好一點"
+    },
+    {
+      "name": "could_not_create_an_account_with_the_provided_email_address",
+      "value": "無法使用提供的電子郵件地址和密碼建立帳號。"
+    },
+    {
+      "name": "could_not_delete_tag",
+      "value": "無法刪除標籤"
+    },
+    {
+      "name": "could_not_fetch_notes",
+      "value": "無法擷取備註"
+    },
+    {
+      "name": "could_not_fetch_tags",
+      "value": "無法擷取標籤"
+    },
+    {
+      "name": "could_not_fetch_entities",
+      "value": "無法擷取實體"
+    },
+    {
+      "name": "could_not_fetch_note_content",
+      "value": "無法擷取備註內容"
+    },
+    {
+      "name": "could_not_login_with_the_provided_email_address_and_password",
+      "value": "無法使用提供的電子郵件地址和密碼登入。"
+    },
+    {
+      "name": "could_you_tell_us_how_we_could_improve",
+      "value": "你可以告訴我們哪裡該改進嗎？"
+    },
+    {
+      "name": "couldn_t_retrieve_history",
+      "value": "無法擷取歷史記錄"
+    },
+    {
+      "name": "couldn_t_sign_in",
+      "value": "無法登入"
+    },
+    {
+      "name": "create_a_new_note",
+      "value": "建立新筆記"
+    },
+    {
+      "name": "create_a_new_note_2",
+      "value": "建立新筆記"
+    },
+    {
+      "name": "create_a_new_note_instantly_with_one_tap",
+      "value": "按一下就能立即建立新筆記。"
+    },
+    {
+      "name": "create_a_new_note_titled",
+      "value": "建立標題為「%s」的新筆記"
+    },
+    {
+      "name": "create_your_first_note",
+      "value": "建立第一篇筆記"
+    },
+    {
+      "name": "created",
+      "value": "建立時間"
+    },
+    {
+      "name": "created_newest",
+      "value": "建立時間：最新"
+    },
+    {
+      "name": "created_oldest",
+      "value": "建立時間：最舊"
+    },
+    {
+      "name": "current_collaborators",
+      "value": "目前協作者"
+    },
+    {
+      "name": "dark",
+      "value": "深色系"
+    },
+    {
+      "name": "debug",
+      "value": "偵錯"
+    },
+    {
+      "name": "debug_disabled",
+      "value": "偵錯模式已停用"
+    },
+    {
+      "name": "delete",
+      "value": "刪除"
+    },
+    {
+      "name": "delete_account",
+      "value": "刪除帳號"
+    },
+    {
+      "name": "delete_note",
+      "value": "刪除筆記"
+    },
+    {
+      "name": "delete_notes",
+      "value": "刪除筆記"
+    },
+    {
+      "name": "delete_tag",
+      "value": "刪除標籤"
+    },
+    {
+      "name": "deselect_all",
+      "value": "取消全選"
+    },
+    {
+      "name": "diagnostics",
+      "value": "診斷"
+    },
+    {
+      "name": "didn_t_get_an_email_there_may_already_be_an_account_associat",
+      "value": "沒收到電子郵件嗎？ 可能已有一個與此電子郵件地址關聯的帳號。 請與 %1$s 聯絡尋求協助。"
+    },
+    {
+      "name": "disable_markdown_formatting",
+      "value": "停用 Markdown 格式"
+    },
+    {
+      "name": "dismiss",
+      "value": "關閉"
+    },
+    {
+      "name": "dismiss_history",
+      "value": "關閉歷史記錄"
+    },
+    {
+      "name": "dismiss_information",
+      "value": "關閉資訊"
+    },
+    {
+      "name": "dismiss_keyboard",
+      "value": "收起鍵盤"
+    },
+    {
+      "name": "document",
+      "value": "內容"
+    },
+    {
+      "name": "done",
+      "value": "完成"
+    },
+    {
+      "name": "edit",
+      "value": "編輯"
+    },
+    {
+      "name": "email",
+      "value": "電子郵件"
+    },
+    {
+      "name": "email_in_use",
+      "value": "電子郵件地址已有人使用"
+    },
+    {
+      "name": "empty",
+      "value": "清空"
+    },
+    {
+      "name": "empty_trash",
+      "value": "清空垃圾桶"
+    },
+    {
+      "name": "enable_markdown_formatting",
+      "value": "啟用 Markdown 格式"
+    },
+    {
+      "name": "end_editing",
+      "value": "結束編輯"
+    },
+    {
+      "name": "enqueued",
+      "value": "加入佇列"
+    },
+    {
+      "name": "enter_code",
+      "value": "輸入驗證碼"
+    },
+    {
+      "name": "enter_password",
+      "value": "輸入密碼"
+    },
+    {
+      "name": "enter_the_password_for_the_account_email",
+      "value": "輸入 {{EMAIL}} 帳號的密碼"
+    },
+    {
+      "name": "enter_your_passcode",
+      "value": "輸入你的密碼"
+    },
+    {
+      "name": "error",
+      "value": "錯誤"
+    },
+    {
+      "name": "faq_or_contact_us",
+      "value": "常見問題集或與我們聯絡"
+    },
+    {
+      "name": "face_id",
+      "value": "Face ID"
+    },
+    {
+      "name": "fetching_version",
+      "value": "正在擷取版本"
+    },
+    {
+      "name": "forgot_your_password",
+      "value": "忘記密碼？"
+    },
+    {
+      "name": "get_help",
+      "value": "取得協助"
+    },
+    {
+      "name": "get_quick_access_to_a_list_of_all_notes_or_based_on_the_sele",
+      "value": "快速存取筆記總表或根據選取的標籤列出的清單"
+    },
+    {
+      "name": "get_quick_access_to_one_of_your_notes",
+      "value": "快速存取其中一份筆記。"
+    },
+    {
+      "name": "great_mind_leaving_a_review_to_tell_us_what_you_like",
+      "value": "太棒了！是否能留下評論，告訴我們你喜歡哪些部分？"
+    },
+    {
+      "name": "help",
+      "value": "幫助"
+    },
+    {
+      "name": "help_us_improve_simplenote_by_sharing_usage_data_with_our_an",
+      "value": "請透過我們的分析工具分享使用情形資料，協助我們改善 Simplenote。"
+    },
+    {
+      "name": "history",
+      "value": "歷史紀錄"
+    },
+    {
+      "name": "i_like_it",
+      "value": "我喜歡"
+    },
+    {
+      "name": "index_notes_in_spotlight",
+      "value": "焦點中的索引備註"
+    },
+    {
+      "name": "index_removed",
+      "value": "已移除索引"
+    },
+    {
+      "name": "information",
+      "value": "資訊"
+    },
+    {
+      "name": "insert_checklist",
+      "value": "插入檢查清單"
+    },
+    {
+      "name": "inserts_a_new_checklist_item",
+      "value": "插入新的檢查清單項目"
+    },
+    {
+      "name": "last_modified_1",
+      "value": "最後修改時間：%1$s"
+    },
+    {
+      "name": "lastseen",
+      "value": "上次上線"
+    },
+    {
+      "name": "learn_more",
+      "value": "瞭解更多"
+    },
+    {
+      "name": "leave_a_review",
+      "value": "留下評語"
+    },
+    {
+      "name": "light",
+      "value": "淡色系"
+    },
+    {
+      "name": "link_copied",
+      "value": "已複製連結"
+    },
+    {
+      "name": "lock_timeout",
+      "value": "鎖定逾時"
+    },
+    {
+      "name": "log_in",
+      "value": "登入"
+    },
+    {
+      "name": "log_in_with_password",
+      "value": "使用密碼登入"
+    },
+    {
+      "name": "log_out",
+      "value": "登出"
+    },
+    {
+      "name": "log_in_to_see_your_notes",
+      "value": "你需要登入才能查看筆記"
+    },
+    {
+      "name": "log_in_with_wordpress_com",
+      "value": "透過 WordPress.com 登入"
+    },
+    {
+      "name": "log_in_with_email",
+      "value": "透過電子郵件登入"
+    },
+    {
+      "name": "log_in_with_email_failed_please_enter_your_password",
+      "value": "透過電子郵件地址登入失敗，請輸入你的密碼"
+    },
+    {
+      "name": "login_code_is_too_short",
+      "value": "登入碼過短"
+    },
+    {
+      "name": "mmm_d",
+      "value": "MMM d"
+    },
+    {
+      "name": "mmm_d_h_mm_a",
+      "value": "MMM d, h:mm a"
+    },
+    {
+      "name": "mmm_d_yyyy",
+      "value": "MMM d, yyyy"
+    },
+    {
+      "name": "mmm_yyyy",
+      "value": "MMM yyyy"
+    },
+    {
+      "name": "main_app_is_not_configured",
+      "value": "你還沒設定主要應用程式"
+    },
+    {
+      "name": "markdown",
+      "value": "Markdown"
+    },
+    {
+      "name": "menu",
+      "value": "選單"
+    },
+    {
+      "name": "modified",
+      "value": "修改時間"
+    },
+    {
+      "name": "modified_newest",
+      "value": "修改時間：最新"
+    },
+    {
+      "name": "modified_oldest",
+      "value": "修改時間：最舊"
+    },
+    {
+      "name": "move_selected_notes_to_trash",
+      "value": "將選取的筆記移至垃圾桶"
+    },
+    {
+      "name": "move_to_trash",
+      "value": "移至垃圾桶"
+    },
+    {
+      "name": "name_a_z",
+      "value": "名稱：A 到 Z"
+    },
+    {
+      "name": "name_z_a",
+      "value": "名稱：Z 到 A"
+    },
+    {
+      "name": "new_note",
+      "value": "新增筆記"
+    },
+    {
+      "name": "new_note_4",
+      "value": "新增筆記…"
+    },
+    {
+      "name": "new_note_2",
+      "value": "新增筆記"
+    },
+    {
+      "name": "new_note_3",
+      "value": "新筆記..."
+    },
+    {
+      "name": "next_match",
+      "value": "下一個符合項目"
+    },
+    {
+      "name": "no",
+      "value": "否"
+    },
+    {
+      "name": "no_results",
+      "value": "沒有任何搜尋結果"
+    },
+    {
+      "name": "no_simplenote_account",
+      "value": "沒有 Simplenote 帳號"
+    },
+    {
+      "name": "no_notes_tagged",
+      "value": "沒有標籤為「%s」的筆記"
+    },
+    {
+      "name": "no_previous_valid_purchases_found_for_the_current_period",
+      "value": "針對目前的期間，找不到先前有效的購買項目"
+    },
+    {
+      "name": "no_purchases_found",
+      "value": "找不到購買項目"
+    },
+    {
+      "name": "no_thanks",
+      "value": "不用了，謝謝"
+    },
+    {
+      "name": "no_untagged_notes",
+      "value": "沒有未標籤筆記"
+    },
+    {
+      "name": "note",
+      "value": "備註"
+    },
+    {
+      "name": "note_list",
+      "value": "筆記清單"
+    },
+    {
+      "name": "note_trashed",
+      "value": "筆記已移至垃圾桶"
+    },
+    {
+      "name": "note_no_longer_available",
+      "value": "筆記已無法使用"
+    },
+    {
+      "name": "notes",
+      "value": "筆記"
+    },
+    {
+      "name": "ok",
+      "value": "確定"
+    },
+    {
+      "name": "off",
+      "value": "關閉"
+    },
+    {
+      "name": "ok_2",
+      "value": "確定"
+    },
+    {
+      "name": "okay",
+      "value": "確定"
+    },
+    {
+      "name": "on",
+      "value": "開啟"
+    },
+    {
+      "name": "open_simplenote",
+      "value": "開啟 Simplenote"
+    },
+    {
+      "name": "open_note",
+      "value": "開啟筆記"
+    },
+    {
+      "name": "options",
+      "value": "選項"
+    },
+    {
+      "name": "or",
+      "value": "或者"
+    },
+    {
+      "name": "passcode",
+      "value": "密碼"
+    },
+    {
+      "name": "passcodes_did_not_match_try_again",
+      "value": "密碼不相符。請再試一次。"
+    },
+    {
+      "name": "password",
+      "value": "密碼"
+    },
+    {
+      "name": "password_cannot_match_email_2",
+      "value": "密碼不能和電子郵件地址相同"
+    },
+    {
+      "name": "password_must_contain_at_least_d_characters",
+      "value": "密碼必須包含至少 %d 個字元"
+    },
+    {
+      "name": "password_must_not_contain_tabs_nor_newlines",
+      "value": "密碼不得包含定位字元或換行"
+    },
+    {
+      "name": "pendings",
+      "value": "待確認"
+    },
+    {
+      "name": "pin_note",
+      "value": "釘選筆記"
+    },
+    {
+      "name": "pin_to_top",
+      "value": "釘選至最上方"
+    },
+    {
+      "name": "please_activate_your_wordpress_com_account_via_email_and_try",
+      "value": "請透過電子郵件啟用你的 WordPress.com 帳號，並再試一次。"
+    },
+    {
+      "name": "please_check_your_network_settings_and_try_again",
+      "value": "請檢查您的網路設定，然後再試一次。"
+    },
+    {
+      "name": "please_log_into_your_simplenote_account_first_by_using_the_s",
+      "value": "請先使用 Simplenote 應用程式登入 Simplenote 帳號。"
+    },
+    {
+      "name": "please_try_again",
+      "value": "請再試一次"
+    },
+    {
+      "name": "please_upgrade_to_the_latest_ios_release_to_restore_purchase",
+      "value": "請升級至最新 iOS 版本以恢復購買"
+    },
+    {
+      "name": "preview",
+      "value": "預覽"
+    },
+    {
+      "name": "previous_match",
+      "value": "上一個符合項目"
+    },
+    {
+      "name": "privacy_notice_for_california_users",
+      "value": "加州使用者的隱私權聲明"
+    },
+    {
+      "name": "privacy_policy",
+      "value": "隱私權政策"
+    },
+    {
+      "name": "privacy_settings",
+      "value": "隱私權設定"
+    },
+    {
+      "name": "publish",
+      "value": "發表"
+    },
+    {
+      "name": "publish_successful",
+      "value": "發表成功"
+    },
+    {
+      "name": "publish_note",
+      "value": "發表筆記"
+    },
+    {
+      "name": "publishing_note",
+      "value": "正在發表筆記…"
+    },
+    {
+      "name": "publishing",
+      "value": "正在發表…"
+    },
+    {
+      "name": "rate_us",
+      "value": "幫我們評分"
+    },
+    {
+      "name": "reachability",
+      "value": "可達性"
+    },
+    {
+      "name": "recent",
+      "value": "最近的"
+    },
+    {
+      "name": "recovered_note_cotent",
+      "value": "已還原的備註內容 - "
+    },
+    {
+      "name": "referenced_in",
+      "value": "參考位置"
+    },
+    {
+      "name": "remove_all_notes_from_trash",
+      "value": "移除垃圾桶的所有筆記"
+    },
+    {
+      "name": "remove_tag_from_the_current_note",
+      "value": "移除目前筆記的標籤"
+    },
+    {
+      "name": "rename",
+      "value": "重新命名"
+    },
+    {
+      "name": "request_account_deletion",
+      "value": "要求刪除帳號"
+    },
+    {
+      "name": "request_error",
+      "value": "要求錯誤"
+    },
+    {
+      "name": "resend_email",
+      "value": "重新傳送電子郵件"
+    },
+    {
+      "name": "resend_verification_email",
+      "value": "重新傳送驗證電子郵件"
+    },
+    {
+      "name": "reset",
+      "value": "重設"
+    },
+    {
+      "name": "reset_required",
+      "value": "需要重設"
+    },
+    {
+      "name": "response",
+      "value": "回應"
+    },
+    {
+      "name": "restore_note",
+      "value": "還原筆記"
+    },
+    {
+      "name": "review_your_account",
+      "value": "檢閱你的帳號"
+    },
+    {
+      "name": "save",
+      "value": "儲存"
+    },
+    {
+      "name": "search",
+      "value": "搜尋"
+    },
+    {
+      "name": "search_by_tag",
+      "value": "依標籤搜尋"
+    },
+    {
+      "name": "search_notes_or_tags",
+      "value": "搜尋筆記或標籤"
+    },
+    {
+      "name": "security",
+      "value": "安全性"
+    },
+    {
+      "name": "select",
+      "value": "選取"
+    },
+    {
+      "name": "select_all",
+      "value": "全部選取"
+    },
+    {
+      "name": "select_a_version",
+      "value": "選取版本"
+    },
+    {
+      "name": "send_a_test_crash",
+      "value": "傳送故障測試"
+    },
+    {
+      "name": "send_feedback",
+      "value": "傳送回饋意見"
+    },
+    {
+      "name": "set_up_passcode",
+      "value": "設定密碼"
+    },
+    {
+      "name": "settings",
+      "value": "設定"
+    },
+    {
+      "name": "share",
+      "value": "分享"
+    },
+    {
+      "name": "share_analytics",
+      "value": "分享分析資料"
+    },
+    {
+      "name": "share_2",
+      "value": "分享…"
+    },
+    {
+      "name": "sharing_notes_is_now_accessed_through_the_action_menu_from_t",
+      "value": "你現可從工具列的動作選單存取分享筆記。"
+    },
+    {
+      "name": "sidebar",
+      "value": "側選單"
+    },
+    {
+      "name": "sign_up",
+      "value": "註冊"
+    },
+    {
+      "name": "signing_out_will_delete_any_unsynced_notes_you_can_verify_yo",
+      "value": "登出將會刪除任何尚未同步的備註。登入網頁應用程式即可驗證已同步的備註。"
+    },
+    {
+      "name": "simplenote",
+      "value": "Simplenote"
+    },
+    {
+      "name": "simplenote_sustainer",
+      "value": "Simplenote Sustainer"
+    },
+    {
+      "name": "simplenote_ios_feedback",
+      "value": "iOS 版 Simplenote 意見回饋"
+    },
+    {
+      "name": "simplenote_must_be_configured_and_logged_in_to_setup_widgets",
+      "value": "你必須設定並登入 Simplenote 才能設定小工具"
+    },
+    {
+      "name": "sorry",
+      "value": "很抱歉！"
+    },
+    {
+      "name": "sort_alphabetically",
+      "value": "依英文字母排序"
+    },
+    {
+      "name": "sort_order",
+      "value": "排序"
+    },
+    {
+      "name": "sort_by",
+      "value": "排序依據："
+    },
+    {
+      "name": "spotlight_history_may_still_appear_in_search_results_but_not",
+      "value": "焦點記錄可能仍會在搜尋結果中顯示，但備註已取消索引"
+    },
+    {
+      "name": "status_code",
+      "value": "狀態代碼"
+    },
+    {
+      "name": "support_your_favorite_notes_app_to_help_unlock_future_featur",
+      "value": "支持你最愛的筆記應用程式，協助日後解鎖更多功能"
+    },
+    {
+      "name": "sustainer_app_icon",
+      "value": "Sustainer 應用程式圖示"
+    },
+    {
+      "name": "sustainer_subscription_restored_thank_you_for_supporting_sim",
+      "value": "已恢復 Sustainer 訂購。 感謝你支持 Simplenote！"
+    },
+    {
+      "name": "system_default",
+      "value": "系統預設"
+    },
+    {
+      "name": "tag",
+      "value": "標籤"
+    },
+    {
+      "name": "tag_no_longer_available",
+      "value": "標籤已無法使用"
+    },
+    {
+      "name": "tags",
+      "value": "標籤"
+    },
+    {
+      "name": "tag_3",
+      "value": "正在加標籤…"
+    },
+    {
+      "name": "tap_button_to_select_or_deselect_all_notes",
+      "value": "點選按鈕以選取或取消選取所有筆記"
+    },
+    {
+      "name": "terms_and_conditions",
+      "value": "條款與條件"
+    },
+    {
+      "name": "terms_of_service",
+      "value": "服務條款"
+    },
+    {
+      "name": "thank_you",
+      "value": "感謝你！"
+    },
+    {
+      "name": "thank_you_for_your_continued_support",
+      "value": "感謝你持續支持"
+    },
+    {
+      "name": "the_authentication_code_you_ve_requested_has_expired_please",
+      "value": "你要求的驗證碼已過期。 請申請新的驗證碼"
+    },
+    {
+      "name": "the_code_you_ve_entered_is_not_correct_please_try_again",
+      "value": "你輸入的驗證碼不正確。 請再試一次"
+    },
+    {
+      "name": "the_email_you_ve_entered_is_already_associated_with_a_simple",
+      "value": "你輸入的電子郵件地址已與 Simplenote 帳號建立關聯。"
+    },
+    {
+      "name": "the_network_could_not_be_reached",
+      "value": "無法連上網路。"
+    },
+    {
+      "name": "the_simplest_way_to_keep_notes",
+      "value": "輕鬆作筆記的最佳方式。"
+    },
+    {
+      "name": "theme",
+      "value": "佈景主題"
+    },
+    {
+      "name": "themes",
+      "value": "佈景主題"
+    },
+    {
+      "name": "there_was_an_preparing_your_verification_email_please_try_ag",
+      "value": "你的驗證電子郵件正在準備中，請稍後再試"
+    },
+    {
+      "name": "this_note_was_deleted_on_another_device",
+      "value": "這份筆記已在另一部裝置上刪除"
+    },
+    {
+      "name": "this_password_has_appeared_in_a_data_breach_which_puts_your",
+      "value": "此密碼曾出現在資料外洩事件中，這使得你的帳號有很高的風險會遭到盜用。 為保護你的資料，你需要更新密碼才能再次登入。"
+    },
+    {
+      "name": "to_enable_1_you_must_have_a_passcode_setup_first",
+      "value": "若要啟用 %1$s，必須先設定密碼。"
+    },
+    {
+      "name": "to_unlock_the_application",
+      "value": "若要解鎖應用程式"
+    },
+    {
+      "name": "today",
+      "value": "今天"
+    },
+    {
+      "name": "toggle_markdown",
+      "value": "切換 Markdown"
+    },
+    {
+      "name": "toggle_tag_sidebar",
+      "value": "切換標籤側選單"
+    },
+    {
+      "name": "too_many_login_attempts",
+      "value": "登入嘗試次數過多"
+    },
+    {
+      "name": "too_many_login_attempts_try_again_later",
+      "value": "登入嘗試次數過多。 請稍後再試一次。"
+    },
+    {
+      "name": "touch_id",
+      "value": "Touch ID"
+    },
+    {
+      "name": "trash",
+      "value": "垃圾桶"
+    },
+    {
+      "name": "trash_notes",
+      "value": "移除筆記"
+    },
+    {
+      "name": "turn_off_passcode",
+      "value": "關閉密碼"
+    },
+    {
+      "name": "undo",
+      "value": "復原"
+    },
+    {
+      "name": "unnamed_tag",
+      "value": "未命名標籤"
+    },
+    {
+      "name": "unpin",
+      "value": "取消釘選"
+    },
+    {
+      "name": "unpin_note",
+      "value": "取消釘選筆記"
+    },
+    {
+      "name": "unpublish_note",
+      "value": "取消發表筆記"
+    },
+    {
+      "name": "unpublish_successful",
+      "value": "取消發表成功"
+    },
+    {
+      "name": "unpublishing_note",
+      "value": "正在取消發表筆記…"
+    },
+    {
+      "name": "unpublishing",
+      "value": "正在取消發表..."
+    },
+    {
+      "name": "unsupported",
+      "value": "不支援的使用者"
+    },
+    {
+      "name": "unsynced_notes_detected",
+      "value": "偵測到尚未同步的備註"
+    },
+    {
+      "name": "untagged",
+      "value": "取消標籤"
+    },
+    {
+      "name": "untagged_notes",
+      "value": "未標籤筆記"
+    },
+    {
+      "name": "username",
+      "value": "使用者名稱"
+    },
+    {
+      "name": "verify_your_email",
+      "value": "驗證你的電子郵件"
+    },
+    {
+      "name": "version",
+      "value": "版本 %s"
+    },
+    {
+      "name": "visit_web_app",
+      "value": "前往網頁應用程式"
+    },
+    {
+      "name": "we_ll_email_you_a_code_to_log_in_or_you_can",
+      "value": "我們會透過電子郵件傳送登入代碼給你，你也可以"
+    },
+    {
+      "name": "we_re_having_problems_please_try_again_soon",
+      "value": "發生問題，請再試一次。"
+    },
+    {
+      "name": "we_ve_sent_a_code_to_email_the_code_will_be_valid_for_a_few",
+      "value": "我們已傳送驗證碼到 {{EMAIL}}。 此驗證碼在幾分鐘內有效。"
+    },
+    {
+      "name": "websocket",
+      "value": "WebSocket"
+    },
+    {
+      "name": "we_ve_sent_a_verification_email_to_1_please_check_your_inbox",
+      "value": "我們已傳送一封驗證電子郵件到 %1$s。 請檢查你的收件匣並依照指示操作。"
+    },
+    {
+      "name": "we_ve_sent_an_email_to_1_please_check_your_inbox_and_follow",
+      "value": "我們已將電子郵件傳送至 %1$s。 請檢查你的收件匣並依照指示操作。"
+    },
+    {
+      "name": "what_do_you_think_about_simplenote",
+      "value": "你覺得 Simplenote 如何？"
+    },
+    {
+      "name": "will_attempt_to_recover_shortcut_content_on_next_launch",
+      "value": "會嘗試在下一次推出時還原捷徑內容"
+    },
+    {
+      "name": "words",
+      "value": "字"
+    },
+    {
+      "name": "yes",
+      "value": "是"
+    },
+    {
+      "name": "yesterday",
+      "value": "昨天"
+    },
+    {
+      "name": "you_are_a_simplenote_sustainer",
+      "value": "你是 Simplenote Sustainer"
+    },
+    {
+      "name": "you_are_registered_with_simplenote_using_the_email_1_improve",
+      "value": "你已使用電子郵件地址  %1$s 註冊 Simplenote。\n\n如果你不再擁有存取此電子郵件地址的權限，對帳號安全性的改善項目可能導致帳號遺失。"
+    },
+    {
+      "name": "you_must_verify_your_email_before_being_able_to_login",
+      "value": "你必須先驗證電子郵件才能登入。"
+    },
+    {
+      "name": "you_re_already_a_sustainer_thank_you_for_supporting_simpleno",
+      "value": "你已經是 Sustainer。 感謝你支持 Simplenote！"
+    },
+    {
+      "name": "your_authentication_code_has_expired_please_request_a_new_on",
+      "value": "你的驗證碼已過期。 請申請新的驗證碼"
+    },
+    {
+      "name": "your_email_address_is_not_valid",
+      "value": "你的電子郵件地址無效。"
+    },
+    {
+      "name": "your_password_is_insecure_and_must_be_reset_the_password_req",
+      "value": "你的密碼不安全，必須重設。密碼設定要求如下："
+    },
+    {
+      "name": "your_trash_is_empty",
+      "value": "你的垃圾桶是空的"
+    },
+    {
+      "name": "log_in_manually",
+      "value": "手動登入。"
+    },
+    {
+      "name": "tag_2",
+      "value": "標籤："
+    },
+    {
+      "name": "debug_enabled",
+      "value": "🐞偵錯模式已啟用🐞"
+    }
+  ]
+}

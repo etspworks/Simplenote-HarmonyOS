@@ -1,0 +1,14 @@
+{
+  "app": {
+    "bundleName": "com.example.myapplication",
+    "vendor": "example",
+    "versionCode": 4550004,
+    "versionName": "4.55",
+    "buildVersion": "1",
+    "icon": "$media:layered_image",
+    "label": "$string:app_name",
+    // Text follows the SYSTEM font size, as iOS Dynamic Type does. Without this tag
+    // fontSizeScale defaults to nonFollowSystem and the app ignores the setting.
+    "configuration": "$profile:configuration"
+  }
+}

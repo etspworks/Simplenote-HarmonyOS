@@ -1,0 +1,1340 @@
+{
+  "string": [
+    {
+      "name": "d_result",
+      "value": "%d件の検索結果"
+    },
+    {
+      "name": "d_results",
+      "value": "%d件の検索結果"
+    },
+    {
+      "name": "i_failed_passcode_attempt",
+      "value": "パスコード試行に%d回失敗"
+    },
+    {
+      "name": "i_failed_passcode_attempts",
+      "value": "パスコードを%d回誤入力しました"
+    },
+    {
+      "name": "i_note_trashed",
+      "value": "%d件のメモをゴミ箱に入れました"
+    },
+    {
+      "name": "i_notes_trashed",
+      "value": "%d件のメモをゴミ箱に入れました"
+    },
+    {
+      "name": "i_reference",
+      "value": "%d 参考資料"
+    },
+    {
+      "name": "i_references",
+      "value": "%d 参考資料"
+    },
+    {
+      "name": "i_selected",
+      "value": "%d件選択済み"
+    },
+    {
+      "name": "minimum_of_8_characters",
+      "value": "- 8文字以上入力してください"
+    },
+    {
+      "name": "neither_tabs_nor_newlines_are_allowed",
+      "value": "- タブも改行も許可されていません"
+    },
+    {
+      "name": "password_cannot_match_email",
+      "value": "- パスワードがメールと一致しません"
+    },
+    {
+      "name": "s_1_minute",
+      "value": "1分"
+    },
+    {
+      "name": "s_15_seconds",
+      "value": "15秒"
+    },
+    {
+      "name": "s_2_minutes",
+      "value": "2分"
+    },
+    {
+      "name": "s_3_minutes",
+      "value": "3分"
+    },
+    {
+      "name": "s_30_seconds",
+      "value": "30秒"
+    },
+    {
+      "name": "s_4_minutes",
+      "value": "4分"
+    },
+    {
+      "name": "s_5_minutes",
+      "value": "5分"
+    },
+    {
+      "name": "a_network_connection_is_required_please_check_your_connectio",
+      "value": "ネットワーク接続が必要です。 接続を確認して、もう一度お試しください。"
+    },
+    {
+      "name": "about",
+      "value": "このサイトについて"
+    },
+    {
+      "name": "accept",
+      "value": "承認"
+    },
+    {
+      "name": "account",
+      "value": "アカウント"
+    },
+    {
+      "name": "account_verification_required",
+      "value": "アカウント認証が必要"
+    },
+    {
+      "name": "add_a_new_collaborator",
+      "value": "共同編集者を追加"
+    },
+    {
+      "name": "add_a_tag_to_the_current_note",
+      "value": "現在のノートにタグを追加"
+    },
+    {
+      "name": "add_an_email_address_to_share_this_note_with_someone_then_yo",
+      "value": "このノートを他の人と共有するにはメールアドレスを追加してください。 共有すると、お互いにノートを変更できるようになります。"
+    },
+    {
+      "name": "add_tag",
+      "value": "タグを追加"
+    },
+    {
+      "name": "all_notes",
+      "value": "すべてのノート"
+    },
+    {
+      "name": "an_email_has_been_sent_to_check_your_inbox_and_follow_the_in",
+      "value": "%s にメールが送信されました。受信トレイを確認し、手順に従ってアカウントの削除を確定してください。\n\n当社がお客様から確認を得るまでアカウントは削除されません。"
+    },
+    {
+      "name": "an_error_occured_please_try_again_if_the_problem_continues_c",
+      "value": "エラーが発生しました。 もう一度お試しください。 問題が解決しない場合は、support@simplenote.com までお問い合わせください。"
+    },
+    {
+      "name": "an_error_was_encountered_while_signing_in",
+      "value": "ログイン時にエラーが発生しました。"
+    },
+    {
+      "name": "appearance",
+      "value": "外観"
+    },
+    {
+      "name": "are_you_a_developer_we_re_hiring",
+      "value": "開発者の方ですか ? 人材を募集中です。"
+    },
+    {
+      "name": "are_you_sure_you_want_to_delete_1",
+      "value": "「%1$s」を削除してもよろしいですか ?"
+    },
+    {
+      "name": "are_you_sure_you_want_to_empty_the_trash_this_cannot_be_undo",
+      "value": "ゴミ箱を空にしてもよいですか ?この操作は元に戻すことができません。"
+    },
+    {
+      "name": "attempt_to_fetch_current_note_content_failed_please_try_agai",
+      "value": "現在のメモ内容を取得しようとしましたが失敗しました。  後でもう一度お試しください。"
+    },
+    {
+      "name": "attempt_to_fetch_entities_failed_please_try_again_later",
+      "value": "エンティティの取得の試みに失敗しました。  後ほど、もう一度お試しください。"
+    },
+    {
+      "name": "attempt_to_fetch_notes_failed_please_try_again_later",
+      "value": "メモを取得しようとしましたが失敗しました。  後でもう一度お試しください。"
+    },
+    {
+      "name": "attempt_to_fetch_tags_failed_please_try_again_later",
+      "value": "タグを取得しようとしましたが失敗しました。  後でもう一度お試しください。"
+    },
+    {
+      "name": "authenticated",
+      "value": "認証済み"
+    },
+    {
+      "name": "become_a_simplenote_sustainer",
+      "value": "Simplenote Sustainer になる"
+    },
+    {
+      "name": "blog",
+      "value": "ブログ"
+    },
+    {
+      "name": "by_creating_an_account_you_agree_to_our",
+      "value": "アカウントを作成すると次に合意したものとみなされます"
+    },
+    {
+      "name": "by_deleting_the_account_for_all_notes_created_with_this_acco",
+      "value": "%s のアカウントを削除すると、このアカウントで作成したすべてのメモが完全に削除されます。 この操作を元に戻すことはできません"
+    },
+    {
+      "name": "cancel",
+      "value": "キャンセル"
+    },
+    {
+      "name": "cancel_share",
+      "value": "共有をキャンセル"
+    },
+    {
+      "name": "cannot_confirm_account",
+      "value": "アカウントを確認できません"
+    },
+    {
+      "name": "cannot_send_verification_email",
+      "value": "確認メールを送信できません"
+    },
+    {
+      "name": "careers",
+      "value": "キャリア"
+    },
+    {
+      "name": "change_email",
+      "value": "メールアドレスを変更"
+    },
+    {
+      "name": "change_password",
+      "value": "パスワードの変更"
+    },
+    {
+      "name": "characters",
+      "value": "文字"
+    },
+    {
+      "name": "check_your_email",
+      "value": "メールを確認"
+    },
+    {
+      "name": "check_your_email_2",
+      "value": "メールを確認"
+    },
+    {
+      "name": "choose_a_4_digit_passcode",
+      "value": "4桁のパスコードを選択してください"
+    },
+    {
+      "name": "code",
+      "value": "ソースコード"
+    },
+    {
+      "name": "collaborate",
+      "value": "共同編集"
+    },
+    {
+      "name": "collaboration_has_moved",
+      "value": "コラボレーションは移動しました"
+    },
+    {
+      "name": "collaborators",
+      "value": "共同編集者"
+    },
+    {
+      "name": "compromised_password",
+      "value": "侵害されたパスワード"
+    },
+    {
+      "name": "condensed_note_list",
+      "value": "要約ノート一覧"
+    },
+    {
+      "name": "confirm",
+      "value": "確認"
+    },
+    {
+      "name": "confirm_your_passcode",
+      "value": "パスコードを確認"
+    },
+    {
+      "name": "contribute",
+      "value": "参加"
+    },
+    {
+      "name": "copy_internal_link",
+      "value": "内部リンクをコピー"
+    },
+    {
+      "name": "copy_link_2",
+      "value": "リンクをコピー"
+    },
+    {
+      "name": "copy_link",
+      "value": "リンクをコピー"
+    },
+    {
+      "name": "could_be_better",
+      "value": "不満がある"
+    },
+    {
+      "name": "could_not_create_an_account_with_the_provided_email_address",
+      "value": "入力されたメールアドレスとパスワードではアカウントを作成できませんでした。"
+    },
+    {
+      "name": "could_not_delete_tag",
+      "value": "タグを削除できませんでした"
+    },
+    {
+      "name": "could_not_fetch_notes",
+      "value": "メモを取得できませんでした"
+    },
+    {
+      "name": "could_not_fetch_tags",
+      "value": "タグを取得できませんでした"
+    },
+    {
+      "name": "could_not_fetch_entities",
+      "value": "エンティティを取得できませんでした"
+    },
+    {
+      "name": "could_not_fetch_note_content",
+      "value": "メモの内容を取得できませんでした"
+    },
+    {
+      "name": "could_not_login_with_the_provided_email_address_and_password",
+      "value": "入力されたメールアドレスとパスワードではログインできませんでした。"
+    },
+    {
+      "name": "could_you_tell_us_how_we_could_improve",
+      "value": "改善方法についてご意見いただけますか ?"
+    },
+    {
+      "name": "couldn_t_retrieve_history",
+      "value": "履歴を取得できませんでした"
+    },
+    {
+      "name": "couldn_t_sign_in",
+      "value": "ログインできません"
+    },
+    {
+      "name": "create_a_new_note",
+      "value": "新規ノートを作成"
+    },
+    {
+      "name": "create_a_new_note_2",
+      "value": "新規ノートを作成"
+    },
+    {
+      "name": "create_a_new_note_instantly_with_one_tap",
+      "value": "1 回のタップですぐに新しいノートを作成できます。"
+    },
+    {
+      "name": "create_a_new_note_titled",
+      "value": "「%s」の件名で新規メモを作成"
+    },
+    {
+      "name": "create_your_first_note",
+      "value": "最初のメモを作成"
+    },
+    {
+      "name": "created",
+      "value": "作成日"
+    },
+    {
+      "name": "created_newest",
+      "value": "作成日 :最新"
+    },
+    {
+      "name": "created_oldest",
+      "value": "作成日 :最も古い"
+    },
+    {
+      "name": "current_collaborators",
+      "value": "現在の共同編集者"
+    },
+    {
+      "name": "dark",
+      "value": "ダーク"
+    },
+    {
+      "name": "debug",
+      "value": "デバッグ"
+    },
+    {
+      "name": "debug_disabled",
+      "value": "デバッグ無効"
+    },
+    {
+      "name": "delete",
+      "value": "削除"
+    },
+    {
+      "name": "delete_account",
+      "value": "アカウントを削除"
+    },
+    {
+      "name": "delete_note",
+      "value": "メモを削除"
+    },
+    {
+      "name": "delete_notes",
+      "value": "ノートを削除"
+    },
+    {
+      "name": "delete_tag",
+      "value": "タグを削除"
+    },
+    {
+      "name": "deselect_all",
+      "value": "すべて選択解除"
+    },
+    {
+      "name": "diagnostics",
+      "value": "診断"
+    },
+    {
+      "name": "didn_t_get_an_email_there_may_already_be_an_account_associat",
+      "value": "メールが届きませんでしたか ? このメールアドレスに関連付けられているアカウントがすでに存在する可能性があります。 %1$s に問い合わせてサポートを受けてください。"
+    },
+    {
+      "name": "disable_markdown_formatting",
+      "value": "Markdown フォーマットを無効化"
+    },
+    {
+      "name": "dismiss",
+      "value": "非表示にする"
+    },
+    {
+      "name": "dismiss_history",
+      "value": "履歴を閉じる"
+    },
+    {
+      "name": "dismiss_information",
+      "value": "情報を閉じる"
+    },
+    {
+      "name": "dismiss_keyboard",
+      "value": "キーボードを閉じる"
+    },
+    {
+      "name": "document",
+      "value": "文書"
+    },
+    {
+      "name": "done",
+      "value": "完了"
+    },
+    {
+      "name": "edit",
+      "value": "編集"
+    },
+    {
+      "name": "email",
+      "value": "メールアドレス"
+    },
+    {
+      "name": "email_in_use",
+      "value": "使用中のメールアドレス"
+    },
+    {
+      "name": "empty",
+      "value": "空にする"
+    },
+    {
+      "name": "empty_trash",
+      "value": "ゴミ箱を空にする"
+    },
+    {
+      "name": "enable_markdown_formatting",
+      "value": "Markdown フォーマットを有効化"
+    },
+    {
+      "name": "end_editing",
+      "value": "編集を終了"
+    },
+    {
+      "name": "enqueued",
+      "value": "待機状態"
+    },
+    {
+      "name": "enter_code",
+      "value": "コードを入力"
+    },
+    {
+      "name": "enter_password",
+      "value": "パスワードを入力"
+    },
+    {
+      "name": "enter_the_password_for_the_account_email",
+      "value": "アカウント {{EMAIL}} のパスワードを入力"
+    },
+    {
+      "name": "enter_your_passcode",
+      "value": "パスコードを入力してください"
+    },
+    {
+      "name": "error",
+      "value": "エラー"
+    },
+    {
+      "name": "faq_or_contact_us",
+      "value": "FAQ またはお問い合わせ"
+    },
+    {
+      "name": "face_id",
+      "value": "Face ID"
+    },
+    {
+      "name": "fetching_version",
+      "value": "バージョンを取得中"
+    },
+    {
+      "name": "forgot_your_password",
+      "value": "パスワードを忘れた場合"
+    },
+    {
+      "name": "get_help",
+      "value": "ヘルプ"
+    },
+    {
+      "name": "get_quick_access_to_a_list_of_all_notes_or_based_on_the_sele",
+      "value": "すべてのノートのリストに素早くアクセスしたり、選択したタグに基づいてアクセスしたりできます。"
+    },
+    {
+      "name": "get_quick_access_to_one_of_your_notes",
+      "value": "ノートの1つに素早くアクセスできます。"
+    },
+    {
+      "name": "great_mind_leaving_a_review_to_tell_us_what_you_like",
+      "value": "ありがとうございます。レビューの投稿にご協力ください。"
+    },
+    {
+      "name": "help",
+      "value": "ヘルプ"
+    },
+    {
+      "name": "help_us_improve_simplenote_by_sharing_usage_data_with_our_an",
+      "value": "弊社の分析ツールに使用データを提供し、Simplenote の品質向上にご協力ください。"
+    },
+    {
+      "name": "history",
+      "value": "履歴"
+    },
+    {
+      "name": "i_like_it",
+      "value": "満足している"
+    },
+    {
+      "name": "index_notes_in_spotlight",
+      "value": "スポットライトでメモをインデックス"
+    },
+    {
+      "name": "index_removed",
+      "value": "インデックスが削除されました"
+    },
+    {
+      "name": "information",
+      "value": "情報"
+    },
+    {
+      "name": "insert_checklist",
+      "value": "チェックリストを挿入"
+    },
+    {
+      "name": "inserts_a_new_checklist_item",
+      "value": "新しいチェックリストアイテムを挿入"
+    },
+    {
+      "name": "last_modified_1",
+      "value": "最終更新日 %1$s"
+    },
+    {
+      "name": "lastseen",
+      "value": "LastSeen"
+    },
+    {
+      "name": "learn_more",
+      "value": "さらに詳しく"
+    },
+    {
+      "name": "leave_a_review",
+      "value": "レビューを書く"
+    },
+    {
+      "name": "light",
+      "value": "ライト"
+    },
+    {
+      "name": "link_copied",
+      "value": "リンクをコピーしました"
+    },
+    {
+      "name": "lock_timeout",
+      "value": "タイムアウトをロック"
+    },
+    {
+      "name": "log_in",
+      "value": "ログイン"
+    },
+    {
+      "name": "log_in_with_password",
+      "value": "パスワードでログイン"
+    },
+    {
+      "name": "log_out",
+      "value": "ログアウト"
+    },
+    {
+      "name": "log_in_to_see_your_notes",
+      "value": "ノートを見るにはログインしてください"
+    },
+    {
+      "name": "log_in_with_wordpress_com",
+      "value": "WordPress.com アカウントでログイン"
+    },
+    {
+      "name": "log_in_with_email",
+      "value": "メールアドレスでログイン"
+    },
+    {
+      "name": "log_in_with_email_failed_please_enter_your_password",
+      "value": "メールアドレスでのログインに失敗しました。パスワードを入力してください"
+    },
+    {
+      "name": "login_code_is_too_short",
+      "value": "ログインコードが短すぎます"
+    },
+    {
+      "name": "mmm_d",
+      "value": "M月d日"
+    },
+    {
+      "name": "mmm_d_h_mm_a",
+      "value": "M月d日 h:mm a"
+    },
+    {
+      "name": "mmm_d_yyyy",
+      "value": "yyyy年M月d日"
+    },
+    {
+      "name": "mmm_yyyy",
+      "value": "yyyy年M月"
+    },
+    {
+      "name": "main_app_is_not_configured",
+      "value": "メインアプリが構成されていません"
+    },
+    {
+      "name": "markdown",
+      "value": "Markdown"
+    },
+    {
+      "name": "menu",
+      "value": "メニュー"
+    },
+    {
+      "name": "modified",
+      "value": "更新日"
+    },
+    {
+      "name": "modified_newest",
+      "value": "更新日 :最新"
+    },
+    {
+      "name": "modified_oldest",
+      "value": "更新日 :最も古い"
+    },
+    {
+      "name": "move_selected_notes_to_trash",
+      "value": "選択したメモをゴミ箱に移動"
+    },
+    {
+      "name": "move_to_trash",
+      "value": "ゴミ箱へ移動"
+    },
+    {
+      "name": "name_a_z",
+      "value": "名前: A-Z"
+    },
+    {
+      "name": "name_z_a",
+      "value": "名前: Z-A"
+    },
+    {
+      "name": "new_note",
+      "value": "新規ノート"
+    },
+    {
+      "name": "new_note_4",
+      "value": "新しいノート…"
+    },
+    {
+      "name": "new_note_2",
+      "value": "新規ノート"
+    },
+    {
+      "name": "new_note_3",
+      "value": "新規ノート…"
+    },
+    {
+      "name": "next_match",
+      "value": "次の一致"
+    },
+    {
+      "name": "no",
+      "value": "いいえ"
+    },
+    {
+      "name": "no_results",
+      "value": "一致する結果がありません"
+    },
+    {
+      "name": "no_simplenote_account",
+      "value": "Simplenote アカウントがありません"
+    },
+    {
+      "name": "no_notes_tagged",
+      "value": "「%s」のタグが付いたメモはありません"
+    },
+    {
+      "name": "no_previous_valid_purchases_found_for_the_current_period",
+      "value": "現在の期間では、以前の有効な購入は見つかりませんでした"
+    },
+    {
+      "name": "no_purchases_found",
+      "value": "購入したものが見つかりませんでした"
+    },
+    {
+      "name": "no_thanks",
+      "value": "いいえ"
+    },
+    {
+      "name": "no_untagged_notes",
+      "value": "タグが付けられていないメモはありません"
+    },
+    {
+      "name": "note",
+      "value": "ノート"
+    },
+    {
+      "name": "note_list",
+      "value": "ノートリスト"
+    },
+    {
+      "name": "note_trashed",
+      "value": "ノートをゴミ箱に入れました"
+    },
+    {
+      "name": "note_no_longer_available",
+      "value": "ノートは現在ご利用いただけません"
+    },
+    {
+      "name": "notes",
+      "value": "メモ"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "off",
+      "value": "オフ"
+    },
+    {
+      "name": "ok_2",
+      "value": "OK"
+    },
+    {
+      "name": "okay",
+      "value": "OK"
+    },
+    {
+      "name": "on",
+      "value": "オン"
+    },
+    {
+      "name": "open_simplenote",
+      "value": "Simplenote を開く"
+    },
+    {
+      "name": "open_note",
+      "value": "ノートを開く"
+    },
+    {
+      "name": "options",
+      "value": "オプション"
+    },
+    {
+      "name": "or",
+      "value": "OR"
+    },
+    {
+      "name": "passcode",
+      "value": "パスコード"
+    },
+    {
+      "name": "passcodes_did_not_match_try_again",
+      "value": "パスコードが一致しませんでした。もう一度お試しください。"
+    },
+    {
+      "name": "password",
+      "value": "パスワード"
+    },
+    {
+      "name": "password_cannot_match_email_2",
+      "value": "パスワードがメールと一致しません"
+    },
+    {
+      "name": "password_must_contain_at_least_d_characters",
+      "value": "パスワードは%d文字以上にしてください"
+    },
+    {
+      "name": "password_must_not_contain_tabs_nor_newlines",
+      "value": "パスワードにタブや改行を含めることはできません"
+    },
+    {
+      "name": "pendings",
+      "value": "保留中"
+    },
+    {
+      "name": "pin_note",
+      "value": "ノートを上部固定"
+    },
+    {
+      "name": "pin_to_top",
+      "value": "上部に固定"
+    },
+    {
+      "name": "please_activate_your_wordpress_com_account_via_email_and_try",
+      "value": "メールから WordPress.com アカウントを有効にして、もう一度試してください。"
+    },
+    {
+      "name": "please_check_your_network_settings_and_try_again",
+      "value": "ネットワーク設定をご確認のうえもう一度お試しください。"
+    },
+    {
+      "name": "please_log_into_your_simplenote_account_first_by_using_the_s",
+      "value": "まず、Simplenote アプリを使用して Simplenote アカウントにログインしてください。"
+    },
+    {
+      "name": "please_try_again",
+      "value": "もう一度お試しください"
+    },
+    {
+      "name": "please_upgrade_to_the_latest_ios_release_to_restore_purchase",
+      "value": "最新の iOS リリースをアップグレードして購入したものを復元してください"
+    },
+    {
+      "name": "preview",
+      "value": "プレビュー"
+    },
+    {
+      "name": "previous_match",
+      "value": "前の一致"
+    },
+    {
+      "name": "privacy_notice_for_california_users",
+      "value": "カリフォルニア州のユーザーへのプライバシー通知"
+    },
+    {
+      "name": "privacy_policy",
+      "value": "個人情報保護方針"
+    },
+    {
+      "name": "privacy_settings",
+      "value": "プライバシー設定"
+    },
+    {
+      "name": "publish",
+      "value": "公開"
+    },
+    {
+      "name": "publish_successful",
+      "value": "公開に成功しました"
+    },
+    {
+      "name": "publish_note",
+      "value": "ノートを公開"
+    },
+    {
+      "name": "publishing_note",
+      "value": "ノートを公開しています..."
+    },
+    {
+      "name": "publishing",
+      "value": "公開中"
+    },
+    {
+      "name": "rate_us",
+      "value": "評価してください"
+    },
+    {
+      "name": "reachability",
+      "value": "到達の可能性"
+    },
+    {
+      "name": "recent",
+      "value": "最近"
+    },
+    {
+      "name": "recovered_note_cotent",
+      "value": "復元されたメモの内容 - "
+    },
+    {
+      "name": "referenced_in",
+      "value": "参照先"
+    },
+    {
+      "name": "remove_all_notes_from_trash",
+      "value": "ゴミ箱からノートを完全消去"
+    },
+    {
+      "name": "remove_tag_from_the_current_note",
+      "value": "現在のノートからタグを削除"
+    },
+    {
+      "name": "rename",
+      "value": "タイトル変更"
+    },
+    {
+      "name": "request_account_deletion",
+      "value": "アカウントの削除をリクエスト"
+    },
+    {
+      "name": "request_error",
+      "value": "リクエストエラー"
+    },
+    {
+      "name": "resend_email",
+      "value": "メールの再送"
+    },
+    {
+      "name": "resend_verification_email",
+      "value": "確認メールを再送"
+    },
+    {
+      "name": "reset",
+      "value": "リセット"
+    },
+    {
+      "name": "reset_required",
+      "value": "リセットが必要"
+    },
+    {
+      "name": "response",
+      "value": "返信"
+    },
+    {
+      "name": "restore_note",
+      "value": "ノートを復元"
+    },
+    {
+      "name": "review_your_account",
+      "value": "アカウントの設定を確認"
+    },
+    {
+      "name": "save",
+      "value": "保存"
+    },
+    {
+      "name": "search",
+      "value": "検索"
+    },
+    {
+      "name": "search_by_tag",
+      "value": "タグで検索"
+    },
+    {
+      "name": "search_notes_or_tags",
+      "value": "メモまたはタグを検索"
+    },
+    {
+      "name": "security",
+      "value": "セキュリティ"
+    },
+    {
+      "name": "select",
+      "value": "選択"
+    },
+    {
+      "name": "select_all",
+      "value": "すべてを選択"
+    },
+    {
+      "name": "select_a_version",
+      "value": "バージョンを選択"
+    },
+    {
+      "name": "send_a_test_crash",
+      "value": "テストクラッシュを送信"
+    },
+    {
+      "name": "send_feedback",
+      "value": "意見を送る"
+    },
+    {
+      "name": "set_up_passcode",
+      "value": "パスコードを設定する"
+    },
+    {
+      "name": "settings",
+      "value": "設定"
+    },
+    {
+      "name": "share",
+      "value": "共有"
+    },
+    {
+      "name": "share_analytics",
+      "value": "分析を共有"
+    },
+    {
+      "name": "share_2",
+      "value": "共有..."
+    },
+    {
+      "name": "sharing_notes_is_now_accessed_through_the_action_menu_from_t",
+      "value": "ノートの共有はツールバーのアクションメニューからアクセスできます。"
+    },
+    {
+      "name": "sidebar",
+      "value": "サイドバー"
+    },
+    {
+      "name": "sign_up",
+      "value": "登録"
+    },
+    {
+      "name": "signing_out_will_delete_any_unsynced_notes_you_can_verify_yo",
+      "value": "ログアウトすると、同期されていないメモはすべて削除されます。同期したメモを確認するには、Web アプリにログインします。"
+    },
+    {
+      "name": "simplenote",
+      "value": "Simplenote"
+    },
+    {
+      "name": "simplenote_sustainer",
+      "value": "Simplenote Sustainer"
+    },
+    {
+      "name": "simplenote_ios_feedback",
+      "value": "Simplenote iOS フィードバック"
+    },
+    {
+      "name": "simplenote_must_be_configured_and_logged_in_to_setup_widgets",
+      "value": "ウィジェットを設定するには Simplenote を構成してログインする必要があります"
+    },
+    {
+      "name": "sorry",
+      "value": "申し訳ございません。"
+    },
+    {
+      "name": "sort_alphabetically",
+      "value": "アルファベット順に並べ替え"
+    },
+    {
+      "name": "sort_order",
+      "value": "ソート順"
+    },
+    {
+      "name": "sort_by",
+      "value": "並び順 :"
+    },
+    {
+      "name": "spotlight_history_may_still_appear_in_search_results_but_not",
+      "value": "スポットライト履歴が検索結果に引き続き表示される可能性がありますが、メモのインデックスは解除されます"
+    },
+    {
+      "name": "status_code",
+      "value": "ステータスコード"
+    },
+    {
+      "name": "support_your_favorite_notes_app_to_help_unlock_future_featur",
+      "value": "お気に入りのメモアプリをサポートして将来の機能のロックを解除できるようにする"
+    },
+    {
+      "name": "sustainer_app_icon",
+      "value": "Sustainer アプリアイコン"
+    },
+    {
+      "name": "sustainer_subscription_restored_thank_you_for_supporting_sim",
+      "value": "Sustainer サブスクリプションが復元されました。 Simplenote をサポートいただきありがとうございます。"
+    },
+    {
+      "name": "system_default",
+      "value": "システムの初期設定"
+    },
+    {
+      "name": "tag",
+      "value": "タグ"
+    },
+    {
+      "name": "tag_no_longer_available",
+      "value": "タグは現在ご利用いただけません"
+    },
+    {
+      "name": "tags",
+      "value": "タグ"
+    },
+    {
+      "name": "tag_3",
+      "value": "タグ…"
+    },
+    {
+      "name": "tap_button_to_select_or_deselect_all_notes",
+      "value": "ボタンをタップしてすべての注意事項を選択または選択解除"
+    },
+    {
+      "name": "terms_and_conditions",
+      "value": "利用規約"
+    },
+    {
+      "name": "terms_of_service",
+      "value": "利用規約"
+    },
+    {
+      "name": "thank_you",
+      "value": "ありがとうございました。"
+    },
+    {
+      "name": "thank_you_for_your_continued_support",
+      "value": "今後とも末永くご支援いただきますよう、宜しくお願い申し上げます"
+    },
+    {
+      "name": "the_authentication_code_you_ve_requested_has_expired_please",
+      "value": "リクエストした認証コードの有効期限が切れています。 新しいコードをリクエストしてください"
+    },
+    {
+      "name": "the_code_you_ve_entered_is_not_correct_please_try_again",
+      "value": "入力したコードが正しくありません。 もう一度お試しください"
+    },
+    {
+      "name": "the_email_you_ve_entered_is_already_associated_with_a_simple",
+      "value": "このメールアドレスは、すでに他の Simplenote アカウントで使用されています。"
+    },
+    {
+      "name": "the_network_could_not_be_reached",
+      "value": "ネットワークにアクセスできません。"
+    },
+    {
+      "name": "the_simplest_way_to_keep_notes",
+      "value": "最も手軽にメモを残せる方法です。"
+    },
+    {
+      "name": "theme",
+      "value": "テーマ"
+    },
+    {
+      "name": "themes",
+      "value": "テーマ"
+    },
+    {
+      "name": "there_was_an_preparing_your_verification_email_please_try_ag",
+      "value": "準備中の確認メールがありました。後ほど、もう一度お試しください"
+    },
+    {
+      "name": "this_note_was_deleted_on_another_device",
+      "value": "このノートは別のデバイスから削除されました"
+    },
+    {
+      "name": "this_password_has_appeared_in_a_data_breach_which_puts_your",
+      "value": "このパスワードはデータ侵害に含まれており、アカウントが不正アクセスの危険にさらされています。 データを保護するため、もう一度ログインするにはパスワードを更新する必要があります。"
+    },
+    {
+      "name": "to_enable_1_you_must_have_a_passcode_setup_first",
+      "value": "%1$s を有効にするには、まずパスコードを設定する必要があります。"
+    },
+    {
+      "name": "to_unlock_the_application",
+      "value": "アプリケーションのロックを解除するには"
+    },
+    {
+      "name": "today",
+      "value": "今日"
+    },
+    {
+      "name": "toggle_markdown",
+      "value": "Markdown を切り替え"
+    },
+    {
+      "name": "toggle_tag_sidebar",
+      "value": "タグサイドバーを切り替え"
+    },
+    {
+      "name": "too_many_login_attempts",
+      "value": "ログイン試行回数が多すぎる"
+    },
+    {
+      "name": "too_many_login_attempts_try_again_later",
+      "value": "ログイン試行の回数が多すぎます。 後ほど、もう一度お試しください。"
+    },
+    {
+      "name": "touch_id",
+      "value": "Touch ID"
+    },
+    {
+      "name": "trash",
+      "value": "ゴミ箱"
+    },
+    {
+      "name": "trash_notes",
+      "value": "ゴミ箱に関する注意"
+    },
+    {
+      "name": "turn_off_passcode",
+      "value": "パスコードを無効化"
+    },
+    {
+      "name": "undo",
+      "value": "元に戻す"
+    },
+    {
+      "name": "unnamed_tag",
+      "value": "名前のないタグ"
+    },
+    {
+      "name": "unpin",
+      "value": "ピンを外す"
+    },
+    {
+      "name": "unpin_note",
+      "value": "固定表示を解除"
+    },
+    {
+      "name": "unpublish_note",
+      "value": "ノートを非公開"
+    },
+    {
+      "name": "unpublish_successful",
+      "value": "非公開に成功しました"
+    },
+    {
+      "name": "unpublishing_note",
+      "value": "ノートを非公開にしています..."
+    },
+    {
+      "name": "unpublishing",
+      "value": "非公開設定中…"
+    },
+    {
+      "name": "unsupported",
+      "value": "非サポート"
+    },
+    {
+      "name": "unsynced_notes_detected",
+      "value": "同期されていないメモが検出されました"
+    },
+    {
+      "name": "untagged",
+      "value": "タグなし"
+    },
+    {
+      "name": "untagged_notes",
+      "value": "タグがつけられていないメモ"
+    },
+    {
+      "name": "username",
+      "value": "ユーザー名"
+    },
+    {
+      "name": "verify_your_email",
+      "value": "メールアドレスを確認"
+    },
+    {
+      "name": "version",
+      "value": "バージョン %s"
+    },
+    {
+      "name": "visit_web_app",
+      "value": "Web アプリにアクセス"
+    },
+    {
+      "name": "we_ll_email_you_a_code_to_log_in_or_you_can",
+      "value": "ログインするためのコードをメールでお送りします。または、"
+    },
+    {
+      "name": "we_re_having_problems_please_try_again_soon",
+      "value": "問題が発生しました。すぐにもう一度実行してください。"
+    },
+    {
+      "name": "we_ve_sent_a_code_to_email_the_code_will_be_valid_for_a_few",
+      "value": "コードを {{EMAIL}} に送信しました。 コードは数分間有効です。"
+    },
+    {
+      "name": "websocket",
+      "value": "WebSocket"
+    },
+    {
+      "name": "we_ve_sent_a_verification_email_to_1_please_check_your_inbox",
+      "value": "%1$s に確認メールを送信しました。 受信箱を確認して手順に従ってください。"
+    },
+    {
+      "name": "we_ve_sent_an_email_to_1_please_check_your_inbox_and_follow",
+      "value": "%1$s 宛てにメールを送信しました。 受信箱を確認して手順に従ってください。"
+    },
+    {
+      "name": "what_do_you_think_about_simplenote",
+      "value": "Simplenote アプリに満足していますか ?"
+    },
+    {
+      "name": "will_attempt_to_recover_shortcut_content_on_next_launch",
+      "value": "次回起動時に、ショートカットの内容の復元を試みます"
+    },
+    {
+      "name": "words",
+      "value": "単語"
+    },
+    {
+      "name": "yes",
+      "value": "はい"
+    },
+    {
+      "name": "yesterday",
+      "value": "昨日"
+    },
+    {
+      "name": "you_are_a_simplenote_sustainer",
+      "value": "Simplenote Sustainer です"
+    },
+    {
+      "name": "you_are_registered_with_simplenote_using_the_email_1_improve",
+      "value": "メールアドレス %1$s で、Simplenote に登録されました。\n\nアカウントのセキュリティ強化により、このメールアドレスにアクセスできなくなった場合にはアカウントを喪失する可能性があります。"
+    },
+    {
+      "name": "you_must_verify_your_email_before_being_able_to_login",
+      "value": "ログインする前にメールを確認する必要があります。"
+    },
+    {
+      "name": "you_re_already_a_sustainer_thank_you_for_supporting_simpleno",
+      "value": "すでに Sustainer です。 Simplenote をサポートいただきありがとうございます。"
+    },
+    {
+      "name": "your_authentication_code_has_expired_please_request_a_new_on",
+      "value": "認証コードの有効期限が切れています。 新しいコードをリクエストしてください"
+    },
+    {
+      "name": "your_email_address_is_not_valid",
+      "value": "無効なメールアドレスです。"
+    },
+    {
+      "name": "your_password_is_insecure_and_must_be_reset_the_password_req",
+      "value": "パスワードが安全でないため、リセットする必要があります。パスワードの要件は次のとおりです。"
+    },
+    {
+      "name": "your_trash_is_empty",
+      "value": "ゴミ箱は空です"
+    },
+    {
+      "name": "log_in_manually",
+      "value": "手動でログインすることもできます。"
+    },
+    {
+      "name": "tag_2",
+      "value": "タグ :"
+    },
+    {
+      "name": "debug_enabled",
+      "value": "🐞 デバッグ有効 🐞"
+    }
+  ]
+}

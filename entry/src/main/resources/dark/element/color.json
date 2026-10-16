@@ -1,0 +1,56 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#000000"
+    },
+    {
+      "name": "simplenote_lock_background",
+      "value": "#1C1C1E"
+    },
+    {
+      "name": "simplenote_restore_action",
+      "value": "#FE9F0A"
+    },
+    {
+      "name": "simplenote_card_dismiss_button_background",
+      "value": "#3C434A"
+    },
+    {
+      "name": "simplenote_card_dismiss_button_highlighted_background",
+      "value": "#2C3338"
+    },
+    {
+      "name": "simplenote_card_dismiss_button_tint",
+      "value": "#A7AAAD"
+    },
+    {
+      "name": "simplenote_sustainer_view_background",
+      "value": "#2C2C2E"
+    },
+    {
+      "name": "simplenote_tag_view_text",
+      "value": "#DCDCDE"
+    },
+    {
+      "name": "simplenote_tag_view_complete",
+      "value": "#8C8F94"
+    },
+    {
+      "name": "simplenote_tag_view_complete_highlighted",
+      "value": "#646970"
+    },
+    {
+      "name": "simplenote_tag_view_deletion_background",
+      "value": "#3A3A3C"
+    },
+    {
+      "name": "simplenote_editor_search_highlight",
+      "value": "#803361CC"
+    },
+    {
+      "name": "simplenote_tag_pill_delete_background",
+      "value": "#A7AAAD"
+    }
+  ]
+}

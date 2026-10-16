@@ -1,0 +1,1340 @@
+{
+  "string": [
+    {
+      "name": "d_result",
+      "value": "%d من النتائج"
+    },
+    {
+      "name": "d_results",
+      "value": "%d من النتائج"
+    },
+    {
+      "name": "i_failed_passcode_attempt",
+      "value": "%d محاولات فاشلة لإدخال رمز المرور"
+    },
+    {
+      "name": "i_failed_passcode_attempts",
+      "value": "%d محاولات فاشلة لإدخال رمز المرور"
+    },
+    {
+      "name": "i_note_trashed",
+      "value": "%d لم يتم النقل إلى سلة المهملات"
+    },
+    {
+      "name": "i_notes_trashed",
+      "value": "تم نقل %d من الملحوظات إلى سلة المهملات"
+    },
+    {
+      "name": "i_reference",
+      "value": "%d المرجع"
+    },
+    {
+      "name": "i_references",
+      "value": "%d المرجع"
+    },
+    {
+      "name": "i_selected",
+      "value": "%d مُحدَّد"
+    },
+    {
+      "name": "minimum_of_8_characters",
+      "value": "- 8 أحرف بحد أقصى"
+    },
+    {
+      "name": "neither_tabs_nor_newlines_are_allowed",
+      "value": "- لا يسمح بوجود علامات جدولة أو خطوط جديدة"
+    },
+    {
+      "name": "password_cannot_match_email",
+      "value": "- يتعذر تطابق كلمة المرور مع البريد الإلكتروني"
+    },
+    {
+      "name": "s_1_minute",
+      "value": "دقيقة واحدة"
+    },
+    {
+      "name": "s_15_seconds",
+      "value": "15 ثانية"
+    },
+    {
+      "name": "s_2_minutes",
+      "value": "دقيقتان"
+    },
+    {
+      "name": "s_3_minutes",
+      "value": "3 دقائق"
+    },
+    {
+      "name": "s_30_seconds",
+      "value": "30 ثانية"
+    },
+    {
+      "name": "s_4_minutes",
+      "value": "4 دقائق"
+    },
+    {
+      "name": "s_5_minutes",
+      "value": "5 دقائق"
+    },
+    {
+      "name": "a_network_connection_is_required_please_check_your_connectio",
+      "value": "يلزم اتصال بالإنترنت. يرجى التحقّق من اتصالك والمحاولة لاحقًا."
+    },
+    {
+      "name": "about",
+      "value": "نبذة عن"
+    },
+    {
+      "name": "accept",
+      "value": "قبول"
+    },
+    {
+      "name": "account",
+      "value": "الحساب"
+    },
+    {
+      "name": "account_verification_required",
+      "value": "يلزم التحقُّق من الحساب"
+    },
+    {
+      "name": "add_a_new_collaborator",
+      "value": "إضافة مشارك جديد..."
+    },
+    {
+      "name": "add_a_tag_to_the_current_note",
+      "value": "إضافة وسم إلى الملاحظة الحالية"
+    },
+    {
+      "name": "add_an_email_address_to_share_this_note_with_someone_then_yo",
+      "value": "أضف عنوان بريد إلكتروني لمشاركة هذه الملاحظة مع شخص ما. بعدها يمكنكما إجراء التغييرات عليها."
+    },
+    {
+      "name": "add_tag",
+      "value": "إضافة وسم"
+    },
+    {
+      "name": "all_notes",
+      "value": "كل الملاحظات"
+    },
+    {
+      "name": "an_email_has_been_sent_to_check_your_inbox_and_follow_the_in",
+      "value": "تم إرسال بريد إلكتروني إلى %s، راجع علبة الوارد لديك واتبع الإرشادات لتأكيد حذف الحساب.\n\nلن يتم حذف حسابك حتى نتلقى تأكيدك"
+    },
+    {
+      "name": "an_error_occured_please_try_again_if_the_problem_continues_c",
+      "value": "حدث خطأ. يُرجى المحاولة مرة أخرى. إذا استمرت المشكلة، فاتصل بنا على support@simplenote.com للحصول على المساعدة."
+    },
+    {
+      "name": "an_error_was_encountered_while_signing_in",
+      "value": "تمت مصادفة خطأ أثناء تسجيل الدخول."
+    },
+    {
+      "name": "appearance",
+      "value": "المظهر"
+    },
+    {
+      "name": "are_you_a_developer_we_re_hiring",
+      "value": "هل أنت مطوِّر؟ إننا نوفِّر فرص عمل."
+    },
+    {
+      "name": "are_you_sure_you_want_to_delete_1",
+      "value": "هل تريد بالتأكيد حذف \"%1$s\"؟"
+    },
+    {
+      "name": "are_you_sure_you_want_to_empty_the_trash_this_cannot_be_undo",
+      "value": "هل أنت متأكد من رغبتك في إفراغ سلة المهملات؟ يتعذر التراجع عن هذا."
+    },
+    {
+      "name": "attempt_to_fetch_current_note_content_failed_please_try_agai",
+      "value": "فشلت محاولة إحضار محتوى الملاحظات الحالي.  يرجى المحاولة مرة أخرى لاحقًا."
+    },
+    {
+      "name": "attempt_to_fetch_entities_failed_please_try_again_later",
+      "value": "فشلت محاولة إحضار الكيانات.  يرجى المحاولة لاحقًا."
+    },
+    {
+      "name": "attempt_to_fetch_notes_failed_please_try_again_later",
+      "value": "فشلت محاولة إحضار الملاحظات.  يرجى المحاولة مرة أخرى لاحقًا."
+    },
+    {
+      "name": "attempt_to_fetch_tags_failed_please_try_again_later",
+      "value": "فشلت محاولة إحضار الوسوم.  يرجى المحاولة مرة أخرى لاحقًا."
+    },
+    {
+      "name": "authenticated",
+      "value": "مصادَق عليه"
+    },
+    {
+      "name": "become_a_simplenote_sustainer",
+      "value": "كن Simplenote Sustainer"
+    },
+    {
+      "name": "blog",
+      "value": "المدونة"
+    },
+    {
+      "name": "by_creating_an_account_you_agree_to_our",
+      "value": "بموجب إنشائك لحساب فأنت توافق على"
+    },
+    {
+      "name": "by_deleting_the_account_for_all_notes_created_with_this_acco",
+      "value": "عن طريق حذف الحساب الخاص بـ %s,، سيتم حذف جميع الملحوظات التي تم إنشاؤها باستخدام هذا الحساب نهائيًا. لا يمكن التراجع عن هذا الإجراء"
+    },
+    {
+      "name": "cancel",
+      "value": "إلغاء"
+    },
+    {
+      "name": "cancel_share",
+      "value": "إلغاء المشاركة"
+    },
+    {
+      "name": "cannot_confirm_account",
+      "value": "يتعذر تأكيد الحساب"
+    },
+    {
+      "name": "cannot_send_verification_email",
+      "value": "يتعذر إرسال رسالة البريد الإلكتروني الخاصة بالتحقُّق"
+    },
+    {
+      "name": "careers",
+      "value": "مِهن"
+    },
+    {
+      "name": "change_email",
+      "value": "تغيير البريد الإلكتروني"
+    },
+    {
+      "name": "change_password",
+      "value": "تغيير كلمة المرور"
+    },
+    {
+      "name": "characters",
+      "value": "أحرف"
+    },
+    {
+      "name": "check_your_email",
+      "value": "التحقُّق من بريدك الإلكتروني"
+    },
+    {
+      "name": "check_your_email_2",
+      "value": "التحقُّق من بريدك الإلكتروني"
+    },
+    {
+      "name": "choose_a_4_digit_passcode",
+      "value": "اختيار رمز مرور مكوَّن من 4 أرقام"
+    },
+    {
+      "name": "code",
+      "value": "رمز"
+    },
+    {
+      "name": "collaborate",
+      "value": "تشارك"
+    },
+    {
+      "name": "collaboration_has_moved",
+      "value": "تم نقل التعاون"
+    },
+    {
+      "name": "collaborators",
+      "value": "المشاركون"
+    },
+    {
+      "name": "compromised_password",
+      "value": "كلمة مرور مخترقة"
+    },
+    {
+      "name": "condensed_note_list",
+      "value": "قائمة الملاحظات الموجزة"
+    },
+    {
+      "name": "confirm",
+      "value": "تأكيد"
+    },
+    {
+      "name": "confirm_your_passcode",
+      "value": "تأكيد رمز المرور الخاص بك"
+    },
+    {
+      "name": "contribute",
+      "value": "مساهمة"
+    },
+    {
+      "name": "copy_internal_link",
+      "value": "نسخ الرابط الداخلي"
+    },
+    {
+      "name": "copy_link_2",
+      "value": "نسخ الرابط"
+    },
+    {
+      "name": "copy_link",
+      "value": "نسخ الرابط"
+    },
+    {
+      "name": "could_be_better",
+      "value": "قد يكون أفضل"
+    },
+    {
+      "name": "could_not_create_an_account_with_the_provided_email_address",
+      "value": "تعذر إنشاء حساب بعنوان البريد الإلكتروني وكلمة المرور اللذين تم إدخالهما."
+    },
+    {
+      "name": "could_not_delete_tag",
+      "value": "تعذر حذف الوسم"
+    },
+    {
+      "name": "could_not_fetch_notes",
+      "value": "يتعذر إحضار الملاحظات"
+    },
+    {
+      "name": "could_not_fetch_tags",
+      "value": "يتعذر إحضار الوسوم"
+    },
+    {
+      "name": "could_not_fetch_entities",
+      "value": "يتعذر إحضار الكيانات"
+    },
+    {
+      "name": "could_not_fetch_note_content",
+      "value": "يتعذر إحضار المحتوى"
+    },
+    {
+      "name": "could_not_login_with_the_provided_email_address_and_password",
+      "value": "تعذر تسجيل الدخول بعنوان البريد الإلكتروني وكلمة المرور اللذين تم إدخالهما."
+    },
+    {
+      "name": "could_you_tell_us_how_we_could_improve",
+      "value": "هل بإمكانك إبلاغنا بكيفية تحسين ذلك؟"
+    },
+    {
+      "name": "couldn_t_retrieve_history",
+      "value": "تعذر استرداد المحفوظات"
+    },
+    {
+      "name": "couldn_t_sign_in",
+      "value": "تعذر تسجيل الدخول"
+    },
+    {
+      "name": "create_a_new_note",
+      "value": "إنشاء ملاحظة جديدة"
+    },
+    {
+      "name": "create_a_new_note_2",
+      "value": "إنشاء ملاحظة جديدة"
+    },
+    {
+      "name": "create_a_new_note_instantly_with_one_tap",
+      "value": "أنشئ ملحوظة جديدة على الفور بنقرة واحدة."
+    },
+    {
+      "name": "create_a_new_note_titled",
+      "value": "إنشاء ملاحظة جديدة بعنوان \"%s\""
+    },
+    {
+      "name": "create_your_first_note",
+      "value": "إنشاء ملحوظتك الأولى"
+    },
+    {
+      "name": "created",
+      "value": "تاريخ الإنشاء"
+    },
+    {
+      "name": "created_newest",
+      "value": "تاريخ الإنشاء: الأحدث"
+    },
+    {
+      "name": "created_oldest",
+      "value": "تاريخ الإنشاء: الأقدم"
+    },
+    {
+      "name": "current_collaborators",
+      "value": "المشاركون الحاليون"
+    },
+    {
+      "name": "dark",
+      "value": "داكن"
+    },
+    {
+      "name": "debug",
+      "value": "إصلاح الخطأ"
+    },
+    {
+      "name": "debug_disabled",
+      "value": "تم تعطيل تصحيح الأخطاء"
+    },
+    {
+      "name": "delete",
+      "value": "حذف"
+    },
+    {
+      "name": "delete_account",
+      "value": "حذف حساب"
+    },
+    {
+      "name": "delete_note",
+      "value": "حذف ملحوظة"
+    },
+    {
+      "name": "delete_notes",
+      "value": "حذف الملاحظات"
+    },
+    {
+      "name": "delete_tag",
+      "value": "حذف الوسم"
+    },
+    {
+      "name": "deselect_all",
+      "value": "إلغاء تحديد الكل"
+    },
+    {
+      "name": "diagnostics",
+      "value": "التشخيصات"
+    },
+    {
+      "name": "didn_t_get_an_email_there_may_already_be_an_account_associat",
+      "value": "ألم يصلك بريدٌ إلكترونيٌ؟ ربما يوجد حساب بالفعل مقترن بعنوان البريد الإلكتروني هذا. اتصل بـ %1$s للحصول على مساعدة."
+    },
+    {
+      "name": "disable_markdown_formatting",
+      "value": "تعطيل تنسيق الضبط"
+    },
+    {
+      "name": "dismiss",
+      "value": "تجاهل"
+    },
+    {
+      "name": "dismiss_history",
+      "value": "تجاهل المحفوظات"
+    },
+    {
+      "name": "dismiss_information",
+      "value": "تجاهل معلومات"
+    },
+    {
+      "name": "dismiss_keyboard",
+      "value": "تجاهل لوحة المفاتيح"
+    },
+    {
+      "name": "document",
+      "value": "مستند"
+    },
+    {
+      "name": "done",
+      "value": "تم"
+    },
+    {
+      "name": "edit",
+      "value": "تحرير"
+    },
+    {
+      "name": "email",
+      "value": "البريد الإلكتروني"
+    },
+    {
+      "name": "email_in_use",
+      "value": "البريد الإلكتروني قيد الاستخدام"
+    },
+    {
+      "name": "empty",
+      "value": "فارغ"
+    },
+    {
+      "name": "empty_trash",
+      "value": "إفراغ سلة المهملات"
+    },
+    {
+      "name": "enable_markdown_formatting",
+      "value": "تمكين تنسيق الضبط"
+    },
+    {
+      "name": "end_editing",
+      "value": "إنهاء التحرير"
+    },
+    {
+      "name": "enqueued",
+      "value": "بقائمة الانتظار"
+    },
+    {
+      "name": "enter_code",
+      "value": "إدخال الكود"
+    },
+    {
+      "name": "enter_password",
+      "value": "إدخال كلمة المرور"
+    },
+    {
+      "name": "enter_the_password_for_the_account_email",
+      "value": "إدخال كلمة المرور الخاصة بالحساب {{EMAIL}}"
+    },
+    {
+      "name": "enter_your_passcode",
+      "value": "إدخال رمز المرور الخاص بك"
+    },
+    {
+      "name": "error",
+      "value": "خطأ"
+    },
+    {
+      "name": "faq_or_contact_us",
+      "value": "الأسئلة المتداولة أو اتصل بنا"
+    },
+    {
+      "name": "face_id",
+      "value": "معرّف الوجه"
+    },
+    {
+      "name": "fetching_version",
+      "value": "سحب الإصدار"
+    },
+    {
+      "name": "forgot_your_password",
+      "value": "هل نسيت كلمة مرورك؟"
+    },
+    {
+      "name": "get_help",
+      "value": "إحصل على المساعدة"
+    },
+    {
+      "name": "get_quick_access_to_a_list_of_all_notes_or_based_on_the_sele",
+      "value": "استمتع بالوصول السريع إلى قائمة بجميع الملحوظات أو استنادًا إلى الوسم المحدَّد."
+    },
+    {
+      "name": "get_quick_access_to_one_of_your_notes",
+      "value": "استمتع بالوصول السريع إلى إحدى ملحوظاتك."
+    },
+    {
+      "name": "great_mind_leaving_a_review_to_tell_us_what_you_like",
+      "value": "رائع! هل تمانع في ترك مراجعة لإخبارنا بما تحب؟"
+    },
+    {
+      "name": "help",
+      "value": "مساعدة"
+    },
+    {
+      "name": "help_us_improve_simplenote_by_sharing_usage_data_with_our_an",
+      "value": "ساعدنا على تحسين Simplenote عن طريق مشاركة بيانات الاستخدام مع أداة التحليلات الخاصة بنا."
+    },
+    {
+      "name": "history",
+      "value": "سجل الأحداث"
+    },
+    {
+      "name": "i_like_it",
+      "value": "يعجبني هذا"
+    },
+    {
+      "name": "index_notes_in_spotlight",
+      "value": "ملاحظات الفهرس في Spotlight"
+    },
+    {
+      "name": "index_removed",
+      "value": "تمت إزالة الفهرس"
+    },
+    {
+      "name": "information",
+      "value": "معلومات"
+    },
+    {
+      "name": "insert_checklist",
+      "value": "إدراج قائمة التحقُّق"
+    },
+    {
+      "name": "inserts_a_new_checklist_item",
+      "value": "إدراج عنصر في قائمة الاختيار الجديدة"
+    },
+    {
+      "name": "last_modified_1",
+      "value": "آخر تعديل في %1$s"
+    },
+    {
+      "name": "lastseen",
+      "value": "آخر عرض"
+    },
+    {
+      "name": "learn_more",
+      "value": "تعرف على المزيد"
+    },
+    {
+      "name": "leave_a_review",
+      "value": "اترك رأيًا"
+    },
+    {
+      "name": "light",
+      "value": "فاتح"
+    },
+    {
+      "name": "link_copied",
+      "value": "تم نسخ الرابط"
+    },
+    {
+      "name": "lock_timeout",
+      "value": "انتهاء مهلة الحظر"
+    },
+    {
+      "name": "log_in",
+      "value": "تسجيل الدخول"
+    },
+    {
+      "name": "log_in_with_password",
+      "value": "تسجيل الدخول باستخدام كلمة المرور"
+    },
+    {
+      "name": "log_out",
+      "value": "تسجيل الخروج"
+    },
+    {
+      "name": "log_in_to_see_your_notes",
+      "value": "تسجيل الدخول للاطلاع على ملحوظاتك"
+    },
+    {
+      "name": "log_in_with_wordpress_com",
+      "value": "تسجيل دخول باستخدام ووردبريس.كوم"
+    },
+    {
+      "name": "log_in_with_email",
+      "value": "تسجيل الدخول باستخدام البريد الإلكتروني"
+    },
+    {
+      "name": "log_in_with_email_failed_please_enter_your_password",
+      "value": "فشل تسجل الدخول باستخدام البريد الإلكتروني، يرجى إدخال كلمة مرورك"
+    },
+    {
+      "name": "login_code_is_too_short",
+      "value": "كود تسجيل الدخول قصير للغاية"
+    },
+    {
+      "name": "mmm_d",
+      "value": "MMM d"
+    },
+    {
+      "name": "mmm_d_h_mm_a",
+      "value": "MMM d، h:mm a"
+    },
+    {
+      "name": "mmm_d_yyyy",
+      "value": "MMM d، yyyy"
+    },
+    {
+      "name": "mmm_yyyy",
+      "value": "MMM yyyy"
+    },
+    {
+      "name": "main_app_is_not_configured",
+      "value": "لم يتم تكوين التطبيق الأساسي"
+    },
+    {
+      "name": "markdown",
+      "value": "الضبط"
+    },
+    {
+      "name": "menu",
+      "value": "القائمة"
+    },
+    {
+      "name": "modified",
+      "value": "معدَّل"
+    },
+    {
+      "name": "modified_newest",
+      "value": "تاريخ التعديل: الأحدث"
+    },
+    {
+      "name": "modified_oldest",
+      "value": "تاريخ التعديل: الأقدم"
+    },
+    {
+      "name": "move_selected_notes_to_trash",
+      "value": "نقل الملحوظات المحدَّدة إلى سلة المهملات"
+    },
+    {
+      "name": "move_to_trash",
+      "value": "نقل إلى سلة المهملات"
+    },
+    {
+      "name": "name_a_z",
+      "value": "الاسم: من A إلى Z"
+    },
+    {
+      "name": "name_z_a",
+      "value": "الاسم: من Z إلى A"
+    },
+    {
+      "name": "new_note",
+      "value": "ملحوظة جديدة"
+    },
+    {
+      "name": "new_note_4",
+      "value": "ملحوظة جديدة..."
+    },
+    {
+      "name": "new_note_2",
+      "value": "ملاحظة جديدة"
+    },
+    {
+      "name": "new_note_3",
+      "value": "ملاحظة جديدة..."
+    },
+    {
+      "name": "next_match",
+      "value": "التطابق التالي"
+    },
+    {
+      "name": "no",
+      "value": "لا"
+    },
+    {
+      "name": "no_results",
+      "value": "لا توجد نتائج"
+    },
+    {
+      "name": "no_simplenote_account",
+      "value": "لا يوجد حساب Simplenote"
+    },
+    {
+      "name": "no_notes_tagged",
+      "value": "لم يتم وسم أي ملاحظات \"%s\""
+    },
+    {
+      "name": "no_previous_valid_purchases_found_for_the_current_period",
+      "value": "لم يتم العثور على عمليات شراء صالحة سابقة بالنسبة إلى الفترة الحالية"
+    },
+    {
+      "name": "no_purchases_found",
+      "value": "لم يتم العثور على عمليات الشراء"
+    },
+    {
+      "name": "no_thanks",
+      "value": "لا شكرًا"
+    },
+    {
+      "name": "no_untagged_notes",
+      "value": "لا توجد أي ملاحظات غير موسومة"
+    },
+    {
+      "name": "note",
+      "value": "ملاحظة"
+    },
+    {
+      "name": "note_list",
+      "value": "قائمة الملحوظات"
+    },
+    {
+      "name": "note_trashed",
+      "value": "لم يتم النقل إلى سلة المهملات"
+    },
+    {
+      "name": "note_no_longer_available",
+      "value": "لم تعد الملحوظة متاحة"
+    },
+    {
+      "name": "notes",
+      "value": "ملاحظات"
+    },
+    {
+      "name": "ok",
+      "value": "موافق"
+    },
+    {
+      "name": "off",
+      "value": "إيقاف تشغيل"
+    },
+    {
+      "name": "ok_2",
+      "value": "موافق"
+    },
+    {
+      "name": "okay",
+      "value": "حسنًا"
+    },
+    {
+      "name": "on",
+      "value": "تشغيل"
+    },
+    {
+      "name": "open_simplenote",
+      "value": "فتح Simplenote"
+    },
+    {
+      "name": "open_note",
+      "value": "فتح الملاحظة"
+    },
+    {
+      "name": "options",
+      "value": "خيارات"
+    },
+    {
+      "name": "or",
+      "value": "أو"
+    },
+    {
+      "name": "passcode",
+      "value": "رمز المرور"
+    },
+    {
+      "name": "passcodes_did_not_match_try_again",
+      "value": "رموز المرور غير متطابقة. حاول مرة أخرى."
+    },
+    {
+      "name": "password",
+      "value": "كلمة المرور"
+    },
+    {
+      "name": "password_cannot_match_email_2",
+      "value": "يتعذر تطابق كلمة المرور مع البريد الإلكتروني"
+    },
+    {
+      "name": "password_must_contain_at_least_d_characters",
+      "value": "يجب أن تحتوي كلمة المرور على %d من الأحرف على الأقل"
+    },
+    {
+      "name": "password_must_not_contain_tabs_nor_newlines",
+      "value": "يجب ألا تحتوي كلمة المرور على علامات جدولة أو خطوط جديدة"
+    },
+    {
+      "name": "pendings",
+      "value": "معلّق"
+    },
+    {
+      "name": "pin_note",
+      "value": "تثبيت الملاحظة"
+    },
+    {
+      "name": "pin_to_top",
+      "value": "تثبيت في المقدمة"
+    },
+    {
+      "name": "please_activate_your_wordpress_com_account_via_email_and_try",
+      "value": "يرجى تنشيط حساب ووردبريس.كوم الخاص بك عبر البريد الإلكتروني والمحاولة مجددًا."
+    },
+    {
+      "name": "please_check_your_network_settings_and_try_again",
+      "value": "يرجى التحقُّق من إعدادات الشبكة لديك والمحاولة مرة أخرى."
+    },
+    {
+      "name": "please_log_into_your_simplenote_account_first_by_using_the_s",
+      "value": "يرجى تسجيل الدخول إلى حسابك على Simplenote أولاً عن طريق استخدام تطبيق Simplenote."
+    },
+    {
+      "name": "please_try_again",
+      "value": "يرجى المحاولة مجددًا"
+    },
+    {
+      "name": "please_upgrade_to_the_latest_ios_release_to_restore_purchase",
+      "value": "ترجى الترقية إلى أحدث إصدار من نظام التشغيل iOS لاستعادة عمليات الشراء"
+    },
+    {
+      "name": "preview",
+      "value": "معاينة"
+    },
+    {
+      "name": "previous_match",
+      "value": "التطابق السابق"
+    },
+    {
+      "name": "privacy_notice_for_california_users",
+      "value": "إشعار الخصوصية الخاص بالمستخدمين في كاليفورنيا"
+    },
+    {
+      "name": "privacy_policy",
+      "value": "سياسة الخصوصية"
+    },
+    {
+      "name": "privacy_settings",
+      "value": "إعدادات الخصوصية"
+    },
+    {
+      "name": "publish",
+      "value": "نشر"
+    },
+    {
+      "name": "publish_successful",
+      "value": "تم النشر بنجاح"
+    },
+    {
+      "name": "publish_note",
+      "value": "نشر الملاحظة"
+    },
+    {
+      "name": "publishing_note",
+      "value": "جارٍ نشر ملحوظة..."
+    },
+    {
+      "name": "publishing",
+      "value": "جار النشر..."
+    },
+    {
+      "name": "rate_us",
+      "value": "صنّفنا"
+    },
+    {
+      "name": "reachability",
+      "value": "إمكانية الوصول"
+    },
+    {
+      "name": "recent",
+      "value": "الحديث"
+    },
+    {
+      "name": "recovered_note_cotent",
+      "value": "تم استرداد Note Cotent - "
+    },
+    {
+      "name": "referenced_in",
+      "value": "تمت الإشارة في"
+    },
+    {
+      "name": "remove_all_notes_from_trash",
+      "value": "إزالة كل الملاحظات من سلة المهملات"
+    },
+    {
+      "name": "remove_tag_from_the_current_note",
+      "value": "إزالة وسم من الملاحظة الحالية"
+    },
+    {
+      "name": "rename",
+      "value": "إعادة التسمية"
+    },
+    {
+      "name": "request_account_deletion",
+      "value": "طلب حذف الحساب"
+    },
+    {
+      "name": "request_error",
+      "value": "خطأ في الطلب"
+    },
+    {
+      "name": "resend_email",
+      "value": "إعادة إرسال البريد الإلكتروني"
+    },
+    {
+      "name": "resend_verification_email",
+      "value": "أعد إرسال رسالة التحقق"
+    },
+    {
+      "name": "reset",
+      "value": "إعادة تعيين"
+    },
+    {
+      "name": "reset_required",
+      "value": "إعادة التعيين مطلوبة"
+    },
+    {
+      "name": "response",
+      "value": "الاستجابة"
+    },
+    {
+      "name": "restore_note",
+      "value": "استعادة الملاحظة"
+    },
+    {
+      "name": "review_your_account",
+      "value": "مراجعة حسابك"
+    },
+    {
+      "name": "save",
+      "value": "حفظ"
+    },
+    {
+      "name": "search",
+      "value": "بحث"
+    },
+    {
+      "name": "search_by_tag",
+      "value": "البحث حسب الوسم"
+    },
+    {
+      "name": "search_notes_or_tags",
+      "value": "البحث عن الملحوظات أو الوسوم"
+    },
+    {
+      "name": "security",
+      "value": "الأمان"
+    },
+    {
+      "name": "select",
+      "value": "تحديد"
+    },
+    {
+      "name": "select_all",
+      "value": "تحديد الكل"
+    },
+    {
+      "name": "select_a_version",
+      "value": "تحديد نسخة"
+    },
+    {
+      "name": "send_a_test_crash",
+      "value": "إرسال اختبار أعطال"
+    },
+    {
+      "name": "send_feedback",
+      "value": "إرسال الملاحظات"
+    },
+    {
+      "name": "set_up_passcode",
+      "value": "إعداد رمز المرور"
+    },
+    {
+      "name": "settings",
+      "value": "إعدادات"
+    },
+    {
+      "name": "share",
+      "value": "مشاركة"
+    },
+    {
+      "name": "share_analytics",
+      "value": "مشاركة التحليلات"
+    },
+    {
+      "name": "share_2",
+      "value": "مشاركة..."
+    },
+    {
+      "name": "sharing_notes_is_now_accessed_through_the_action_menu_from_t",
+      "value": "يمكن الوصول إلى مشاركة الملاحظات من خلال قائمة الإجراءات من شريط الأدوات."
+    },
+    {
+      "name": "sidebar",
+      "value": "الشريط الجانبي"
+    },
+    {
+      "name": "sign_up",
+      "value": "التسجيل"
+    },
+    {
+      "name": "signing_out_will_delete_any_unsynced_notes_you_can_verify_yo",
+      "value": "سيؤدي تسجيل الخروج إلى حذف أي ملحوظات غير متزامنة. يمكنك التحقق من ملحوظاتك المتزامنة عن طريق تسجيل الدخول إلى تطبيق الويب."
+    },
+    {
+      "name": "simplenote",
+      "value": "Simplenote"
+    },
+    {
+      "name": "simplenote_sustainer",
+      "value": "Simplenote Sustainer"
+    },
+    {
+      "name": "simplenote_ios_feedback",
+      "value": "ملاحظات حول Simplenote في نظام التشغيل iOS"
+    },
+    {
+      "name": "simplenote_must_be_configured_and_logged_in_to_setup_widgets",
+      "value": "يجب تكوين Simplenote وتسجيل الدخول إليه لإعداد المربعات الجانبية"
+    },
+    {
+      "name": "sorry",
+      "value": "عذرًا!"
+    },
+    {
+      "name": "sort_alphabetically",
+      "value": "الفرز أبجديًّا"
+    },
+    {
+      "name": "sort_order",
+      "value": "ترتيب الفرز"
+    },
+    {
+      "name": "sort_by",
+      "value": "فرز حسب:"
+    },
+    {
+      "name": "spotlight_history_may_still_appear_in_search_results_but_not",
+      "value": "قد يستمر سجل Spotlight في الظهور في نتائج البحث، لكن يجب إلغاء فهرسة الملاحظات"
+    },
+    {
+      "name": "status_code",
+      "value": "كود الحالة"
+    },
+    {
+      "name": "support_your_favorite_notes_app_to_help_unlock_future_featur",
+      "value": "دعم تطبيق الملحوظات المفضَّل لديك للمساعدة على فتح الميزات في المستقبل"
+    },
+    {
+      "name": "sustainer_app_icon",
+      "value": "أيقونة تطبيق Sustainer"
+    },
+    {
+      "name": "sustainer_subscription_restored_thank_you_for_supporting_sim",
+      "value": "تم استعادة اشتراك Sustainer. شكرًا لك على دعم Simplenote!"
+    },
+    {
+      "name": "system_default",
+      "value": "الإعداد الافتراضي للنظام"
+    },
+    {
+      "name": "tag",
+      "value": "العلامة"
+    },
+    {
+      "name": "tag_no_longer_available",
+      "value": "لم يُعد الوسم متاحًا"
+    },
+    {
+      "name": "tags",
+      "value": "الوسوم"
+    },
+    {
+      "name": "tag_3",
+      "value": "العلامة..."
+    },
+    {
+      "name": "tap_button_to_select_or_deselect_all_notes",
+      "value": "الضغط على الزر لتحديد جميع الملحوظات أو إلغاء تحديدها"
+    },
+    {
+      "name": "terms_and_conditions",
+      "value": "الشروط والأحكام"
+    },
+    {
+      "name": "terms_of_service",
+      "value": "شروط الخدمة"
+    },
+    {
+      "name": "thank_you",
+      "value": "شكرًا لك!"
+    },
+    {
+      "name": "thank_you_for_your_continued_support",
+      "value": "شكرًا لك على دعمك المتواصل"
+    },
+    {
+      "name": "the_authentication_code_you_ve_requested_has_expired_please",
+      "value": "انتهت صلاحية كود المصادقة الذي طلبته. يرجى طلب واحد جديد"
+    },
+    {
+      "name": "the_code_you_ve_entered_is_not_correct_please_try_again",
+      "value": "الكود الذي أدخلته غير صحيح. يرجى المحاولة مجددًا"
+    },
+    {
+      "name": "the_email_you_ve_entered_is_already_associated_with_a_simple",
+      "value": "البريد الإلكتروني الذي أدخلته مرتبط بالفعل بحساب Simplenote."
+    },
+    {
+      "name": "the_network_could_not_be_reached",
+      "value": "يتعذر الوصول إلى الشبكة."
+    },
+    {
+      "name": "the_simplest_way_to_keep_notes",
+      "value": "الطريقة الأسهل للاحتفاظ بالملحوظات."
+    },
+    {
+      "name": "theme",
+      "value": "قالب"
+    },
+    {
+      "name": "themes",
+      "value": "القوالب"
+    },
+    {
+      "name": "there_was_an_preparing_your_verification_email_please_try_ag",
+      "value": "كان يتم إعداد البريد الإلكتروني للتحقُّق من الصحة الخاص بك، يرجى المحاولة  مرة أخرى لاحقًا"
+    },
+    {
+      "name": "this_note_was_deleted_on_another_device",
+      "value": "تم حذف هذه الملحوظة على جهاز آخر"
+    },
+    {
+      "name": "this_password_has_appeared_in_a_data_breach_which_puts_your",
+      "value": "لقد ظهرت كلمة المرور هذه في عملية اختراق بيانات، ما يضع حسابك في خطر كبير لاختراقه. لحماية بياناتك، سيتعين عليك تحديث كلمة مرورك قبل التمكن من تسجيل الدخول مجددًا."
+    },
+    {
+      "name": "to_enable_1_you_must_have_a_passcode_setup_first",
+      "value": "لتمكين %1$s، يجب أن يكون لديك رمز مرور تم إعداده أولاً."
+    },
+    {
+      "name": "to_unlock_the_application",
+      "value": "لإلغاء تأمين التطبيق"
+    },
+    {
+      "name": "today",
+      "value": "اليوم"
+    },
+    {
+      "name": "toggle_markdown",
+      "value": "تبديل الضبط"
+    },
+    {
+      "name": "toggle_tag_sidebar",
+      "value": "تبديل الشريط الجانبي للوسوم"
+    },
+    {
+      "name": "too_many_login_attempts",
+      "value": "محاولات تسجيل دخول كثيرة للغاية"
+    },
+    {
+      "name": "too_many_login_attempts_try_again_later",
+      "value": "محاولات تسجيل دخول كثيرة للغاية. حاول مرة أخرى لاحقًا."
+    },
+    {
+      "name": "touch_id",
+      "value": "معرف اللمس"
+    },
+    {
+      "name": "trash",
+      "value": "سلة المهملات"
+    },
+    {
+      "name": "trash_notes",
+      "value": "نقل الملحوظات إلى سلة المهملات"
+    },
+    {
+      "name": "turn_off_passcode",
+      "value": "إيقاف رمز المرور"
+    },
+    {
+      "name": "undo",
+      "value": "تراجع"
+    },
+    {
+      "name": "unnamed_tag",
+      "value": "وسم بلا اسم."
+    },
+    {
+      "name": "unpin",
+      "value": "إلغاء التثبيت"
+    },
+    {
+      "name": "unpin_note",
+      "value": "إلغاء تثبيت الملاحظة"
+    },
+    {
+      "name": "unpublish_note",
+      "value": "إلغاء نشر الملاحظة"
+    },
+    {
+      "name": "unpublish_successful",
+      "value": "تم إلغاء النشر بنجاح"
+    },
+    {
+      "name": "unpublishing_note",
+      "value": "جارٍ إلغاء نشر الملحوظة..."
+    },
+    {
+      "name": "unpublishing",
+      "value": "جارٍ إلغاء النشر..."
+    },
+    {
+      "name": "unsupported",
+      "value": "غير مدعوم"
+    },
+    {
+      "name": "unsynced_notes_detected",
+      "value": "تم الكشف عن ملحوظات غير متزامنة"
+    },
+    {
+      "name": "untagged",
+      "value": "غير مميز"
+    },
+    {
+      "name": "untagged_notes",
+      "value": "ملحوظات غير مميزة"
+    },
+    {
+      "name": "username",
+      "value": "اسم المستخدم"
+    },
+    {
+      "name": "verify_your_email",
+      "value": "التحقُّق من بريدك الإلكتروني"
+    },
+    {
+      "name": "version",
+      "value": "الإصدار %s"
+    },
+    {
+      "name": "visit_web_app",
+      "value": "زيارة تطبيق الويب"
+    },
+    {
+      "name": "we_ll_email_you_a_code_to_log_in_or_you_can",
+      "value": "سنرسل إليك كودًا بالبريد لتسجيل الدخول، أو يمكنك"
+    },
+    {
+      "name": "we_re_having_problems_please_try_again_soon",
+      "value": "لدينا مشكلات. يُرجى المحاولة مرة أخرى لاحقًا."
+    },
+    {
+      "name": "we_ve_sent_a_code_to_email_the_code_will_be_valid_for_a_few",
+      "value": "لقد أرسلنا كودًا إلى {{EMAIL}} سيكون هذا الكود صالحًا لبضع دقائق."
+    },
+    {
+      "name": "websocket",
+      "value": "WebSocket"
+    },
+    {
+      "name": "we_ve_sent_a_verification_email_to_1_please_check_your_inbox",
+      "value": "لقد أرسلنا بريدًا إلكترونيًا للتحقق إلى %1$s. يرجى التحقُّق من علبة الوارد لديك واتباع الإرشادات."
+    },
+    {
+      "name": "we_ve_sent_an_email_to_1_please_check_your_inbox_and_follow",
+      "value": "لقد أرسلنا بريدًا إلكترونيًا إلى %1$s. يرجى التحقُّق من علبة الوارد لديك واتباع الإرشادات."
+    },
+    {
+      "name": "what_do_you_think_about_simplenote",
+      "value": "ما رأيك في Simplenote؟"
+    },
+    {
+      "name": "will_attempt_to_recover_shortcut_content_on_next_launch",
+      "value": "ستتم محاولة استعادة محتوى الاختصارات في الطرح المقبل"
+    },
+    {
+      "name": "words",
+      "value": "الكلمات"
+    },
+    {
+      "name": "yes",
+      "value": "نعم"
+    },
+    {
+      "name": "yesterday",
+      "value": "أمس"
+    },
+    {
+      "name": "you_are_a_simplenote_sustainer",
+      "value": "أصبحت Simplenote Sustainer"
+    },
+    {
+      "name": "you_are_registered_with_simplenote_using_the_email_1_improve",
+      "value": "لقد قمت بالتسجيل في Simplenote باستخدام البريد الإلكتروني %1$s.\n\nقد تؤدي التحسينات التي يتم إجراؤها على أمان الحساب إلى فقدان الحساب إذا لم يعد لديك حق الوصول إلى عنوان البريد الإلكتروني هذا."
+    },
+    {
+      "name": "you_must_verify_your_email_before_being_able_to_login",
+      "value": "يجب أن تتحقَّق من بريدك الإلكتروني قبل أن تتمكن من تسجيل الدخول."
+    },
+    {
+      "name": "you_re_already_a_sustainer_thank_you_for_supporting_simpleno",
+      "value": "أصبحت Sustainer بالفعل. شكرًا لك على دعم Simplenote!"
+    },
+    {
+      "name": "your_authentication_code_has_expired_please_request_a_new_on",
+      "value": "انتهت صلاحية كود المصادقة الخاص بك. يرجى طلب واحد جديد"
+    },
+    {
+      "name": "your_email_address_is_not_valid",
+      "value": "عنوان البريد الإلكتروني الخاص بك غير صالح."
+    },
+    {
+      "name": "your_password_is_insecure_and_must_be_reset_the_password_req",
+      "value": "كلمة مرورك غير آمنة وتجب إعادة تعيينها. فيما يأتي متطلبات كلمة المرور:"
+    },
+    {
+      "name": "your_trash_is_empty",
+      "value": "سلة المهملات لديك فارغة"
+    },
+    {
+      "name": "log_in_manually",
+      "value": "التسجيل يدويًا."
+    },
+    {
+      "name": "tag_2",
+      "value": "وسم:"
+    },
+    {
+      "name": "debug_enabled",
+      "value": "🐞 تم تمكين تصحيح الأخطاء 🐞"
+    }
+  ]
+}

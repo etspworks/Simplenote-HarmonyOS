@@ -1,0 +1,1340 @@
+{
+  "string": [
+    {
+      "name": "d_result",
+      "value": "%d Resultato"
+    },
+    {
+      "name": "d_results",
+      "value": "%d Resultati"
+    },
+    {
+      "name": "i_failed_passcode_attempt",
+      "value": "%d tentativo di accesso fallito"
+    },
+    {
+      "name": "i_failed_passcode_attempts",
+      "value": "%d tentativi di accesso falliti"
+    },
+    {
+      "name": "i_note_trashed",
+      "value": "%d nota spostata nel cestino"
+    },
+    {
+      "name": "i_notes_trashed",
+      "value": "%d note spostate nel cestino"
+    },
+    {
+      "name": "i_reference",
+      "value": "%d riferimento"
+    },
+    {
+      "name": "i_references",
+      "value": "%d riferimenti"
+    },
+    {
+      "name": "i_selected",
+      "value": "%I Selezionate"
+    },
+    {
+      "name": "minimum_of_8_characters",
+      "value": "- Minimo 8 caratteri"
+    },
+    {
+      "name": "neither_tabs_nor_newlines_are_allowed",
+      "value": "- Non sono consentite schede o nuove righe"
+    },
+    {
+      "name": "password_cannot_match_email",
+      "value": "- La password non può corrispondere all'e-mail"
+    },
+    {
+      "name": "s_1_minute",
+      "value": "1 minuto"
+    },
+    {
+      "name": "s_15_seconds",
+      "value": "15 secondi"
+    },
+    {
+      "name": "s_2_minutes",
+      "value": "2 minuti"
+    },
+    {
+      "name": "s_3_minutes",
+      "value": "3 minuti"
+    },
+    {
+      "name": "s_30_seconds",
+      "value": "30 secondi"
+    },
+    {
+      "name": "s_4_minutes",
+      "value": "4 minuti"
+    },
+    {
+      "name": "s_5_minutes",
+      "value": "5 minuti"
+    },
+    {
+      "name": "a_network_connection_is_required_please_check_your_connectio",
+      "value": "È richiesta una connessione di rete. Controlla la connessione e riprova."
+    },
+    {
+      "name": "about",
+      "value": "Informazioni"
+    },
+    {
+      "name": "accept",
+      "value": "Ok"
+    },
+    {
+      "name": "account",
+      "value": "Account"
+    },
+    {
+      "name": "account_verification_required",
+      "value": "Verifica dell'account richiesta"
+    },
+    {
+      "name": "add_a_new_collaborator",
+      "value": "Aggiungi un nuovo collaboratore..."
+    },
+    {
+      "name": "add_a_tag_to_the_current_note",
+      "value": "Aggiungi un tag alla nota attuale"
+    },
+    {
+      "name": "add_an_email_address_to_share_this_note_with_someone_then_yo",
+      "value": "Aggiungi un indirizzo e-mail per condividere questa nota con qualcuno. Entrambi potete così effettuare modifiche."
+    },
+    {
+      "name": "add_tag",
+      "value": "Aggiungi tag"
+    },
+    {
+      "name": "all_notes",
+      "value": "Tutte le note"
+    },
+    {
+      "name": "an_email_has_been_sent_to_check_your_inbox_and_follow_the_in",
+      "value": "È stata inviata un'e-mail a %s Controlla la posta in arrivo e segui le istruzioni per confermare l'eliminazione dell'account.\n\nIl tuo account non verrà eliminato fino alla ricezione della conferma"
+    },
+    {
+      "name": "an_error_occured_please_try_again_if_the_problem_continues_c",
+      "value": "Si è verificato un errore. Riprova. Se il problema persiste, contattaci all'indirizzo support@simplenote.com per ricevere supporto."
+    },
+    {
+      "name": "an_error_was_encountered_while_signing_in",
+      "value": "Si è verificato un errore durante l'accesso."
+    },
+    {
+      "name": "appearance",
+      "value": "Aspetto"
+    },
+    {
+      "name": "are_you_a_developer_we_re_hiring",
+      "value": "Sei uno sviluppatore? Stiamo assumendo."
+    },
+    {
+      "name": "are_you_sure_you_want_to_delete_1",
+      "value": "Desideri eliminare \"%1$s\"?"
+    },
+    {
+      "name": "are_you_sure_you_want_to_empty_the_trash_this_cannot_be_undo",
+      "value": "Desideri svuotare il cestino? Questa operazione non può essere annullata."
+    },
+    {
+      "name": "attempt_to_fetch_current_note_content_failed_please_try_agai",
+      "value": "Il tentativo di recuperare il contenuto della nota attuale non è riuscito.  Riprova più tardi."
+    },
+    {
+      "name": "attempt_to_fetch_entities_failed_please_try_again_later",
+      "value": "Il tentativo di recuperare le entità non è riuscito.  Riprova più tardi."
+    },
+    {
+      "name": "attempt_to_fetch_notes_failed_please_try_again_later",
+      "value": "Il tentativo di recuperare le note non è riuscito.  Riprova più tardi."
+    },
+    {
+      "name": "attempt_to_fetch_tags_failed_please_try_again_later",
+      "value": "Il tentativo di recuperare i tag non è riuscito.  Riprova più tardi."
+    },
+    {
+      "name": "authenticated",
+      "value": "Autenticato"
+    },
+    {
+      "name": "become_a_simplenote_sustainer",
+      "value": "Diventa un sostenitore Simplenote"
+    },
+    {
+      "name": "blog",
+      "value": "Blog"
+    },
+    {
+      "name": "by_creating_an_account_you_agree_to_our",
+      "value": "Se crei un account, accetti i nostri"
+    },
+    {
+      "name": "by_deleting_the_account_for_all_notes_created_with_this_acco",
+      "value": "Eliminando il tuo account per %s, tutte le note create con esso verranno eliminate definitivamente. Questa azione non potrà essere annullata"
+    },
+    {
+      "name": "cancel",
+      "value": "Annulla"
+    },
+    {
+      "name": "cancel_share",
+      "value": "Annulla condivisione"
+    },
+    {
+      "name": "cannot_confirm_account",
+      "value": "Impossibile confermare l'account"
+    },
+    {
+      "name": "cannot_send_verification_email",
+      "value": "Impossibile inviare l'e-mail di verifica"
+    },
+    {
+      "name": "careers",
+      "value": "Opportunità di lavoro"
+    },
+    {
+      "name": "change_email",
+      "value": "Cambia e-mail"
+    },
+    {
+      "name": "change_password",
+      "value": "Cambia la password"
+    },
+    {
+      "name": "characters",
+      "value": "Caratteri"
+    },
+    {
+      "name": "check_your_email",
+      "value": "Controlla l'e-mail"
+    },
+    {
+      "name": "check_your_email_2",
+      "value": "Verifica l'e-mail"
+    },
+    {
+      "name": "choose_a_4_digit_passcode",
+      "value": "Scegli un PIN di 4 cifre"
+    },
+    {
+      "name": "code",
+      "value": "Codice"
+    },
+    {
+      "name": "collaborate",
+      "value": "Collabora"
+    },
+    {
+      "name": "collaboration_has_moved",
+      "value": "La collaborazione è stata rimossa"
+    },
+    {
+      "name": "collaborators",
+      "value": "Collaboratori"
+    },
+    {
+      "name": "compromised_password",
+      "value": "Password compromessa"
+    },
+    {
+      "name": "condensed_note_list",
+      "value": "Elenco note ristretto"
+    },
+    {
+      "name": "confirm",
+      "value": "Conferma"
+    },
+    {
+      "name": "confirm_your_passcode",
+      "value": "Conferma il PIN"
+    },
+    {
+      "name": "contribute",
+      "value": "Contribuisci"
+    },
+    {
+      "name": "copy_internal_link",
+      "value": "Copia link interno"
+    },
+    {
+      "name": "copy_link_2",
+      "value": "Copia link"
+    },
+    {
+      "name": "copy_link",
+      "value": "Copia link"
+    },
+    {
+      "name": "could_be_better",
+      "value": "Potrebbe essere meglio"
+    },
+    {
+      "name": "could_not_create_an_account_with_the_provided_email_address",
+      "value": "Non è possibile creare un account con l'indirizzo email e la password forniti."
+    },
+    {
+      "name": "could_not_delete_tag",
+      "value": "Impossibile eliminare il tag"
+    },
+    {
+      "name": "could_not_fetch_notes",
+      "value": "Impossibile recuperare le note"
+    },
+    {
+      "name": "could_not_fetch_tags",
+      "value": "Impossibile recuperare i tag"
+    },
+    {
+      "name": "could_not_fetch_entities",
+      "value": "Impossibile recuperare le entità"
+    },
+    {
+      "name": "could_not_fetch_note_content",
+      "value": "Impossibile recuperare il contenuto delle note"
+    },
+    {
+      "name": "could_not_login_with_the_provided_email_address_and_password",
+      "value": "Nome utente o password errata."
+    },
+    {
+      "name": "could_you_tell_us_how_we_could_improve",
+      "value": "Puoi dirci come possiamo migliorare?"
+    },
+    {
+      "name": "couldn_t_retrieve_history",
+      "value": "Impossibile recuperare la cronologia"
+    },
+    {
+      "name": "couldn_t_sign_in",
+      "value": "Impossibile accedere"
+    },
+    {
+      "name": "create_a_new_note",
+      "value": "Crea una nuova nota"
+    },
+    {
+      "name": "create_a_new_note_2",
+      "value": "Crea una nuova nota"
+    },
+    {
+      "name": "create_a_new_note_instantly_with_one_tap",
+      "value": "Crea una nuova nota subito con un solo tocco."
+    },
+    {
+      "name": "create_a_new_note_titled",
+      "value": "Crea una nuova nota intitolata “%s”"
+    },
+    {
+      "name": "create_your_first_note",
+      "value": "Crea la tua prima nota"
+    },
+    {
+      "name": "created",
+      "value": "Data creazione"
+    },
+    {
+      "name": "created_newest",
+      "value": "Data di creazione: più recente"
+    },
+    {
+      "name": "created_oldest",
+      "value": "Data di creazione: meno recente"
+    },
+    {
+      "name": "current_collaborators",
+      "value": "Collaboratori attuali"
+    },
+    {
+      "name": "dark",
+      "value": "Scuro"
+    },
+    {
+      "name": "debug",
+      "value": "Debug"
+    },
+    {
+      "name": "debug_disabled",
+      "value": "Debug disattivato"
+    },
+    {
+      "name": "delete",
+      "value": "Elimina"
+    },
+    {
+      "name": "delete_account",
+      "value": "Elimina account"
+    },
+    {
+      "name": "delete_note",
+      "value": "Elimina nota"
+    },
+    {
+      "name": "delete_notes",
+      "value": "Cancella note"
+    },
+    {
+      "name": "delete_tag",
+      "value": "Elimina tag"
+    },
+    {
+      "name": "deselect_all",
+      "value": "Deseleziona tutto"
+    },
+    {
+      "name": "diagnostics",
+      "value": "Diagnostica"
+    },
+    {
+      "name": "didn_t_get_an_email_there_may_already_be_an_account_associat",
+      "value": "Non ti è arrivata alcuna e-mail? Potrebbe già essere presente un account associato a questo indirizzo email. Contatta %1$s per assistenza."
+    },
+    {
+      "name": "disable_markdown_formatting",
+      "value": "Disabilita formattazione Markdown"
+    },
+    {
+      "name": "dismiss",
+      "value": "Rimuovi"
+    },
+    {
+      "name": "dismiss_history",
+      "value": "Chiudi cronologia"
+    },
+    {
+      "name": "dismiss_information",
+      "value": "Chiudi informazioni"
+    },
+    {
+      "name": "dismiss_keyboard",
+      "value": "Nascondi la tastiera"
+    },
+    {
+      "name": "document",
+      "value": "Documento"
+    },
+    {
+      "name": "done",
+      "value": "Fatto"
+    },
+    {
+      "name": "edit",
+      "value": "Modifica"
+    },
+    {
+      "name": "email",
+      "value": "Email"
+    },
+    {
+      "name": "email_in_use",
+      "value": "E-mail in uso"
+    },
+    {
+      "name": "empty",
+      "value": "Svuota"
+    },
+    {
+      "name": "empty_trash",
+      "value": "Svuota cestino"
+    },
+    {
+      "name": "enable_markdown_formatting",
+      "value": "Abilita formattazione Markdown"
+    },
+    {
+      "name": "end_editing",
+      "value": "Termina modifica"
+    },
+    {
+      "name": "enqueued",
+      "value": "In coda"
+    },
+    {
+      "name": "enter_code",
+      "value": "Inserisci codice"
+    },
+    {
+      "name": "enter_password",
+      "value": "Inserisci password"
+    },
+    {
+      "name": "enter_the_password_for_the_account_email",
+      "value": "Digita la password per l'account {{EMAIL}}"
+    },
+    {
+      "name": "enter_your_passcode",
+      "value": "Inserisci il tuo PIN"
+    },
+    {
+      "name": "error",
+      "value": "Errore"
+    },
+    {
+      "name": "faq_or_contact_us",
+      "value": "FAQ o contattaci"
+    },
+    {
+      "name": "face_id",
+      "value": "Face ID"
+    },
+    {
+      "name": "fetching_version",
+      "value": "Recupero della versione"
+    },
+    {
+      "name": "forgot_your_password",
+      "value": "Password dimenticata?"
+    },
+    {
+      "name": "get_help",
+      "value": "Richiedi supporto"
+    },
+    {
+      "name": "get_quick_access_to_a_list_of_all_notes_or_based_on_the_sele",
+      "value": "Ottieni accesso rapido a un elenco di tutte le note o in base al tag selezionato."
+    },
+    {
+      "name": "get_quick_access_to_one_of_your_notes",
+      "value": "Ottieni accesso rapido a una delle tue note."
+    },
+    {
+      "name": "great_mind_leaving_a_review_to_tell_us_what_you_like",
+      "value": "Fantastico! Potresti lasciare una recensione per dirci cosa ti piace?"
+    },
+    {
+      "name": "help",
+      "value": "Aiuto"
+    },
+    {
+      "name": "help_us_improve_simplenote_by_sharing_usage_data_with_our_an",
+      "value": "Aiutaci a migliorare Simplenote condividendo i dato di utilizzo con il nostro strumento di analisi."
+    },
+    {
+      "name": "history",
+      "value": "Storia"
+    },
+    {
+      "name": "i_like_it",
+      "value": "Mi piace"
+    },
+    {
+      "name": "index_notes_in_spotlight",
+      "value": "Note dell'indice in Spotlight"
+    },
+    {
+      "name": "index_removed",
+      "value": "Indice rimosso"
+    },
+    {
+      "name": "information",
+      "value": "Informazioni"
+    },
+    {
+      "name": "insert_checklist",
+      "value": "Inserisci checklist"
+    },
+    {
+      "name": "inserts_a_new_checklist_item",
+      "value": "Inserisce un nuovo elemento checklist"
+    },
+    {
+      "name": "last_modified_1",
+      "value": "Ultima modifica %1$s"
+    },
+    {
+      "name": "lastseen",
+      "value": "Ultima visualizzazione"
+    },
+    {
+      "name": "learn_more",
+      "value": "Per saperne di più"
+    },
+    {
+      "name": "leave_a_review",
+      "value": "Lascia una recensione"
+    },
+    {
+      "name": "light",
+      "value": "Chiaro"
+    },
+    {
+      "name": "link_copied",
+      "value": "Link copiato"
+    },
+    {
+      "name": "lock_timeout",
+      "value": "Timeout di blocco"
+    },
+    {
+      "name": "log_in",
+      "value": "Accedi"
+    },
+    {
+      "name": "log_in_with_password",
+      "value": "Accedi con la password"
+    },
+    {
+      "name": "log_out",
+      "value": "Esci"
+    },
+    {
+      "name": "log_in_to_see_your_notes",
+      "value": "Accedi per visualizzare le note"
+    },
+    {
+      "name": "log_in_with_wordpress_com",
+      "value": "Accedi con WordPress.com"
+    },
+    {
+      "name": "log_in_with_email",
+      "value": "Accedi con l'e-mail"
+    },
+    {
+      "name": "log_in_with_email_failed_please_enter_your_password",
+      "value": "Accesso con e-mail non riuscito, inserisci la tua password"
+    },
+    {
+      "name": "login_code_is_too_short",
+      "value": "Il codice di accesso è troppo breve"
+    },
+    {
+      "name": "mmm_d",
+      "value": "d MMM"
+    },
+    {
+      "name": "mmm_d_h_mm_a",
+      "value": "d MMM, h:mm a"
+    },
+    {
+      "name": "mmm_d_yyyy",
+      "value": "d MMM yyyy"
+    },
+    {
+      "name": "mmm_yyyy",
+      "value": "MMM yyyy"
+    },
+    {
+      "name": "main_app_is_not_configured",
+      "value": "L'app principale non è configurata"
+    },
+    {
+      "name": "markdown",
+      "value": "Markdown"
+    },
+    {
+      "name": "menu",
+      "value": "Menu"
+    },
+    {
+      "name": "modified",
+      "value": "Data modifica"
+    },
+    {
+      "name": "modified_newest",
+      "value": "Data di modifica: più recente"
+    },
+    {
+      "name": "modified_oldest",
+      "value": "Data di modifica: meno recente"
+    },
+    {
+      "name": "move_selected_notes_to_trash",
+      "value": "Sposta le note selezionate nel cestino"
+    },
+    {
+      "name": "move_to_trash",
+      "value": "Sposta nel cestino"
+    },
+    {
+      "name": "name_a_z",
+      "value": "Nome: A-Z"
+    },
+    {
+      "name": "name_z_a",
+      "value": "Nome: Z-A"
+    },
+    {
+      "name": "new_note",
+      "value": "Nuova nota"
+    },
+    {
+      "name": "new_note_4",
+      "value": "Nuova nota..."
+    },
+    {
+      "name": "new_note_2",
+      "value": "Nuova nota"
+    },
+    {
+      "name": "new_note_3",
+      "value": "Nuova nota..."
+    },
+    {
+      "name": "next_match",
+      "value": "Corrispondenza successiva"
+    },
+    {
+      "name": "no",
+      "value": "No"
+    },
+    {
+      "name": "no_results",
+      "value": "Nessun risultato"
+    },
+    {
+      "name": "no_simplenote_account",
+      "value": "Nessun account Simplenote"
+    },
+    {
+      "name": "no_notes_tagged",
+      "value": "Nessun nota con tag “%s”"
+    },
+    {
+      "name": "no_previous_valid_purchases_found_for_the_current_period",
+      "value": "Per il periodo corrente, nessun acquisto precedente valido trovato"
+    },
+    {
+      "name": "no_purchases_found",
+      "value": "Nessun acquisto trovato"
+    },
+    {
+      "name": "no_thanks",
+      "value": "No grazie"
+    },
+    {
+      "name": "no_untagged_notes",
+      "value": "Nessuna nota senza tag"
+    },
+    {
+      "name": "note",
+      "value": "Nota"
+    },
+    {
+      "name": "note_list",
+      "value": "Elenco delle note"
+    },
+    {
+      "name": "note_trashed",
+      "value": "Nota spostata nel cestino"
+    },
+    {
+      "name": "note_no_longer_available",
+      "value": "Nota non più disponibile"
+    },
+    {
+      "name": "notes",
+      "value": "Note"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "off",
+      "value": "Off"
+    },
+    {
+      "name": "ok_2",
+      "value": "OK"
+    },
+    {
+      "name": "okay",
+      "value": "Ok"
+    },
+    {
+      "name": "on",
+      "value": "On"
+    },
+    {
+      "name": "open_simplenote",
+      "value": "Apri Simplenote"
+    },
+    {
+      "name": "open_note",
+      "value": "Apri nota"
+    },
+    {
+      "name": "options",
+      "value": "Opzioni"
+    },
+    {
+      "name": "or",
+      "value": "Or"
+    },
+    {
+      "name": "passcode",
+      "value": "PIN"
+    },
+    {
+      "name": "passcodes_did_not_match_try_again",
+      "value": "PIN non coincidono. Prova ancora."
+    },
+    {
+      "name": "password",
+      "value": "Password"
+    },
+    {
+      "name": "password_cannot_match_email_2",
+      "value": "La password non può corrispondere all'e-mail"
+    },
+    {
+      "name": "password_must_contain_at_least_d_characters",
+      "value": "La password deve contenere almeno %d caratteri"
+    },
+    {
+      "name": "password_must_not_contain_tabs_nor_newlines",
+      "value": "La password non deve contenere schede o nuove righe"
+    },
+    {
+      "name": "pendings",
+      "value": "In attesa"
+    },
+    {
+      "name": "pin_note",
+      "value": "Aggancia"
+    },
+    {
+      "name": "pin_to_top",
+      "value": "Aggancia"
+    },
+    {
+      "name": "please_activate_your_wordpress_com_account_via_email_and_try",
+      "value": "Attiva l'account WordPress.com via e-mail e riprova."
+    },
+    {
+      "name": "please_check_your_network_settings_and_try_again",
+      "value": "Controlla le impostazioni di rete e riprova."
+    },
+    {
+      "name": "please_log_into_your_simplenote_account_first_by_using_the_s",
+      "value": "Accedi al tuo account Simplenote prima usando l'app Simplenote."
+    },
+    {
+      "name": "please_try_again",
+      "value": "Riprova"
+    },
+    {
+      "name": "please_upgrade_to_the_latest_ios_release_to_restore_purchase",
+      "value": "Per ripristinare gli acquisti, effettua l'aggiornamento alla versione iOS più recente"
+    },
+    {
+      "name": "preview",
+      "value": "Visualizzare in anteprima"
+    },
+    {
+      "name": "previous_match",
+      "value": "Corrispondenza precedente"
+    },
+    {
+      "name": "privacy_notice_for_california_users",
+      "value": "Nota sulla privacy per utenti in California"
+    },
+    {
+      "name": "privacy_policy",
+      "value": "Politica sulla privacy"
+    },
+    {
+      "name": "privacy_settings",
+      "value": "Impostazioni privacy"
+    },
+    {
+      "name": "publish",
+      "value": "Pubblica"
+    },
+    {
+      "name": "publish_successful",
+      "value": "Pubblicazione completata"
+    },
+    {
+      "name": "publish_note",
+      "value": "Pubblica nota"
+    },
+    {
+      "name": "publishing_note",
+      "value": "Pubblicazione della nota in corso..."
+    },
+    {
+      "name": "publishing",
+      "value": "Pubblicazione in corso..."
+    },
+    {
+      "name": "rate_us",
+      "value": "Valutaci"
+    },
+    {
+      "name": "reachability",
+      "value": "Raggiungibilità"
+    },
+    {
+      "name": "recent",
+      "value": "Recente"
+    },
+    {
+      "name": "recovered_note_cotent",
+      "value": "Contenuto della nota recuperato - "
+    },
+    {
+      "name": "referenced_in",
+      "value": "Riferimento in"
+    },
+    {
+      "name": "remove_all_notes_from_trash",
+      "value": "Elimina tutte le note dal cestino"
+    },
+    {
+      "name": "remove_tag_from_the_current_note",
+      "value": "Rimuovi il tag dalla nota attuale"
+    },
+    {
+      "name": "rename",
+      "value": "Rinomina"
+    },
+    {
+      "name": "request_account_deletion",
+      "value": "Richiedi eliminazione account"
+    },
+    {
+      "name": "request_error",
+      "value": "Errore richiesta"
+    },
+    {
+      "name": "resend_email",
+      "value": "Invia di nuovo l'e-mail"
+    },
+    {
+      "name": "resend_verification_email",
+      "value": "Rinvia e-mail di verifica"
+    },
+    {
+      "name": "reset",
+      "value": "Ripristina"
+    },
+    {
+      "name": "reset_required",
+      "value": "Ripristino richiesto"
+    },
+    {
+      "name": "response",
+      "value": "Risposta"
+    },
+    {
+      "name": "restore_note",
+      "value": "Ripristina la nota"
+    },
+    {
+      "name": "review_your_account",
+      "value": "Verifica il tuo account"
+    },
+    {
+      "name": "save",
+      "value": "Salva"
+    },
+    {
+      "name": "search",
+      "value": "Ricerca"
+    },
+    {
+      "name": "search_by_tag",
+      "value": "Cerca per tag"
+    },
+    {
+      "name": "search_notes_or_tags",
+      "value": "Cerca note o tag"
+    },
+    {
+      "name": "security",
+      "value": "Sicurezza"
+    },
+    {
+      "name": "select",
+      "value": "Seleziona"
+    },
+    {
+      "name": "select_all",
+      "value": "Seleziona tutto"
+    },
+    {
+      "name": "select_a_version",
+      "value": "Seleziona una versione"
+    },
+    {
+      "name": "send_a_test_crash",
+      "value": "Invia un crash test"
+    },
+    {
+      "name": "send_feedback",
+      "value": "Invia un feedback"
+    },
+    {
+      "name": "set_up_passcode",
+      "value": "Imposta un PIN"
+    },
+    {
+      "name": "settings",
+      "value": "Impostazioni"
+    },
+    {
+      "name": "share",
+      "value": "Condividi"
+    },
+    {
+      "name": "share_analytics",
+      "value": "Condividi analisi"
+    },
+    {
+      "name": "share_2",
+      "value": "Condividi..."
+    },
+    {
+      "name": "sharing_notes_is_now_accessed_through_the_action_menu_from_t",
+      "value": "Per condividere le note ora si accede dal menu di azione dalla barra degli strumenti."
+    },
+    {
+      "name": "sidebar",
+      "value": "Barra laterale"
+    },
+    {
+      "name": "sign_up",
+      "value": "Crea account"
+    },
+    {
+      "name": "signing_out_will_delete_any_unsynced_notes_you_can_verify_yo",
+      "value": "La disconnessione causerà l’eliminazione di tutte le note non sincronizzate. È possibile verificare le note sincronizzate accedendo all’app web."
+    },
+    {
+      "name": "simplenote",
+      "value": "Simplenote"
+    },
+    {
+      "name": "simplenote_sustainer",
+      "value": "Sostenitore Simplenote"
+    },
+    {
+      "name": "simplenote_ios_feedback",
+      "value": "Feedback di Simplenote iOS"
+    },
+    {
+      "name": "simplenote_must_be_configured_and_logged_in_to_setup_widgets",
+      "value": "Simplenote deve essere configurato e deve essere stato effettuato l'accesso per configurare i widget"
+    },
+    {
+      "name": "sorry",
+      "value": "Siamo spiacenti."
+    },
+    {
+      "name": "sort_alphabetically",
+      "value": "Ordine alfabetico"
+    },
+    {
+      "name": "sort_order",
+      "value": "Ordina per"
+    },
+    {
+      "name": "sort_by",
+      "value": "Ordina per:"
+    },
+    {
+      "name": "spotlight_history_may_still_appear_in_search_results_but_not",
+      "value": "La cronologia Spotlight potrebbe apparire ancora nei risultati di ricerca, ma le note sono state rimosse dall'indice"
+    },
+    {
+      "name": "status_code",
+      "value": "Codice stato"
+    },
+    {
+      "name": "support_your_favorite_notes_app_to_help_unlock_future_featur",
+      "value": "Supporta la tua app di annotazione preferita per aiutarci a sbloccare funzionalità future"
+    },
+    {
+      "name": "sustainer_app_icon",
+      "value": "Icona app sostenitore"
+    },
+    {
+      "name": "sustainer_subscription_restored_thank_you_for_supporting_sim",
+      "value": "Abbonamento di sostenitore ripristinato. Grazie per il supporto a Simplenote!"
+    },
+    {
+      "name": "system_default",
+      "value": "Sistema predefinito"
+    },
+    {
+      "name": "tag",
+      "value": "Tag"
+    },
+    {
+      "name": "tag_no_longer_available",
+      "value": "Tag non più disponibile"
+    },
+    {
+      "name": "tags",
+      "value": "Tag"
+    },
+    {
+      "name": "tag_3",
+      "value": "Tag..."
+    },
+    {
+      "name": "tap_button_to_select_or_deselect_all_notes",
+      "value": "Tocca il pulsante per selezionare o deselezionare tutte le note"
+    },
+    {
+      "name": "terms_and_conditions",
+      "value": "Termini e condizioni"
+    },
+    {
+      "name": "terms_of_service",
+      "value": "Termini di Servizio"
+    },
+    {
+      "name": "thank_you",
+      "value": "Grazie!"
+    },
+    {
+      "name": "thank_you_for_your_continued_support",
+      "value": "Grazie per il supporto continuo"
+    },
+    {
+      "name": "the_authentication_code_you_ve_requested_has_expired_please",
+      "value": "Il codice di autenticazione che hai richiesto è scaduto. Richiedine uno nuovo"
+    },
+    {
+      "name": "the_code_you_ve_entered_is_not_correct_please_try_again",
+      "value": "Il codice che hai inserito non è corretto. Riprova"
+    },
+    {
+      "name": "the_email_you_ve_entered_is_already_associated_with_a_simple",
+      "value": "L'indirizzo e-mail inserito è già associato a un account Simplenote."
+    },
+    {
+      "name": "the_network_could_not_be_reached",
+      "value": "Non è stato possibile raggiungere la rete."
+    },
+    {
+      "name": "the_simplest_way_to_keep_notes",
+      "value": "Prendere nota ora è semplice."
+    },
+    {
+      "name": "theme",
+      "value": "Tema"
+    },
+    {
+      "name": "themes",
+      "value": "Temi"
+    },
+    {
+      "name": "there_was_an_preparing_your_verification_email_please_try_ag",
+      "value": "È stata preparata la tua e-mail di verifica, prova di nuovo più tardi"
+    },
+    {
+      "name": "this_note_was_deleted_on_another_device",
+      "value": "Questa nota è stata eliminata su un altro dispositivo."
+    },
+    {
+      "name": "this_password_has_appeared_in_a_data_breach_which_puts_your",
+      "value": "Questa password è apparsa in una violazione dei dati, che mette il tuo account ad alto rischio di compromissione. Per proteggere i tuoi dati, dovrai aggiornare la password prima di poter di accedere nuovamente."
+    },
+    {
+      "name": "to_enable_1_you_must_have_a_passcode_setup_first",
+      "value": "Per abilitare %1$s, devi avere una prima configurazione del PIN."
+    },
+    {
+      "name": "to_unlock_the_application",
+      "value": "Come sbloccare l'applicazione"
+    },
+    {
+      "name": "today",
+      "value": "Oggi"
+    },
+    {
+      "name": "toggle_markdown",
+      "value": "Markdown di attivazione\\/disattivazione"
+    },
+    {
+      "name": "toggle_tag_sidebar",
+      "value": "Mostra barra laterale"
+    },
+    {
+      "name": "too_many_login_attempts",
+      "value": "Troppi tentativi di accesso"
+    },
+    {
+      "name": "too_many_login_attempts_try_again_later",
+      "value": "Troppi tentativi di accesso. Riprova più tardi."
+    },
+    {
+      "name": "touch_id",
+      "value": "Touch ID"
+    },
+    {
+      "name": "trash",
+      "value": "Cestino"
+    },
+    {
+      "name": "trash_notes",
+      "value": "Sposta le note nel cestino"
+    },
+    {
+      "name": "turn_off_passcode",
+      "value": "Disabilita il PIN"
+    },
+    {
+      "name": "undo",
+      "value": "Annulla"
+    },
+    {
+      "name": "unnamed_tag",
+      "value": "Tag senza nome"
+    },
+    {
+      "name": "unpin",
+      "value": "Sgancia"
+    },
+    {
+      "name": "unpin_note",
+      "value": "Sgancia"
+    },
+    {
+      "name": "unpublish_note",
+      "value": "Non pubblicare la nota"
+    },
+    {
+      "name": "unpublish_successful",
+      "value": "Annullamento della pubblicazione completato"
+    },
+    {
+      "name": "unpublishing_note",
+      "value": "Annullamento della pubblicazione della nota in corso..."
+    },
+    {
+      "name": "unpublishing",
+      "value": "Rimuovendo dalla pubblicazione"
+    },
+    {
+      "name": "unsupported",
+      "value": "Non supportato"
+    },
+    {
+      "name": "unsynced_notes_detected",
+      "value": "Note non sincronizzate rilevate"
+    },
+    {
+      "name": "untagged",
+      "value": "Rimosse"
+    },
+    {
+      "name": "untagged_notes",
+      "value": "Note rimosse"
+    },
+    {
+      "name": "username",
+      "value": "Nome utente"
+    },
+    {
+      "name": "verify_your_email",
+      "value": "Verifica la tua e-mail"
+    },
+    {
+      "name": "version",
+      "value": "Versione %s"
+    },
+    {
+      "name": "visit_web_app",
+      "value": "Visita l'app web"
+    },
+    {
+      "name": "we_ll_email_you_a_code_to_log_in_or_you_can",
+      "value": "Ti invieremo un codice per l'accesso, oppure puoi"
+    },
+    {
+      "name": "we_re_having_problems_please_try_again_soon",
+      "value": "Stiamo riscontrando dei problemi. Riprova a breve."
+    },
+    {
+      "name": "we_ve_sent_a_code_to_email_the_code_will_be_valid_for_a_few",
+      "value": "Abbiamo inviato un codice a {{EMAIL}}. Il codice sarà valido per pochi minuti."
+    },
+    {
+      "name": "websocket",
+      "value": "WebSocket"
+    },
+    {
+      "name": "we_ve_sent_a_verification_email_to_1_please_check_your_inbox",
+      "value": "Abbiamo inviato un'e-mail di verifica a %1$s. Controlla la tua casella di posta in arrivo e segui le istruzioni."
+    },
+    {
+      "name": "we_ve_sent_an_email_to_1_please_check_your_inbox_and_follow",
+      "value": "Abbiamo inviato una e-mail a %1$s. Controlla la tua casella di posta in arrivo e segui le istruzioni."
+    },
+    {
+      "name": "what_do_you_think_about_simplenote",
+      "value": "Che cosa pensi di Simplenote?"
+    },
+    {
+      "name": "will_attempt_to_recover_shortcut_content_on_next_launch",
+      "value": "Riproveremo a recuperare il contenuto della scorciatoia al prossimo avvio."
+    },
+    {
+      "name": "words",
+      "value": "Parole"
+    },
+    {
+      "name": "yes",
+      "value": "Si"
+    },
+    {
+      "name": "yesterday",
+      "value": "Ieri"
+    },
+    {
+      "name": "you_are_a_simplenote_sustainer",
+      "value": "Sei un sostenitore Simplenote"
+    },
+    {
+      "name": "you_are_registered_with_simplenote_using_the_email_1_improve",
+      "value": "Sei registrato su Simplenote con l'e-mail %1$s.\n\nI miglioramenti alla sicurezza dell'account possono comportare la perdita dell'account se non hai più accesso a questo indirizzo e-mail."
+    },
+    {
+      "name": "you_must_verify_your_email_before_being_able_to_login",
+      "value": "Devi verificare la tua e-mail prima di poter accedere."
+    },
+    {
+      "name": "you_re_already_a_sustainer_thank_you_for_supporting_simpleno",
+      "value": "Sei già un sostenitore. Grazie per il supporto a Simplenote!"
+    },
+    {
+      "name": "your_authentication_code_has_expired_please_request_a_new_on",
+      "value": "Il codice di autenticazione è scaduto. Richiedine uno nuovo"
+    },
+    {
+      "name": "your_email_address_is_not_valid",
+      "value": "Il tuo indirizzo email non è valido."
+    },
+    {
+      "name": "your_password_is_insecure_and_must_be_reset_the_password_req",
+      "value": "La password non è sicura e deve essere ripristinata. I requisiti della password sono:"
+    },
+    {
+      "name": "your_trash_is_empty",
+      "value": "Il tuo cestino è vuoto"
+    },
+    {
+      "name": "log_in_manually",
+      "value": "accedere manualmente."
+    },
+    {
+      "name": "tag_2",
+      "value": "- Tag:"
+    },
+    {
+      "name": "debug_enabled",
+      "value": "🐞 Debug attivato 🐞"
+    }
+  ]
+}

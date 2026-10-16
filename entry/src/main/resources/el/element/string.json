@@ -1,0 +1,212 @@
+{
+  "string": [
+    {
+      "name": "d_result",
+      "value": "%d αποτέλεσμα"
+    },
+    {
+      "name": "d_results",
+      "value": "%d αποτελέσματα"
+    },
+    {
+      "name": "i_failed_passcode_attempt",
+      "value": "%d αποτυχημένη απόπειρα συνθηματικού"
+    },
+    {
+      "name": "i_failed_passcode_attempts",
+      "value": "%d αποτυχημένες απόπειρες συνθηματικού"
+    },
+    {
+      "name": "accept",
+      "value": "Αποδοχή"
+    },
+    {
+      "name": "account",
+      "value": "Λογαριασμός"
+    },
+    {
+      "name": "add_a_new_collaborator",
+      "value": "Προσθήκη συνεργάτη..."
+    },
+    {
+      "name": "add_tag",
+      "value": "Προσθήκη ετικέτας"
+    },
+    {
+      "name": "cancel",
+      "value": "Ακύρωση"
+    },
+    {
+      "name": "collaborate",
+      "value": "Συνεργασία"
+    },
+    {
+      "name": "collaborators",
+      "value": "Συνεργάτες"
+    },
+    {
+      "name": "confirm",
+      "value": "Επιβεβαίωση"
+    },
+    {
+      "name": "could_not_create_an_account_with_the_provided_email_address",
+      "value": "Δεν ήταν δυνατή η δημιουργία λογαριασμού με αυτό το email και κωδικό."
+    },
+    {
+      "name": "could_not_login_with_the_provided_email_address_and_password",
+      "value": "Δεν ήταν δυνατή η σύνδεση με αυτό το email και κωδικό."
+    },
+    {
+      "name": "create_a_new_note_2",
+      "value": "Δημιουργία σημείωσης"
+    },
+    {
+      "name": "current_collaborators",
+      "value": "Συνεργατες"
+    },
+    {
+      "name": "dismiss_keyboard",
+      "value": "Απόκρυψη"
+    },
+    {
+      "name": "done",
+      "value": "OK"
+    },
+    {
+      "name": "empty",
+      "value": "Διαγραφή"
+    },
+    {
+      "name": "empty_trash",
+      "value": "Διαγραφή όλων"
+    },
+    {
+      "name": "enter_your_passcode",
+      "value": "Εισάγετε το συνθηματικό σας"
+    },
+    {
+      "name": "history",
+      "value": "Ιστορικό"
+    },
+    {
+      "name": "menu",
+      "value": "Μενού"
+    },
+    {
+      "name": "no_results",
+      "value": "Δεν βρέθηκε"
+    },
+    {
+      "name": "notes",
+      "value": "Σημειώσεις"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "off",
+      "value": "Απενεργοποίηση"
+    },
+    {
+      "name": "on",
+      "value": "Ενεργό"
+    },
+    {
+      "name": "open_note",
+      "value": "Άνοιγμα σημείωσης"
+    },
+    {
+      "name": "passcode",
+      "value": "Συνθηματικό"
+    },
+    {
+      "name": "passcodes_did_not_match_try_again",
+      "value": "Τα συνθηματικά δεν συμφωνούν. Δοκιμάστε ξανά."
+    },
+    {
+      "name": "password",
+      "value": "Κωδικός"
+    },
+    {
+      "name": "pin_note",
+      "value": "Επισ\\/νση"
+    },
+    {
+      "name": "pin_to_top",
+      "value": "Επισ\\/νση"
+    },
+    {
+      "name": "publish",
+      "value": "Αποστολή"
+    },
+    {
+      "name": "publish_note",
+      "value": "Δημοσίευση"
+    },
+    {
+      "name": "publishing",
+      "value": "Δημοσίευση..."
+    },
+    {
+      "name": "remove_all_notes_from_trash",
+      "value": "Διαγραφή όλων των σημειώσεων"
+    },
+    {
+      "name": "rename",
+      "value": "Μετονομασία"
+    },
+    {
+      "name": "restore_note",
+      "value": "Ανάκτηση σημείωσης"
+    },
+    {
+      "name": "settings",
+      "value": "Ρυθμίσεις"
+    },
+    {
+      "name": "sidebar",
+      "value": "Στήλη"
+    },
+    {
+      "name": "sign_up",
+      "value": "Εγγραφή"
+    },
+    {
+      "name": "today",
+      "value": "Σήμερα"
+    },
+    {
+      "name": "toggle_tag_sidebar",
+      "value": "Εμφάνιση στήλης"
+    },
+    {
+      "name": "touch_id",
+      "value": "Touch ID"
+    },
+    {
+      "name": "turn_off_passcode",
+      "value": "Απενεργοποίηση συνθηματικού"
+    },
+    {
+      "name": "unpin_note",
+      "value": "Ακύρωση"
+    },
+    {
+      "name": "unpublish_note",
+      "value": "Δημοσίευση σημείωσης"
+    },
+    {
+      "name": "unpublishing",
+      "value": "Ακύρωση δημοσίευσης..."
+    },
+    {
+      "name": "yesterday",
+      "value": "Εχθές"
+    },
+    {
+      "name": "your_email_address_is_not_valid",
+      "value": "Μη έγκυρη διεύθυνση email."
+    }
+  ]
+}

@@ -1,0 +1,1340 @@
+{
+  "string": [
+    {
+      "name": "d_result",
+      "value": "%d Найдено"
+    },
+    {
+      "name": "d_results",
+      "value": "%d результатов"
+    },
+    {
+      "name": "i_failed_passcode_attempt",
+      "value": "%d неудачная попытка ввода кода доступа"
+    },
+    {
+      "name": "i_failed_passcode_attempts",
+      "value": "Неудачные попытки ввода кода доступа: %d"
+    },
+    {
+      "name": "i_note_trashed",
+      "value": "%d Заметка перемещена в корзину"
+    },
+    {
+      "name": "i_notes_trashed",
+      "value": "Заметки (%d) перемещены в корзину."
+    },
+    {
+      "name": "i_reference",
+      "value": "%d Указатель"
+    },
+    {
+      "name": "i_references",
+      "value": "%d Ссылки"
+    },
+    {
+      "name": "i_selected",
+      "value": "%d Выбрано"
+    },
+    {
+      "name": "minimum_of_8_characters",
+      "value": "— Не менее 8 символов"
+    },
+    {
+      "name": "neither_tabs_nor_newlines_are_allowed",
+      "value": "— Использование знаков табуляции и перехода на новую строку запрещено"
+    },
+    {
+      "name": "password_cannot_match_email",
+      "value": "— Пароль не должен совпадать с адресом эл. почты"
+    },
+    {
+      "name": "s_1_minute",
+      "value": "1 минута"
+    },
+    {
+      "name": "s_15_seconds",
+      "value": "15 секунд"
+    },
+    {
+      "name": "s_2_minutes",
+      "value": "2 минуты"
+    },
+    {
+      "name": "s_3_minutes",
+      "value": "3 минуты"
+    },
+    {
+      "name": "s_30_seconds",
+      "value": "30 секунд"
+    },
+    {
+      "name": "s_4_minutes",
+      "value": "4 минуты"
+    },
+    {
+      "name": "s_5_minutes",
+      "value": "5 минут"
+    },
+    {
+      "name": "a_network_connection_is_required_please_check_your_connectio",
+      "value": "Требуется подключение к сети. Проверьте подключение и повторите попытку."
+    },
+    {
+      "name": "about",
+      "value": "О нас"
+    },
+    {
+      "name": "accept",
+      "value": "Согласен"
+    },
+    {
+      "name": "account",
+      "value": "Учетная запись"
+    },
+    {
+      "name": "account_verification_required",
+      "value": "Требуется подтверждение учётной записи"
+    },
+    {
+      "name": "add_a_new_collaborator",
+      "value": "Добавить нового партнера"
+    },
+    {
+      "name": "add_a_tag_to_the_current_note",
+      "value": "Добавить тег к текущей заметке"
+    },
+    {
+      "name": "add_an_email_address_to_share_this_note_with_someone_then_yo",
+      "value": "Чтобы поделиться заметкой, добавьте адрес электронной почты. Вы оба сможете исправлять заметку."
+    },
+    {
+      "name": "add_tag",
+      "value": "Добавить тег"
+    },
+    {
+      "name": "all_notes",
+      "value": "Все заметки"
+    },
+    {
+      "name": "an_email_has_been_sent_to_check_your_inbox_and_follow_the_in",
+      "value": "Мы выслали письмо на адрес %s. Проверьте почту и следуйте инструкциям, чтобы подтвердить удаление учётной записи.\n\nВаша учётная запись будет удалена только после получения вашего подтверждения"
+    },
+    {
+      "name": "an_error_occured_please_try_again_if_the_problem_continues_c",
+      "value": "Произошла ошибка. Повторите попытку. Если это не поможет решить проблему, свяжитесь с нами по адресу support@simplenote.com."
+    },
+    {
+      "name": "an_error_was_encountered_while_signing_in",
+      "value": "Во время входа произошла ошибка."
+    },
+    {
+      "name": "appearance",
+      "value": "Внешний вид"
+    },
+    {
+      "name": "are_you_a_developer_we_re_hiring",
+      "value": "Вы разработчик? У нас есть вакансии."
+    },
+    {
+      "name": "are_you_sure_you_want_to_delete_1",
+      "value": "Вы уверены, что хотите удалить адрес %1$s?"
+    },
+    {
+      "name": "are_you_sure_you_want_to_empty_the_trash_this_cannot_be_undo",
+      "value": "Очистить корзину? Это действие нельзя отменить."
+    },
+    {
+      "name": "attempt_to_fetch_current_note_content_failed_please_try_agai",
+      "value": "Попытка получить содержимое текущей заметки завершилась неудачей.  Повторите попытку позже."
+    },
+    {
+      "name": "attempt_to_fetch_entities_failed_please_try_again_later",
+      "value": "Сбой получения объектов.  Повторите попытку позже."
+    },
+    {
+      "name": "attempt_to_fetch_notes_failed_please_try_again_later",
+      "value": "Попытка получить заметки завершилась неудачей.  Повторите попытку позже."
+    },
+    {
+      "name": "attempt_to_fetch_tags_failed_please_try_again_later",
+      "value": "Попытка получить метки завершилась неудачей.  Повторите попытку позже."
+    },
+    {
+      "name": "authenticated",
+      "value": "Прошедший проверку"
+    },
+    {
+      "name": "become_a_simplenote_sustainer",
+      "value": "Станьте спонсором Simplenote"
+    },
+    {
+      "name": "blog",
+      "value": "Блог"
+    },
+    {
+      "name": "by_creating_an_account_you_agree_to_our",
+      "value": "Создавая учетную запись, вы принимаете наши"
+    },
+    {
+      "name": "by_deleting_the_account_for_all_notes_created_with_this_acco",
+      "value": "При удалении учётной записи для %s все созданные в ней заметки будут безвозвратно удалены. Это действие нельзя отменить"
+    },
+    {
+      "name": "cancel",
+      "value": "Отмена"
+    },
+    {
+      "name": "cancel_share",
+      "value": "Отменить отправку"
+    },
+    {
+      "name": "cannot_confirm_account",
+      "value": "Не удалось подтвердить учётную запись"
+    },
+    {
+      "name": "cannot_send_verification_email",
+      "value": "Не удалось отправить письмо с подтверждением"
+    },
+    {
+      "name": "careers",
+      "value": "Вакансии"
+    },
+    {
+      "name": "change_email",
+      "value": "Изменить адрес электронной почты"
+    },
+    {
+      "name": "change_password",
+      "value": "Изменить пароль"
+    },
+    {
+      "name": "characters",
+      "value": "Символы"
+    },
+    {
+      "name": "check_your_email",
+      "value": "Проверьте почту"
+    },
+    {
+      "name": "check_your_email_2",
+      "value": "Проверьте почту"
+    },
+    {
+      "name": "choose_a_4_digit_passcode",
+      "value": "Введите 4-значный пароль"
+    },
+    {
+      "name": "code",
+      "value": "Код"
+    },
+    {
+      "name": "collaborate",
+      "value": "Партнер"
+    },
+    {
+      "name": "collaboration_has_moved",
+      "value": "Раздел совместной работы перенесен"
+    },
+    {
+      "name": "collaborators",
+      "value": "Партнеры"
+    },
+    {
+      "name": "compromised_password",
+      "value": "Скомпрометированный пароль"
+    },
+    {
+      "name": "condensed_note_list",
+      "value": "Сократить список заметок"
+    },
+    {
+      "name": "confirm",
+      "value": "Подтвердить"
+    },
+    {
+      "name": "confirm_your_passcode",
+      "value": "Подтвердить пароль"
+    },
+    {
+      "name": "contribute",
+      "value": "Принять участие"
+    },
+    {
+      "name": "copy_internal_link",
+      "value": "Скопировать внутреннюю ссылку"
+    },
+    {
+      "name": "copy_link_2",
+      "value": "Копировать ссылку"
+    },
+    {
+      "name": "copy_link",
+      "value": "Скопировать ссылку"
+    },
+    {
+      "name": "could_be_better",
+      "value": "Нужно доработать"
+    },
+    {
+      "name": "could_not_create_an_account_with_the_provided_email_address",
+      "value": "Невозможно создать учетную запись с указанными адресом email и паролем."
+    },
+    {
+      "name": "could_not_delete_tag",
+      "value": "Не удалось удалить метку"
+    },
+    {
+      "name": "could_not_fetch_notes",
+      "value": "Не удалось получить заметки"
+    },
+    {
+      "name": "could_not_fetch_tags",
+      "value": "Не удалось получить метки"
+    },
+    {
+      "name": "could_not_fetch_entities",
+      "value": "Не удалось получить объекты"
+    },
+    {
+      "name": "could_not_fetch_note_content",
+      "value": "Не удалось получить содержимое заметки"
+    },
+    {
+      "name": "could_not_login_with_the_provided_email_address_and_password",
+      "value": "Невозможно авторизоваться с указанными адресом email и паролем."
+    },
+    {
+      "name": "could_you_tell_us_how_we_could_improve",
+      "value": "Посоветуйте, как нам стать лучше."
+    },
+    {
+      "name": "couldn_t_retrieve_history",
+      "value": "Не удалось загрузить историю"
+    },
+    {
+      "name": "couldn_t_sign_in",
+      "value": "Не удалось войти"
+    },
+    {
+      "name": "create_a_new_note",
+      "value": "Создай новую заметку"
+    },
+    {
+      "name": "create_a_new_note_2",
+      "value": "Создать новую заметку"
+    },
+    {
+      "name": "create_a_new_note_instantly_with_one_tap",
+      "value": "Быстрое создание заметки одним касанием."
+    },
+    {
+      "name": "create_a_new_note_titled",
+      "value": "Создать новую заметку под названием “%s”"
+    },
+    {
+      "name": "create_your_first_note",
+      "value": "Создание первой заметки"
+    },
+    {
+      "name": "created",
+      "value": "Создано"
+    },
+    {
+      "name": "created_newest",
+      "value": "Дата создания: сначала новые"
+    },
+    {
+      "name": "created_oldest",
+      "value": "Дата создания: сначала старые"
+    },
+    {
+      "name": "current_collaborators",
+      "value": "Текущие партнеры"
+    },
+    {
+      "name": "dark",
+      "value": "Тёмная"
+    },
+    {
+      "name": "debug",
+      "value": "Отладка"
+    },
+    {
+      "name": "debug_disabled",
+      "value": "Отладка отключена"
+    },
+    {
+      "name": "delete",
+      "value": "Удалить"
+    },
+    {
+      "name": "delete_account",
+      "value": "Удалить учётную запись"
+    },
+    {
+      "name": "delete_note",
+      "value": "Удалить заметку"
+    },
+    {
+      "name": "delete_notes",
+      "value": "Удалить заметки"
+    },
+    {
+      "name": "delete_tag",
+      "value": "Удалить метку"
+    },
+    {
+      "name": "deselect_all",
+      "value": "Снять выделение"
+    },
+    {
+      "name": "diagnostics",
+      "value": "Диагностика"
+    },
+    {
+      "name": "didn_t_get_an_email_there_may_already_be_an_account_associat",
+      "value": "Письмо не пришло? С этим адресом электронной почты уже может быть связана учетная запись. Обратитесь за помощью по адресу %1$s."
+    },
+    {
+      "name": "disable_markdown_formatting",
+      "value": "Выключить форматирование Markdown"
+    },
+    {
+      "name": "dismiss",
+      "value": "Закрыть"
+    },
+    {
+      "name": "dismiss_history",
+      "value": "Скрыть историю"
+    },
+    {
+      "name": "dismiss_information",
+      "value": "Скрыть информацию"
+    },
+    {
+      "name": "dismiss_keyboard",
+      "value": "Скрыть клавиатуру"
+    },
+    {
+      "name": "document",
+      "value": "Документ"
+    },
+    {
+      "name": "done",
+      "value": "Готово"
+    },
+    {
+      "name": "edit",
+      "value": "Редактирование"
+    },
+    {
+      "name": "email",
+      "value": "Отправить email"
+    },
+    {
+      "name": "email_in_use",
+      "value": "Используемый адрес эл. почты"
+    },
+    {
+      "name": "empty",
+      "value": "Очистить"
+    },
+    {
+      "name": "empty_trash",
+      "value": "Очистить корзину"
+    },
+    {
+      "name": "enable_markdown_formatting",
+      "value": "Включить форматирование Markdown"
+    },
+    {
+      "name": "end_editing",
+      "value": "Завершить редактирование"
+    },
+    {
+      "name": "enqueued",
+      "value": "Требуется"
+    },
+    {
+      "name": "enter_code",
+      "value": "Введите код"
+    },
+    {
+      "name": "enter_password",
+      "value": "Введите пароль"
+    },
+    {
+      "name": "enter_the_password_for_the_account_email",
+      "value": "Введите пароль для учётной записи {{EMAIL}}"
+    },
+    {
+      "name": "enter_your_passcode",
+      "value": "Введите ваш пароль"
+    },
+    {
+      "name": "error",
+      "value": "Ошибка"
+    },
+    {
+      "name": "faq_or_contact_us",
+      "value": "«Часто задаваемые вопросы» или «Свяжитесь с нами»"
+    },
+    {
+      "name": "face_id",
+      "value": "Face ID"
+    },
+    {
+      "name": "fetching_version",
+      "value": "Получение сведений о версии"
+    },
+    {
+      "name": "forgot_your_password",
+      "value": "Забыли пароль?"
+    },
+    {
+      "name": "get_help",
+      "value": "Справка"
+    },
+    {
+      "name": "get_quick_access_to_a_list_of_all_notes_or_based_on_the_sele",
+      "value": "Быстрый доступ к списку всех заметок или к заметкам с выбранным тегом."
+    },
+    {
+      "name": "get_quick_access_to_one_of_your_notes",
+      "value": "Быстрый доступ к одной из заметок."
+    },
+    {
+      "name": "great_mind_leaving_a_review_to_tell_us_what_you_like",
+      "value": "Замечательно! Хотите рассказать, что вам понравилось?"
+    },
+    {
+      "name": "help",
+      "value": "Помощь"
+    },
+    {
+      "name": "help_us_improve_simplenote_by_sharing_usage_data_with_our_an",
+      "value": "Помогите нам улучшить Simplenote — предоставьте данные об использовании нашему средству аналитики."
+    },
+    {
+      "name": "history",
+      "value": "История"
+    },
+    {
+      "name": "i_like_it",
+      "value": "Мне нравится"
+    },
+    {
+      "name": "index_notes_in_spotlight",
+      "value": "Индексировать заметки в Spotlight"
+    },
+    {
+      "name": "index_removed",
+      "value": "Индекс удалён"
+    },
+    {
+      "name": "information",
+      "value": "Информация"
+    },
+    {
+      "name": "insert_checklist",
+      "value": "Вставить чек-лист"
+    },
+    {
+      "name": "inserts_a_new_checklist_item",
+      "value": "Будет вставлен новый пункт контрольного списка"
+    },
+    {
+      "name": "last_modified_1",
+      "value": "Последнее изменение %1$s"
+    },
+    {
+      "name": "lastseen",
+      "value": "Последнее прочитанное"
+    },
+    {
+      "name": "learn_more",
+      "value": "Подробнее"
+    },
+    {
+      "name": "leave_a_review",
+      "value": "Оставить отзыв"
+    },
+    {
+      "name": "light",
+      "value": "Светлая"
+    },
+    {
+      "name": "link_copied",
+      "value": "Ссылка скопирована"
+    },
+    {
+      "name": "lock_timeout",
+      "value": "Время до блокировки"
+    },
+    {
+      "name": "log_in",
+      "value": "Войти"
+    },
+    {
+      "name": "log_in_with_password",
+      "value": "Войти с помощью пароля"
+    },
+    {
+      "name": "log_out",
+      "value": "Выйти"
+    },
+    {
+      "name": "log_in_to_see_your_notes",
+      "value": "Войдите для просмотра заметок"
+    },
+    {
+      "name": "log_in_with_wordpress_com",
+      "value": "Войти через WordPress.com"
+    },
+    {
+      "name": "log_in_with_email",
+      "value": "Войти с помощью эл. почты"
+    },
+    {
+      "name": "log_in_with_email_failed_please_enter_your_password",
+      "value": "Не удалось войти с адресом эл. почты. Введите пароль."
+    },
+    {
+      "name": "login_code_is_too_short",
+      "value": "Слишком короткий код для входа в систему"
+    },
+    {
+      "name": "mmm_d",
+      "value": "Д ммм"
+    },
+    {
+      "name": "mmm_d_h_mm_a",
+      "value": "Д ммм, чч:мм"
+    },
+    {
+      "name": "mmm_d_yyyy",
+      "value": "Д ммм гггг"
+    },
+    {
+      "name": "mmm_yyyy",
+      "value": "МММ гггг"
+    },
+    {
+      "name": "main_app_is_not_configured",
+      "value": "Основное приложение не настроено"
+    },
+    {
+      "name": "markdown",
+      "value": "Markdown"
+    },
+    {
+      "name": "menu",
+      "value": "Меню"
+    },
+    {
+      "name": "modified",
+      "value": "Изменено"
+    },
+    {
+      "name": "modified_newest",
+      "value": "Дата изменения: сначала новые"
+    },
+    {
+      "name": "modified_oldest",
+      "value": "Дата изменения: сначала старые"
+    },
+    {
+      "name": "move_selected_notes_to_trash",
+      "value": "Перемещение выбранных заметок в корзину"
+    },
+    {
+      "name": "move_to_trash",
+      "value": "Удалить"
+    },
+    {
+      "name": "name_a_z",
+      "value": "Имя: А–Я"
+    },
+    {
+      "name": "name_z_a",
+      "value": "Имя: Я–А"
+    },
+    {
+      "name": "new_note",
+      "value": "Новая заметка..."
+    },
+    {
+      "name": "new_note_4",
+      "value": "Новая заметка..."
+    },
+    {
+      "name": "new_note_2",
+      "value": "Новая заметка"
+    },
+    {
+      "name": "new_note_3",
+      "value": "Новая заметка..."
+    },
+    {
+      "name": "next_match",
+      "value": "Следующее совпадение"
+    },
+    {
+      "name": "no",
+      "value": "Нет"
+    },
+    {
+      "name": "no_results",
+      "value": "Нет результатов"
+    },
+    {
+      "name": "no_simplenote_account",
+      "value": "Нет учётной записи Simplenote"
+    },
+    {
+      "name": "no_notes_tagged",
+      "value": "Нет заметок с тегом “%s”"
+    },
+    {
+      "name": "no_previous_valid_purchases_found_for_the_current_period",
+      "value": "Не найдены действительные покупки за текущий период"
+    },
+    {
+      "name": "no_purchases_found",
+      "value": "Покупки не найдены"
+    },
+    {
+      "name": "no_thanks",
+      "value": "Нет, спасибо"
+    },
+    {
+      "name": "no_untagged_notes",
+      "value": "Нет заметок без тегов"
+    },
+    {
+      "name": "note",
+      "value": "Заметка"
+    },
+    {
+      "name": "note_list",
+      "value": "Список заметок"
+    },
+    {
+      "name": "note_trashed",
+      "value": "Заметка перемещена в корзину"
+    },
+    {
+      "name": "note_no_longer_available",
+      "value": "Заметка больше не доступна"
+    },
+    {
+      "name": "notes",
+      "value": "Заметки"
+    },
+    {
+      "name": "ok",
+      "value": "Хорошо"
+    },
+    {
+      "name": "off",
+      "value": "Выключить"
+    },
+    {
+      "name": "ok_2",
+      "value": "OK"
+    },
+    {
+      "name": "okay",
+      "value": "ОК"
+    },
+    {
+      "name": "on",
+      "value": "Включить"
+    },
+    {
+      "name": "open_simplenote",
+      "value": "Открой Simplenote"
+    },
+    {
+      "name": "open_note",
+      "value": "Открыть заметку"
+    },
+    {
+      "name": "options",
+      "value": "Опции"
+    },
+    {
+      "name": "or",
+      "value": "или"
+    },
+    {
+      "name": "passcode",
+      "value": "Пароль"
+    },
+    {
+      "name": "passcodes_did_not_match_try_again",
+      "value": "Пароль не подходит. Попробуйте снова. "
+    },
+    {
+      "name": "password",
+      "value": "Пароль"
+    },
+    {
+      "name": "password_cannot_match_email_2",
+      "value": "Пароль не должен совпадать с адресом эл. почты"
+    },
+    {
+      "name": "password_must_contain_at_least_d_characters",
+      "value": "Пароль должен содержать не менее %d симв."
+    },
+    {
+      "name": "password_must_not_contain_tabs_nor_newlines",
+      "value": "Пароль не должен содержать знаки табуляции и перехода на новую строку"
+    },
+    {
+      "name": "pendings",
+      "value": "На утверждении"
+    },
+    {
+      "name": "pin_note",
+      "value": "Закрепить заметку"
+    },
+    {
+      "name": "pin_to_top",
+      "value": "В топ"
+    },
+    {
+      "name": "please_activate_your_wordpress_com_account_via_email_and_try",
+      "value": "Активируйте учетную запись WordPress.com через эл. почту или повторите попытку."
+    },
+    {
+      "name": "please_check_your_network_settings_and_try_again",
+      "value": "Проверьте настройки сети и повторите попытку."
+    },
+    {
+      "name": "please_log_into_your_simplenote_account_first_by_using_the_s",
+      "value": "Сначала войдите в учётную запись в приложении Simplenote."
+    },
+    {
+      "name": "please_try_again",
+      "value": "Повторите попытку"
+    },
+    {
+      "name": "please_upgrade_to_the_latest_ios_release_to_restore_purchase",
+      "value": "Установите последнюю версию для iOS, чтобы восстановить покупки"
+    },
+    {
+      "name": "preview",
+      "value": "Предварительный просмотр"
+    },
+    {
+      "name": "previous_match",
+      "value": "Предыдущее совпадение"
+    },
+    {
+      "name": "privacy_notice_for_california_users",
+      "value": "Заявление о защите конфиденциальности для пользователей из Калифорнии"
+    },
+    {
+      "name": "privacy_policy",
+      "value": "Политика конфиденциальности"
+    },
+    {
+      "name": "privacy_settings",
+      "value": "Настройки конфиденциальности"
+    },
+    {
+      "name": "publish",
+      "value": "Публикация"
+    },
+    {
+      "name": "publish_successful",
+      "value": "Публикация успешно выполнена"
+    },
+    {
+      "name": "publish_note",
+      "value": "Публикация заметки"
+    },
+    {
+      "name": "publishing_note",
+      "value": "Публикация заметки..."
+    },
+    {
+      "name": "publishing",
+      "value": "Публикация…"
+    },
+    {
+      "name": "rate_us",
+      "value": "Оцените нас"
+    },
+    {
+      "name": "reachability",
+      "value": "Удобный доступ"
+    },
+    {
+      "name": "recent",
+      "value": "Недавние"
+    },
+    {
+      "name": "recovered_note_cotent",
+      "value": "Восстановленный контент заметки — "
+    },
+    {
+      "name": "referenced_in",
+      "value": "Упоминание в"
+    },
+    {
+      "name": "remove_all_notes_from_trash",
+      "value": "Удалить все заметки из корзины"
+    },
+    {
+      "name": "remove_tag_from_the_current_note",
+      "value": "Удалить тег в текущей заметке"
+    },
+    {
+      "name": "rename",
+      "value": "Переименовать"
+    },
+    {
+      "name": "request_account_deletion",
+      "value": "Запрос удаления учётной записи"
+    },
+    {
+      "name": "request_error",
+      "value": "Ошибка запроса"
+    },
+    {
+      "name": "resend_email",
+      "value": "Отправить ещё раз"
+    },
+    {
+      "name": "resend_verification_email",
+      "value": "Повторно отправить письмо для подтверждения"
+    },
+    {
+      "name": "reset",
+      "value": "Сброс"
+    },
+    {
+      "name": "reset_required",
+      "value": "Требуется сброс"
+    },
+    {
+      "name": "response",
+      "value": "Ответ"
+    },
+    {
+      "name": "restore_note",
+      "value": "Восстановить заметку"
+    },
+    {
+      "name": "review_your_account",
+      "value": "Проверить учётную запись"
+    },
+    {
+      "name": "save",
+      "value": "Сохранить"
+    },
+    {
+      "name": "search",
+      "value": "Поиск"
+    },
+    {
+      "name": "search_by_tag",
+      "value": "Поиск по меткам"
+    },
+    {
+      "name": "search_notes_or_tags",
+      "value": "Поиск заметок или меток"
+    },
+    {
+      "name": "security",
+      "value": "Безопасность"
+    },
+    {
+      "name": "select",
+      "value": "Выбор"
+    },
+    {
+      "name": "select_all",
+      "value": "Выбрать Все"
+    },
+    {
+      "name": "select_a_version",
+      "value": "Выбрать версию"
+    },
+    {
+      "name": "send_a_test_crash",
+      "value": "Отправить данные о сбое"
+    },
+    {
+      "name": "send_feedback",
+      "value": "Отправить отзыв"
+    },
+    {
+      "name": "set_up_passcode",
+      "value": "Установить код доступа"
+    },
+    {
+      "name": "settings",
+      "value": "Настройки"
+    },
+    {
+      "name": "share",
+      "value": "Поделиться"
+    },
+    {
+      "name": "share_analytics",
+      "value": "Поделиться аналитическими данными"
+    },
+    {
+      "name": "share_2",
+      "value": "Поделиться..."
+    },
+    {
+      "name": "sharing_notes_is_now_accessed_through_the_action_menu_from_t",
+      "value": "Функция отправки заметок теперь находится в меню действий на панели инструментов."
+    },
+    {
+      "name": "sidebar",
+      "value": "Боковая панель"
+    },
+    {
+      "name": "sign_up",
+      "value": "Зарегистрироваться"
+    },
+    {
+      "name": "signing_out_will_delete_any_unsynced_notes_you_can_verify_yo",
+      "value": "При выходе из учётной записи все несинхронизированные заметки будут удалены. Чтобы убедиться, что заметки синхронизированы, войдите в веб-приложение."
+    },
+    {
+      "name": "simplenote",
+      "value": "Simplenote"
+    },
+    {
+      "name": "simplenote_sustainer",
+      "value": "Спонсор Simplenote"
+    },
+    {
+      "name": "simplenote_ios_feedback",
+      "value": "Отзыв по Simplenote для iOS"
+    },
+    {
+      "name": "simplenote_must_be_configured_and_logged_in_to_setup_widgets",
+      "value": "Для настройки виджетов необходимо настроить приложение Simplenote и войти в него"
+    },
+    {
+      "name": "sorry",
+      "value": "Извините!"
+    },
+    {
+      "name": "sort_alphabetically",
+      "value": "Сортировать по алфавиту"
+    },
+    {
+      "name": "sort_order",
+      "value": "Порядок сортировки"
+    },
+    {
+      "name": "sort_by",
+      "value": "Сортировать по:"
+    },
+    {
+      "name": "spotlight_history_may_still_appear_in_search_results_but_not",
+      "value": "История Spotlight может по-прежнему появляться в результатах поиска, однако заметки индексироваться не будут."
+    },
+    {
+      "name": "status_code",
+      "value": "Код статуса"
+    },
+    {
+      "name": "support_your_favorite_notes_app_to_help_unlock_future_featur",
+      "value": "Поддержите любимое приложение для заметок и внесите вклад в разработку новых функций"
+    },
+    {
+      "name": "sustainer_app_icon",
+      "value": "Значок приложения Sustainer"
+    },
+    {
+      "name": "sustainer_subscription_restored_thank_you_for_supporting_sim",
+      "value": "Спонсорская подписка восстановлена. Благодарим за поддержку Simplenote!"
+    },
+    {
+      "name": "system_default",
+      "value": "Настройки системы по умолчанию"
+    },
+    {
+      "name": "tag",
+      "value": "Метка"
+    },
+    {
+      "name": "tag_no_longer_available",
+      "value": "Тег больше не доступен"
+    },
+    {
+      "name": "tags",
+      "value": "Метки"
+    },
+    {
+      "name": "tag_3",
+      "value": "Тег"
+    },
+    {
+      "name": "tap_button_to_select_or_deselect_all_notes",
+      "value": "Нажмите кнопку, чтобы выбрать все заметки или снять выделение"
+    },
+    {
+      "name": "terms_and_conditions",
+      "value": "Правила и условия"
+    },
+    {
+      "name": "terms_of_service",
+      "value": "Условия предоставления услуг"
+    },
+    {
+      "name": "thank_you",
+      "value": "Спасибо!"
+    },
+    {
+      "name": "thank_you_for_your_continued_support",
+      "value": "Благодарим за вашу неизменную поддержку"
+    },
+    {
+      "name": "the_authentication_code_you_ve_requested_has_expired_please",
+      "value": "Срок действия запрошенного вами кода аутентификации истёк. Запросите новый код"
+    },
+    {
+      "name": "the_code_you_ve_entered_is_not_correct_please_try_again",
+      "value": "Вы ввели неверный код. Повторите попытку"
+    },
+    {
+      "name": "the_email_you_ve_entered_is_already_associated_with_a_simple",
+      "value": "Указанный адрес эл. почты уже связан с учетной записью Simplenote."
+    },
+    {
+      "name": "the_network_could_not_be_reached",
+      "value": "Сеть недоступна."
+    },
+    {
+      "name": "the_simplest_way_to_keep_notes",
+      "value": "Простой способ хранить заметки."
+    },
+    {
+      "name": "theme",
+      "value": "Тема оформления"
+    },
+    {
+      "name": "themes",
+      "value": "Темы"
+    },
+    {
+      "name": "there_was_an_preparing_your_verification_email_please_try_ag",
+      "value": "Идёт подготовка письма для подтверждения, повторите попытку позже"
+    },
+    {
+      "name": "this_note_was_deleted_on_another_device",
+      "value": "Эта заметка была удалена на другом устройстве"
+    },
+    {
+      "name": "this_password_has_appeared_in_a_data_breach_which_puts_your",
+      "value": "Этот пароль есть в списках украденных, поэтому взломать вашу учётную запись очень легко. Чтобы защитить ваши данные, этот пароль больше не принимается. Придумайте другой, иначе вы не сможете войти."
+    },
+    {
+      "name": "to_enable_1_you_must_have_a_passcode_setup_first",
+      "value": "Чтобы включить %1$s, сначала установите код доступа."
+    },
+    {
+      "name": "to_unlock_the_application",
+      "value": "Для разблокировки приложения"
+    },
+    {
+      "name": "today",
+      "value": "Сегодня"
+    },
+    {
+      "name": "toggle_markdown",
+      "value": "Переключить разметку"
+    },
+    {
+      "name": "toggle_tag_sidebar",
+      "value": "Боковая панель переключения меток"
+    },
+    {
+      "name": "too_many_login_attempts",
+      "value": "Слишком много попыток входа"
+    },
+    {
+      "name": "too_many_login_attempts_try_again_later",
+      "value": "Вы пробовали войти слишком много раз. Повторите попытку позже."
+    },
+    {
+      "name": "touch_id",
+      "value": "Идентификатор прикосновения"
+    },
+    {
+      "name": "trash",
+      "value": "Корзина"
+    },
+    {
+      "name": "trash_notes",
+      "value": "Переместить заметки в корзину"
+    },
+    {
+      "name": "turn_off_passcode",
+      "value": "Отключить пароль"
+    },
+    {
+      "name": "undo",
+      "value": "Назад"
+    },
+    {
+      "name": "unnamed_tag",
+      "value": "Метка без имени"
+    },
+    {
+      "name": "unpin",
+      "value": "Открепить"
+    },
+    {
+      "name": "unpin_note",
+      "value": "Открепить заметку"
+    },
+    {
+      "name": "unpublish_note",
+      "value": "Не публиковать заметку"
+    },
+    {
+      "name": "unpublish_successful",
+      "value": "Публикация успешно отменена"
+    },
+    {
+      "name": "unpublishing_note",
+      "value": "Отмена публикации..."
+    },
+    {
+      "name": "unpublishing",
+      "value": "Отмена публикации…"
+    },
+    {
+      "name": "unsupported",
+      "value": "Не поддерживается"
+    },
+    {
+      "name": "unsynced_notes_detected",
+      "value": "Обнаружены несинхронизированные заметки"
+    },
+    {
+      "name": "untagged",
+      "value": "Без меток"
+    },
+    {
+      "name": "untagged_notes",
+      "value": "Заметки без меток"
+    },
+    {
+      "name": "username",
+      "value": "Имя пользователя"
+    },
+    {
+      "name": "verify_your_email",
+      "value": "Проверить адрес электронной почты"
+    },
+    {
+      "name": "version",
+      "value": "Версия %s"
+    },
+    {
+      "name": "visit_web_app",
+      "value": "Перейти в веб-приложение"
+    },
+    {
+      "name": "we_ll_email_you_a_code_to_log_in_or_you_can",
+      "value": "Мы пришлём вам код для входа по электронной почте, а кроме того, вы можете"
+    },
+    {
+      "name": "we_re_having_problems_please_try_again_soon",
+      "value": "Произошла ошибка. Повторите попытку позже."
+    },
+    {
+      "name": "we_ve_sent_a_code_to_email_the_code_will_be_valid_for_a_few",
+      "value": "Код отправлен на адрес {{EMAIL}}. Код будет действителен в течение нескольких минут."
+    },
+    {
+      "name": "websocket",
+      "value": "WebSocket"
+    },
+    {
+      "name": "we_ve_sent_a_verification_email_to_1_please_check_your_inbox",
+      "value": "На адрес %1$s отправлено письмо с подтверждением. Проверьте свой почтовый ящик и следуйте инструкциям."
+    },
+    {
+      "name": "we_ve_sent_an_email_to_1_please_check_your_inbox_and_follow",
+      "value": "Мы отправили эл. письмо на адрес %1$s. Проверьте свой почтовый ящик и следуйте инструкциям."
+    },
+    {
+      "name": "what_do_you_think_about_simplenote",
+      "value": "Каково ваше мнение о Simplenote?"
+    },
+    {
+      "name": "will_attempt_to_recover_shortcut_content_on_next_launch",
+      "value": "Будет предпринята попытка восстановить контент ярлыка при следующем запуске"
+    },
+    {
+      "name": "words",
+      "value": "Слова"
+    },
+    {
+      "name": "yes",
+      "value": "Да"
+    },
+    {
+      "name": "yesterday",
+      "value": "Вчера"
+    },
+    {
+      "name": "you_are_a_simplenote_sustainer",
+      "value": "Вы являетесь спонсором Simplenote"
+    },
+    {
+      "name": "you_are_registered_with_simplenote_using_the_email_1_improve",
+      "value": "Вы зарегистрированы в Simplenote с адресом электронной почты %1$s.\n\nВ результате повышения безопасности учётной записи вы можете её потерять, если лишитесь доступа к этому адресу электронной почты."
+    },
+    {
+      "name": "you_must_verify_your_email_before_being_able_to_login",
+      "value": "Прежде чем выполнить вход, подтвердите адрес электронной почты."
+    },
+    {
+      "name": "you_re_already_a_sustainer_thank_you_for_supporting_simpleno",
+      "value": "Вы уже являетесь спонсором. Благодарим за поддержку Simplenote!"
+    },
+    {
+      "name": "your_authentication_code_has_expired_please_request_a_new_on",
+      "value": "Срок действия вашего кода аутентификации истёк. Запросите новый код"
+    },
+    {
+      "name": "your_email_address_is_not_valid",
+      "value": "Ваш адрес электронной почты не действителен."
+    },
+    {
+      "name": "your_password_is_insecure_and_must_be_reset_the_password_req",
+      "value": "Ваш пароль ненадежен, его необходимо сменить. Требования к паролю:"
+    },
+    {
+      "name": "your_trash_is_empty",
+      "value": "Корзина пуста"
+    },
+    {
+      "name": "log_in_manually",
+      "value": "выполнить вход вручную."
+    },
+    {
+      "name": "tag_2",
+      "value": "метка:"
+    },
+    {
+      "name": "debug_enabled",
+      "value": "🐞 Отладка включена 🐞"
+    }
+  ]
+}

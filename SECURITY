@@ -1,0 +1,9 @@
+We take security very seriously. If you believe you have found a
+security issue in this HarmonyOS port, report it privately through
+GitHub's "Report a vulnerability" button on this repository's Security
+tab. Please do not open a public issue for it, and do not report it to
+Automattic: the upstream project does not ship this code.
+
+If the issue is in Simplenote itself (the Simplenote or Simperium
+services, or the official Simplenote apps), report it to Automattic
+through its bug bounty program: <https://hackerone.com/automattic>.

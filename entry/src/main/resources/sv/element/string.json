@@ -1,0 +1,1340 @@
+{
+  "string": [
+    {
+      "name": "d_result",
+      "value": "%d resultat"
+    },
+    {
+      "name": "d_results",
+      "value": "%d resultat"
+    },
+    {
+      "name": "i_failed_passcode_attempt",
+      "value": "%d felaktig inmatning"
+    },
+    {
+      "name": "i_failed_passcode_attempts",
+      "value": "%d felaktiga inmatningar"
+    },
+    {
+      "name": "i_note_trashed",
+      "value": "%d Anteckning borttagen"
+    },
+    {
+      "name": "i_notes_trashed",
+      "value": "%d Anteckningar borttagna"
+    },
+    {
+      "name": "i_reference",
+      "value": "%d Referenser"
+    },
+    {
+      "name": "i_references",
+      "value": "%d Referenser"
+    },
+    {
+      "name": "i_selected",
+      "value": "%d Valt"
+    },
+    {
+      "name": "minimum_of_8_characters",
+      "value": "- Minst 8 tecken"
+    },
+    {
+      "name": "neither_tabs_nor_newlines_are_allowed",
+      "value": "– Varken tabbstopp eller nya rader är tillåtna"
+    },
+    {
+      "name": "password_cannot_match_email",
+      "value": "- Lösenord kan inte matcha e-post"
+    },
+    {
+      "name": "s_1_minute",
+      "value": "1 minut"
+    },
+    {
+      "name": "s_15_seconds",
+      "value": "15 sekunder"
+    },
+    {
+      "name": "s_2_minutes",
+      "value": "2 minuter"
+    },
+    {
+      "name": "s_3_minutes",
+      "value": "3 minuter"
+    },
+    {
+      "name": "s_30_seconds",
+      "value": "30 sekunder"
+    },
+    {
+      "name": "s_4_minutes",
+      "value": "4 minuter"
+    },
+    {
+      "name": "s_5_minutes",
+      "value": "5 minuter"
+    },
+    {
+      "name": "a_network_connection_is_required_please_check_your_connectio",
+      "value": "En nätverksanslutning krävs. Kontrollera din anslutning och försök igen."
+    },
+    {
+      "name": "about",
+      "value": "Om"
+    },
+    {
+      "name": "accept",
+      "value": "Acceptera"
+    },
+    {
+      "name": "account",
+      "value": "Konto"
+    },
+    {
+      "name": "account_verification_required",
+      "value": "Verifiering av konto krävs"
+    },
+    {
+      "name": "add_a_new_collaborator",
+      "value": "Lägg till ny redigerare..."
+    },
+    {
+      "name": "add_a_tag_to_the_current_note",
+      "value": "Lägg till en etikett för anteckningen"
+    },
+    {
+      "name": "add_an_email_address_to_share_this_note_with_someone_then_yo",
+      "value": "Lägg till en e-postadress för att dela den här anteckningen med någon. Därefter kan ni båda göra ändringar i den."
+    },
+    {
+      "name": "add_tag",
+      "value": "Lägg till etikett"
+    },
+    {
+      "name": "all_notes",
+      "value": "Alla anteckningar"
+    },
+    {
+      "name": "an_email_has_been_sent_to_check_your_inbox_and_follow_the_in",
+      "value": "Ett e-postmeddelande har skickats till %s. Kolla din inkorg och följ instruktionerna för att bekräfta kontoborttagningen.\n\nDitt konto kommer inte att tas bort förrän vi har mottagit din bekräftelse"
+    },
+    {
+      "name": "an_error_occured_please_try_again_if_the_problem_continues_c",
+      "value": "Ett fel uppstod. Försök igen. Om problemet fortsätter, kontakta oss på support@simplenote.com för hjälp."
+    },
+    {
+      "name": "an_error_was_encountered_while_signing_in",
+      "value": "Ett fel uppstod vid inloggningen."
+    },
+    {
+      "name": "appearance",
+      "value": "Utseende"
+    },
+    {
+      "name": "are_you_a_developer_we_re_hiring",
+      "value": "Är du en utvecklare? Vi letar efter medarbetare."
+    },
+    {
+      "name": "are_you_sure_you_want_to_delete_1",
+      "value": "Är du säker att du vill ta bort ”%1$s”?"
+    },
+    {
+      "name": "are_you_sure_you_want_to_empty_the_trash_this_cannot_be_undo",
+      "value": "Är du säker på att du vill tömma papperskorgen?  Detta kan inte göras ogjort."
+    },
+    {
+      "name": "attempt_to_fetch_current_note_content_failed_please_try_agai",
+      "value": "Försöket att hämta aktuellt anteckningsinnehåll misslyckades.  Försök igen senare."
+    },
+    {
+      "name": "attempt_to_fetch_entities_failed_please_try_again_later",
+      "value": "Försöket att hämta enheter misslyckades.  Försök igen senare."
+    },
+    {
+      "name": "attempt_to_fetch_notes_failed_please_try_again_later",
+      "value": "Försöket att hämta anteckningar misslyckades.  Försök igen senare."
+    },
+    {
+      "name": "attempt_to_fetch_tags_failed_please_try_again_later",
+      "value": "Försök att hämta etiketter misslyckades. Försök igen senare."
+    },
+    {
+      "name": "authenticated",
+      "value": "Autentiserad"
+    },
+    {
+      "name": "become_a_simplenote_sustainer",
+      "value": "Bli en Simplenote Sustainer"
+    },
+    {
+      "name": "blog",
+      "value": "Blogg"
+    },
+    {
+      "name": "by_creating_an_account_you_agree_to_our",
+      "value": "Genom att skapa ett konto godkänner du våra"
+    },
+    {
+      "name": "by_deleting_the_account_for_all_notes_created_with_this_acco",
+      "value": "Om du tar bort kontot för %s kommer alla anteckningar som har skapats med kontot också att tas bort permanent. Det går inte att ångra den här åtgärden."
+    },
+    {
+      "name": "cancel",
+      "value": "Avbryt"
+    },
+    {
+      "name": "cancel_share",
+      "value": "Avbryt dela"
+    },
+    {
+      "name": "cannot_confirm_account",
+      "value": "Kan inte bekräfta konto"
+    },
+    {
+      "name": "cannot_send_verification_email",
+      "value": "Kan inte skicka e-postverifiering"
+    },
+    {
+      "name": "careers",
+      "value": "Karriärer"
+    },
+    {
+      "name": "change_email",
+      "value": "Ändra e-post"
+    },
+    {
+      "name": "change_password",
+      "value": "Ändra lösenord"
+    },
+    {
+      "name": "characters",
+      "value": "Tecken"
+    },
+    {
+      "name": "check_your_email",
+      "value": "Kontrollera din e-post"
+    },
+    {
+      "name": "check_your_email_2",
+      "value": "Kolla din e-post!"
+    },
+    {
+      "name": "choose_a_4_digit_passcode",
+      "value": "Välj en fyrsiffrig låskod"
+    },
+    {
+      "name": "code",
+      "value": "Kod"
+    },
+    {
+      "name": "collaborate",
+      "value": "Samarbeta"
+    },
+    {
+      "name": "collaboration_has_moved",
+      "value": "Samarbete har flyttats"
+    },
+    {
+      "name": "collaborators",
+      "value": "Redigerare"
+    },
+    {
+      "name": "compromised_password",
+      "value": "Komprometterat lösenord"
+    },
+    {
+      "name": "condensed_note_list",
+      "value": "Komprimerad anteckningslista"
+    },
+    {
+      "name": "confirm",
+      "value": "Bekräfta"
+    },
+    {
+      "name": "confirm_your_passcode",
+      "value": "Bekräfta din låskod"
+    },
+    {
+      "name": "contribute",
+      "value": "Bidra"
+    },
+    {
+      "name": "copy_internal_link",
+      "value": "Kopiera intern länk"
+    },
+    {
+      "name": "copy_link_2",
+      "value": "Kopiera länk"
+    },
+    {
+      "name": "copy_link",
+      "value": "Kopiera länk"
+    },
+    {
+      "name": "could_be_better",
+      "value": "Kunde vara bättre"
+    },
+    {
+      "name": "could_not_create_an_account_with_the_provided_email_address",
+      "value": "Kunde inte skapa ett konto med den e-postadressen och det lösenordet."
+    },
+    {
+      "name": "could_not_delete_tag",
+      "value": "Det gick inte att ta bort etiketten"
+    },
+    {
+      "name": "could_not_fetch_notes",
+      "value": "Det gick inte att hämta anteckningar"
+    },
+    {
+      "name": "could_not_fetch_tags",
+      "value": "Kunde inte hämta etiketter"
+    },
+    {
+      "name": "could_not_fetch_entities",
+      "value": "Kunde inte hämta enheter"
+    },
+    {
+      "name": "could_not_fetch_note_content",
+      "value": "Det gick inte att hämta anteckningsinnehållet"
+    },
+    {
+      "name": "could_not_login_with_the_provided_email_address_and_password",
+      "value": "Kunde inte logga in med den e-postadressen och det lösenordet."
+    },
+    {
+      "name": "could_you_tell_us_how_we_could_improve",
+      "value": "Kan du berätta för oss vad vi kan förbättra?"
+    },
+    {
+      "name": "couldn_t_retrieve_history",
+      "value": "Kunde inte hämta historik"
+    },
+    {
+      "name": "couldn_t_sign_in",
+      "value": "Det gick inte att logga in"
+    },
+    {
+      "name": "create_a_new_note",
+      "value": "Skapa ny anteckning"
+    },
+    {
+      "name": "create_a_new_note_2",
+      "value": "Skapa ny anteckning"
+    },
+    {
+      "name": "create_a_new_note_instantly_with_one_tap",
+      "value": "Skapa en ny anteckning omedelbart med ett tryck."
+    },
+    {
+      "name": "create_a_new_note_titled",
+      "value": "Skapa en ny anteckning med titeln \"%s\""
+    },
+    {
+      "name": "create_your_first_note",
+      "value": "Skapa din första anteckning"
+    },
+    {
+      "name": "created",
+      "value": "Skapad"
+    },
+    {
+      "name": "created_newest",
+      "value": "Skapad: Senaste"
+    },
+    {
+      "name": "created_oldest",
+      "value": "Skapad: Äldsta"
+    },
+    {
+      "name": "current_collaborators",
+      "value": "Nuvarande redigerare"
+    },
+    {
+      "name": "dark",
+      "value": "Mörk"
+    },
+    {
+      "name": "debug",
+      "value": "Felsök"
+    },
+    {
+      "name": "debug_disabled",
+      "value": "Felsökning inaktiverad"
+    },
+    {
+      "name": "delete",
+      "value": "Ta bort"
+    },
+    {
+      "name": "delete_account",
+      "value": "Ta bort konto"
+    },
+    {
+      "name": "delete_note",
+      "value": "Ta bort anteckning"
+    },
+    {
+      "name": "delete_notes",
+      "value": "Ta bort anteckningar"
+    },
+    {
+      "name": "delete_tag",
+      "value": "Ta bort etikett"
+    },
+    {
+      "name": "deselect_all",
+      "value": "Avmarkera alla"
+    },
+    {
+      "name": "diagnostics",
+      "value": "Diagnostik"
+    },
+    {
+      "name": "didn_t_get_an_email_there_may_already_be_an_account_associat",
+      "value": "Har du inte fått något e-postmeddelande? Det kan hända att det redan finns ett konto kopplat till den här e-postadressen. Kontakta %1$s för att få hjälp."
+    },
+    {
+      "name": "disable_markdown_formatting",
+      "value": "Inaktivera Markdown-formatering"
+    },
+    {
+      "name": "dismiss",
+      "value": "Avfärda"
+    },
+    {
+      "name": "dismiss_history",
+      "value": "Avfärda historik"
+    },
+    {
+      "name": "dismiss_information",
+      "value": "Avfärda information"
+    },
+    {
+      "name": "dismiss_keyboard",
+      "value": "Göm tangentbord"
+    },
+    {
+      "name": "document",
+      "value": "Dokument"
+    },
+    {
+      "name": "done",
+      "value": "Klar"
+    },
+    {
+      "name": "edit",
+      "value": "Redigera"
+    },
+    {
+      "name": "email",
+      "value": "E-post"
+    },
+    {
+      "name": "email_in_use",
+      "value": "E-postadressen används redan"
+    },
+    {
+      "name": "empty",
+      "value": "Töm"
+    },
+    {
+      "name": "empty_trash",
+      "value": "Töm papperskorgen"
+    },
+    {
+      "name": "enable_markdown_formatting",
+      "value": "Aktivera Markdown-formatering"
+    },
+    {
+      "name": "end_editing",
+      "value": "Sluta redigering"
+    },
+    {
+      "name": "enqueued",
+      "value": "I kö"
+    },
+    {
+      "name": "enter_code",
+      "value": "Ange kod"
+    },
+    {
+      "name": "enter_password",
+      "value": "Ange lösenord"
+    },
+    {
+      "name": "enter_the_password_for_the_account_email",
+      "value": "Ange lösenordet för kontot {{EMAIL}}"
+    },
+    {
+      "name": "enter_your_passcode",
+      "value": "Ange lösenkod"
+    },
+    {
+      "name": "error",
+      "value": "Fel"
+    },
+    {
+      "name": "faq_or_contact_us",
+      "value": "Vanliga frågor eller kontakta oss"
+    },
+    {
+      "name": "face_id",
+      "value": "Ansiktsidentifiering"
+    },
+    {
+      "name": "fetching_version",
+      "value": "Hämtar version"
+    },
+    {
+      "name": "forgot_your_password",
+      "value": "Glömt ditt lösenord?"
+    },
+    {
+      "name": "get_help",
+      "value": "Skaffa hjälp"
+    },
+    {
+      "name": "get_quick_access_to_a_list_of_all_notes_or_based_on_the_sele",
+      "value": "Få snabb åtkomst till en lista med alla anteckningar eller en lista baserad på vald etikett."
+    },
+    {
+      "name": "get_quick_access_to_one_of_your_notes",
+      "value": "Få snabb åtkomst till någon av dina anteckningar."
+    },
+    {
+      "name": "great_mind_leaving_a_review_to_tell_us_what_you_like",
+      "value": "Vad kul! Har du lust att lämna en recension och berätta för oss vad du gillar?"
+    },
+    {
+      "name": "help",
+      "value": "Hjälp"
+    },
+    {
+      "name": "help_us_improve_simplenote_by_sharing_usage_data_with_our_an",
+      "value": "Hjälp oss att förbättra Simplenote genom att dela användningsdata med vårt analysverktyg."
+    },
+    {
+      "name": "history",
+      "value": "Historik"
+    },
+    {
+      "name": "i_like_it",
+      "value": "Jag gillar den"
+    },
+    {
+      "name": "index_notes_in_spotlight",
+      "value": "Indexera anteckningar i Spotlight"
+    },
+    {
+      "name": "index_removed",
+      "value": "Index borttaget"
+    },
+    {
+      "name": "information",
+      "value": "Information"
+    },
+    {
+      "name": "insert_checklist",
+      "value": "Infoga checklista"
+    },
+    {
+      "name": "inserts_a_new_checklist_item",
+      "value": "Infogar ett nytt checklisteobjekt"
+    },
+    {
+      "name": "last_modified_1",
+      "value": "Senast modifierat %1$s"
+    },
+    {
+      "name": "lastseen",
+      "value": "Sågs senast"
+    },
+    {
+      "name": "learn_more",
+      "value": "Lär dig mer"
+    },
+    {
+      "name": "leave_a_review",
+      "value": "Lämna en recension"
+    },
+    {
+      "name": "light",
+      "value": "Ljus"
+    },
+    {
+      "name": "link_copied",
+      "value": "Länk kopierad"
+    },
+    {
+      "name": "lock_timeout",
+      "value": "Timeout för lås"
+    },
+    {
+      "name": "log_in",
+      "value": "Logga in"
+    },
+    {
+      "name": "log_in_with_password",
+      "value": "Logga in med lösenord"
+    },
+    {
+      "name": "log_out",
+      "value": "Logga ut"
+    },
+    {
+      "name": "log_in_to_see_your_notes",
+      "value": "Logga in för att se dina anteckningar"
+    },
+    {
+      "name": "log_in_with_wordpress_com",
+      "value": "Logga in med WordPress.com"
+    },
+    {
+      "name": "log_in_with_email",
+      "value": "Logga in med e-post"
+    },
+    {
+      "name": "log_in_with_email_failed_please_enter_your_password",
+      "value": "Inloggning med e-post misslyckades, ange ditt lösenord"
+    },
+    {
+      "name": "login_code_is_too_short",
+      "value": "Inloggningskod är för kort"
+    },
+    {
+      "name": "mmm_d",
+      "value": "d MMM"
+    },
+    {
+      "name": "mmm_d_h_mm_a",
+      "value": "d MMM, h:mm"
+    },
+    {
+      "name": "mmm_d_yyyy",
+      "value": "d MMM, yyyy"
+    },
+    {
+      "name": "mmm_yyyy",
+      "value": "MMM yyyy"
+    },
+    {
+      "name": "main_app_is_not_configured",
+      "value": "Huvudappen har inte konfigurerats"
+    },
+    {
+      "name": "markdown",
+      "value": "Markdown"
+    },
+    {
+      "name": "menu",
+      "value": "Meny"
+    },
+    {
+      "name": "modified",
+      "value": "Modifierad"
+    },
+    {
+      "name": "modified_newest",
+      "value": "Modifierad: Senaste"
+    },
+    {
+      "name": "modified_oldest",
+      "value": "Modifierad: Äldsta"
+    },
+    {
+      "name": "move_selected_notes_to_trash",
+      "value": "Flytta markerade anteckningar till papperskorgen"
+    },
+    {
+      "name": "move_to_trash",
+      "value": "Flytta till papperskorgen"
+    },
+    {
+      "name": "name_a_z",
+      "value": "Namn: A–Z"
+    },
+    {
+      "name": "name_z_a",
+      "value": "Namn: Z–A"
+    },
+    {
+      "name": "new_note",
+      "value": "Ny anteckning"
+    },
+    {
+      "name": "new_note_4",
+      "value": "Ny anteckning…"
+    },
+    {
+      "name": "new_note_2",
+      "value": "Ny anteckning"
+    },
+    {
+      "name": "new_note_3",
+      "value": "Ny anteckning ..."
+    },
+    {
+      "name": "next_match",
+      "value": "Nästa matchning"
+    },
+    {
+      "name": "no",
+      "value": "Nej"
+    },
+    {
+      "name": "no_results",
+      "value": "Inga resultat"
+    },
+    {
+      "name": "no_simplenote_account",
+      "value": "Inget Simplenote-konto"
+    },
+    {
+      "name": "no_notes_tagged",
+      "value": "Inga anteckningar märkta \"%s\""
+    },
+    {
+      "name": "no_previous_valid_purchases_found_for_the_current_period",
+      "value": "Inga giltiga tidigare köp hittades för den aktuella perioden"
+    },
+    {
+      "name": "no_purchases_found",
+      "value": "Inga köp hittades"
+    },
+    {
+      "name": "no_thanks",
+      "value": "Nej, tack"
+    },
+    {
+      "name": "no_untagged_notes",
+      "value": "Inga omärkta anteckningar"
+    },
+    {
+      "name": "note",
+      "value": "Notis"
+    },
+    {
+      "name": "note_list",
+      "value": "Anteckningslista"
+    },
+    {
+      "name": "note_trashed",
+      "value": "Anteckning borttagen"
+    },
+    {
+      "name": "note_no_longer_available",
+      "value": "Anteckningen är inte längre tillgänglig"
+    },
+    {
+      "name": "notes",
+      "value": "Anteckningar"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "off",
+      "value": "Av"
+    },
+    {
+      "name": "ok_2",
+      "value": "Okej"
+    },
+    {
+      "name": "okay",
+      "value": "Okey"
+    },
+    {
+      "name": "on",
+      "value": "På"
+    },
+    {
+      "name": "open_simplenote",
+      "value": "Öppna Simplenote"
+    },
+    {
+      "name": "open_note",
+      "value": "Öppna anteckning"
+    },
+    {
+      "name": "options",
+      "value": "Alternativ"
+    },
+    {
+      "name": "or",
+      "value": "Eller"
+    },
+    {
+      "name": "passcode",
+      "value": "Lösenkod"
+    },
+    {
+      "name": "passcodes_did_not_match_try_again",
+      "value": "Lösenkoderna matchar inte varandra. Försök igen."
+    },
+    {
+      "name": "password",
+      "value": "Lösenord"
+    },
+    {
+      "name": "password_cannot_match_email_2",
+      "value": "Lösenord kan inte matcha e-post"
+    },
+    {
+      "name": "password_must_contain_at_least_d_characters",
+      "value": "Lösenord måste innehålla minst %d tecken"
+    },
+    {
+      "name": "password_must_not_contain_tabs_nor_newlines",
+      "value": "Lösenordet får inte innehålla tabbstopp eller nya rader"
+    },
+    {
+      "name": "pendings",
+      "value": "Väntande"
+    },
+    {
+      "name": "pin_note",
+      "value": "Nåla fast anteckning"
+    },
+    {
+      "name": "pin_to_top",
+      "value": "Nåla fast högst upp"
+    },
+    {
+      "name": "please_activate_your_wordpress_com_account_via_email_and_try",
+      "value": "Aktivera ditt WordPress.com-konto via e-post och försök igen."
+    },
+    {
+      "name": "please_check_your_network_settings_and_try_again",
+      "value": "Kontrollera dina nätverksinställningar och försök igen."
+    },
+    {
+      "name": "please_log_into_your_simplenote_account_first_by_using_the_s",
+      "value": "Logga in på ditt Simplenote-konto först genom att använda Simplenote-appen."
+    },
+    {
+      "name": "please_try_again",
+      "value": "Försök igen"
+    },
+    {
+      "name": "please_upgrade_to_the_latest_ios_release_to_restore_purchase",
+      "value": "Uppgradera till den senaste iOS-versionen för att återställa köp"
+    },
+    {
+      "name": "preview",
+      "value": "Förhandsgranska"
+    },
+    {
+      "name": "previous_match",
+      "value": "Föregående matchning"
+    },
+    {
+      "name": "privacy_notice_for_california_users",
+      "value": "Integritetsnotis för användare i Kalifornien"
+    },
+    {
+      "name": "privacy_policy",
+      "value": "Integritetspolicy"
+    },
+    {
+      "name": "privacy_settings",
+      "value": "Inställningar för integritet"
+    },
+    {
+      "name": "publish",
+      "value": "Publicera"
+    },
+    {
+      "name": "publish_successful",
+      "value": "Publicering slutförd"
+    },
+    {
+      "name": "publish_note",
+      "value": "Publicera anteckning"
+    },
+    {
+      "name": "publishing_note",
+      "value": "Publicerar anteckning..."
+    },
+    {
+      "name": "publishing",
+      "value": "Publicerar..."
+    },
+    {
+      "name": "rate_us",
+      "value": "Betygsätt oss"
+    },
+    {
+      "name": "reachability",
+      "value": "Nåbarhet"
+    },
+    {
+      "name": "recent",
+      "value": "Senaste"
+    },
+    {
+      "name": "recovered_note_cotent",
+      "value": "Återställt anteckningsinnehåll – "
+    },
+    {
+      "name": "referenced_in",
+      "value": "Refereras i"
+    },
+    {
+      "name": "remove_all_notes_from_trash",
+      "value": "Ta bort alla anteckningar från papperskorgen"
+    },
+    {
+      "name": "remove_tag_from_the_current_note",
+      "value": "Ta bort etikett från den nuvarande anteckningen"
+    },
+    {
+      "name": "rename",
+      "value": "Ändra namn"
+    },
+    {
+      "name": "request_account_deletion",
+      "value": "Begär borttagning av konto"
+    },
+    {
+      "name": "request_error",
+      "value": "Begäran misslyckades"
+    },
+    {
+      "name": "resend_email",
+      "value": "Skicka e-post igen"
+    },
+    {
+      "name": "resend_verification_email",
+      "value": "Skicka verifieringsmeddelande igen"
+    },
+    {
+      "name": "reset",
+      "value": "Återställ"
+    },
+    {
+      "name": "reset_required",
+      "value": "Återställning krävs"
+    },
+    {
+      "name": "response",
+      "value": "Svar"
+    },
+    {
+      "name": "restore_note",
+      "value": "Återställ anteckning"
+    },
+    {
+      "name": "review_your_account",
+      "value": "Granska ditt konto"
+    },
+    {
+      "name": "save",
+      "value": "Spara"
+    },
+    {
+      "name": "search",
+      "value": "Sök"
+    },
+    {
+      "name": "search_by_tag",
+      "value": "Sök efter etikett"
+    },
+    {
+      "name": "search_notes_or_tags",
+      "value": "Sök anteckningar eller etiketter"
+    },
+    {
+      "name": "security",
+      "value": "Säkerhet"
+    },
+    {
+      "name": "select",
+      "value": "Välj"
+    },
+    {
+      "name": "select_all",
+      "value": "Välj alla"
+    },
+    {
+      "name": "select_a_version",
+      "value": "Välj en version"
+    },
+    {
+      "name": "send_a_test_crash",
+      "value": "Skicka en testkrasch"
+    },
+    {
+      "name": "send_feedback",
+      "value": "Skicka feedback"
+    },
+    {
+      "name": "set_up_passcode",
+      "value": "Konfigurera lösenkod"
+    },
+    {
+      "name": "settings",
+      "value": "Inställningar"
+    },
+    {
+      "name": "share",
+      "value": "Dela"
+    },
+    {
+      "name": "share_analytics",
+      "value": "Dela analys"
+    },
+    {
+      "name": "share_2",
+      "value": "Dela …"
+    },
+    {
+      "name": "sharing_notes_is_now_accessed_through_the_action_menu_from_t",
+      "value": "Det går nu att dela anteckningar via åtgärdsmenyn i verktygsfältet."
+    },
+    {
+      "name": "sidebar",
+      "value": "Sidopanel"
+    },
+    {
+      "name": "sign_up",
+      "value": "Registrera"
+    },
+    {
+      "name": "signing_out_will_delete_any_unsynced_notes_you_can_verify_yo",
+      "value": "Utloggning kommer att radera alla osynkroniserade anteckningar. Du kan verifiera dina synkroniserade anteckningar genom att logga in på webbappen."
+    },
+    {
+      "name": "simplenote",
+      "value": "Simplenote"
+    },
+    {
+      "name": "simplenote_sustainer",
+      "value": "Simplenote Sustainer"
+    },
+    {
+      "name": "simplenote_ios_feedback",
+      "value": "Feedback rörande Simplenote iOS"
+    },
+    {
+      "name": "simplenote_must_be_configured_and_logged_in_to_setup_widgets",
+      "value": "Du måste konfigurera Simplenote och logga in för att konfigurera widgetar"
+    },
+    {
+      "name": "sorry",
+      "value": "Tyvärr!"
+    },
+    {
+      "name": "sort_alphabetically",
+      "value": "Sortera alfabetiskt"
+    },
+    {
+      "name": "sort_order",
+      "value": "Sortering"
+    },
+    {
+      "name": "sort_by",
+      "value": "Sortera efter:"
+    },
+    {
+      "name": "spotlight_history_may_still_appear_in_search_results_but_not",
+      "value": "Spotlight-historik kan fortfarande visas i sökresultaten, men anteckningar är inte längre indexerade"
+    },
+    {
+      "name": "status_code",
+      "value": "Statuskod"
+    },
+    {
+      "name": "support_your_favorite_notes_app_to_help_unlock_future_featur",
+      "value": "Stöd din favoritanteckningsapp och hjälp till att låsa upp framtida funktioner"
+    },
+    {
+      "name": "sustainer_app_icon",
+      "value": "Sustainer-appikon"
+    },
+    {
+      "name": "sustainer_subscription_restored_thank_you_for_supporting_sim",
+      "value": "Sustainer-prenumeration återställd. Tack för att du stödjer Simplenote."
+    },
+    {
+      "name": "system_default",
+      "value": "Systemstandard"
+    },
+    {
+      "name": "tag",
+      "value": "Tagga"
+    },
+    {
+      "name": "tag_no_longer_available",
+      "value": "Etiketten är inte längre tillgänglig"
+    },
+    {
+      "name": "tags",
+      "value": "Etiketter"
+    },
+    {
+      "name": "tag_3",
+      "value": "Etikett …"
+    },
+    {
+      "name": "tap_button_to_select_or_deselect_all_notes",
+      "value": "Tryck på knappen för att markera eller avmarkera alla anteckningar"
+    },
+    {
+      "name": "terms_and_conditions",
+      "value": "Villkor"
+    },
+    {
+      "name": "terms_of_service",
+      "value": "Användarvillkor"
+    },
+    {
+      "name": "thank_you",
+      "value": "Tack."
+    },
+    {
+      "name": "thank_you_for_your_continued_support",
+      "value": "Tack för ditt fortsatta stöd"
+    },
+    {
+      "name": "the_authentication_code_you_ve_requested_has_expired_please",
+      "value": "Autentiseringskoden du har begärt har löpt ut. Begär en ny"
+    },
+    {
+      "name": "the_code_you_ve_entered_is_not_correct_please_try_again",
+      "value": "Koden du har angett är inte korrekt. Försök igen"
+    },
+    {
+      "name": "the_email_you_ve_entered_is_already_associated_with_a_simple",
+      "value": "Den angivna e-postadressen är redan associerad med ett Simplenote-konto."
+    },
+    {
+      "name": "the_network_could_not_be_reached",
+      "value": "Nätverket kunde inte nås."
+    },
+    {
+      "name": "the_simplest_way_to_keep_notes",
+      "value": "Det enklaste sättet att anteckna på."
+    },
+    {
+      "name": "theme",
+      "value": "Tema"
+    },
+    {
+      "name": "themes",
+      "value": "Teman"
+    },
+    {
+      "name": "there_was_an_preparing_your_verification_email_please_try_ag",
+      "value": "Det gick inte att förbereda ditt verifieringsmeddelande. Försök igen senare."
+    },
+    {
+      "name": "this_note_was_deleted_on_another_device",
+      "value": "Denna anteckning har blivit borttagen på en annan enhet"
+    },
+    {
+      "name": "this_password_has_appeared_in_a_data_breach_which_puts_your",
+      "value": "Det här lösenordet har dykt upp i ett dataintrång, vilket innebär att ditt konto löper hög risk att komprometteras. För att skydda dina data behöver du uppdatera ditt lösenord innan du kan logga in igen."
+    },
+    {
+      "name": "to_enable_1_you_must_have_a_passcode_setup_first",
+      "value": "För att aktivera %1$s måste du först konfigurera en lösenkod."
+    },
+    {
+      "name": "to_unlock_the_application",
+      "value": "För att låsa upp applikationen"
+    },
+    {
+      "name": "today",
+      "value": "Idag"
+    },
+    {
+      "name": "toggle_markdown",
+      "value": "Växla markdown"
+    },
+    {
+      "name": "toggle_tag_sidebar",
+      "value": "Slå på\\/av etiketter i sidopanelen"
+    },
+    {
+      "name": "too_many_login_attempts",
+      "value": "För många inloggningsförsök"
+    },
+    {
+      "name": "too_many_login_attempts_try_again_later",
+      "value": "För många inloggningsförsök. Försök igen senare."
+    },
+    {
+      "name": "touch_id",
+      "value": "Touch ID"
+    },
+    {
+      "name": "trash",
+      "value": "Papperskorg"
+    },
+    {
+      "name": "trash_notes",
+      "value": "Ta bort anteckningar"
+    },
+    {
+      "name": "turn_off_passcode",
+      "value": "Stäng av lösenkod"
+    },
+    {
+      "name": "undo",
+      "value": "Ångra"
+    },
+    {
+      "name": "unnamed_tag",
+      "value": "Etikett utan namn"
+    },
+    {
+      "name": "unpin",
+      "value": "Lossa"
+    },
+    {
+      "name": "unpin_note",
+      "value": "Ta bort nål"
+    },
+    {
+      "name": "unpublish_note",
+      "value": "Sluta publicera anteckning"
+    },
+    {
+      "name": "unpublish_successful",
+      "value": "Avpublicering slutförd"
+    },
+    {
+      "name": "unpublishing_note",
+      "value": "Avpublicerar anteckning..."
+    },
+    {
+      "name": "unpublishing",
+      "value": "Slutar publicera..."
+    },
+    {
+      "name": "unsupported",
+      "value": "Stöds ej"
+    },
+    {
+      "name": "unsynced_notes_detected",
+      "value": "Osynkroniserade anteckningar upptäckta"
+    },
+    {
+      "name": "untagged",
+      "value": "Utan etikett"
+    },
+    {
+      "name": "untagged_notes",
+      "value": "Omärkta anteckningar"
+    },
+    {
+      "name": "username",
+      "value": "Användarnamn"
+    },
+    {
+      "name": "verify_your_email",
+      "value": "Verifiera din e-post"
+    },
+    {
+      "name": "version",
+      "value": "Version %s"
+    },
+    {
+      "name": "visit_web_app",
+      "value": "Besök webbappen"
+    },
+    {
+      "name": "we_ll_email_you_a_code_to_log_in_or_you_can",
+      "value": "Vi skickar en kod till dig via e-post för att logga in, eller så kan du"
+    },
+    {
+      "name": "we_re_having_problems_please_try_again_soon",
+      "value": "Vi har problem. Försök igen om en stund."
+    },
+    {
+      "name": "we_ve_sent_a_code_to_email_the_code_will_be_valid_for_a_few",
+      "value": "Vi har skickat en kod till {{EMAIL}}. Koden kommer vara giltig i några minuter."
+    },
+    {
+      "name": "websocket",
+      "value": "WebSocket"
+    },
+    {
+      "name": "we_ve_sent_a_verification_email_to_1_please_check_your_inbox",
+      "value": "Vi har skickat en e-postverifiering till %1$s. Kontrollera din inkorg och följ instruktionerna."
+    },
+    {
+      "name": "we_ve_sent_an_email_to_1_please_check_your_inbox_and_follow",
+      "value": "Vi har skickat ett e-postmeddelande till %1$s. Kontrollera din inkorg och följ instruktionerna."
+    },
+    {
+      "name": "what_do_you_think_about_simplenote",
+      "value": "Vad tycker du om Simplenote?"
+    },
+    {
+      "name": "will_attempt_to_recover_shortcut_content_on_next_launch",
+      "value": "Kommer att försöka återställa genvägsinnehållet vid nästa start"
+    },
+    {
+      "name": "words",
+      "value": "ord"
+    },
+    {
+      "name": "yes",
+      "value": "Ja"
+    },
+    {
+      "name": "yesterday",
+      "value": "Igår"
+    },
+    {
+      "name": "you_are_a_simplenote_sustainer",
+      "value": "Du är en Simplenote Sustainer"
+    },
+    {
+      "name": "you_are_registered_with_simplenote_using_the_email_1_improve",
+      "value": "Du är registrerad hos Simplenote med e-postadressen %1$s.\n\nFörbättringar av kontosäkerhet kan leda till kontoförlust om du inte längre har tillgång till den här e-postadressen."
+    },
+    {
+      "name": "you_must_verify_your_email_before_being_able_to_login",
+      "value": "Du måste verifiera din e-postadress för att du ska kunna logga in."
+    },
+    {
+      "name": "you_re_already_a_sustainer_thank_you_for_supporting_simpleno",
+      "value": "Du är redan en Sustainer. Tack för att du stödjer Simplenote."
+    },
+    {
+      "name": "your_authentication_code_has_expired_please_request_a_new_on",
+      "value": "Din autentiseringskod har löpt ut. Begär en ny"
+    },
+    {
+      "name": "your_email_address_is_not_valid",
+      "value": "Din e-postadress är inte giltig"
+    },
+    {
+      "name": "your_password_is_insecure_and_must_be_reset_the_password_req",
+      "value": "Ditt lösenord är osäkert och måste återställas. Lösenordskraven är:"
+    },
+    {
+      "name": "your_trash_is_empty",
+      "value": "Din papperskorg är tom"
+    },
+    {
+      "name": "log_in_manually",
+      "value": "logga in manuellt."
+    },
+    {
+      "name": "tag_2",
+      "value": "etikett:"
+    },
+    {
+      "name": "debug_enabled",
+      "value": "🐞 Felsökning aktiverad 🐞"
+    }
+  ]
+}

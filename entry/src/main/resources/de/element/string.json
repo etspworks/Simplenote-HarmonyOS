@@ -1,0 +1,1340 @@
+{
+  "string": [
+    {
+      "name": "d_result",
+      "value": "%d Ergebnis"
+    },
+    {
+      "name": "d_results",
+      "value": "%d Ergebnisse"
+    },
+    {
+      "name": "i_failed_passcode_attempt",
+      "value": "%d fehlgeschlagener Passcode-Versuch"
+    },
+    {
+      "name": "i_failed_passcode_attempts",
+      "value": "%d fehlgeschlagene Passcode-Versuche"
+    },
+    {
+      "name": "i_note_trashed",
+      "value": "%d Notiz in den Papierkorb verschoben"
+    },
+    {
+      "name": "i_notes_trashed",
+      "value": "%d Notizen in den Papierkorb verschoben"
+    },
+    {
+      "name": "i_reference",
+      "value": "%d Referenz"
+    },
+    {
+      "name": "i_references",
+      "value": "%d Referenzen"
+    },
+    {
+      "name": "i_selected",
+      "value": "%d Ausgewählt"
+    },
+    {
+      "name": "minimum_of_8_characters",
+      "value": "– Es muss mindestens 8 Zeichen lang sein."
+    },
+    {
+      "name": "neither_tabs_nor_newlines_are_allowed",
+      "value": "– Es darf keine Tabs oder Zeilenvorschübe enthalten."
+    },
+    {
+      "name": "password_cannot_match_email",
+      "value": "– Das Passwort darf nicht der E-Mail entsprechen."
+    },
+    {
+      "name": "s_1_minute",
+      "value": "1 Minute"
+    },
+    {
+      "name": "s_15_seconds",
+      "value": "15 Sekunden"
+    },
+    {
+      "name": "s_2_minutes",
+      "value": "2 Minuten"
+    },
+    {
+      "name": "s_3_minutes",
+      "value": "3 Minuten"
+    },
+    {
+      "name": "s_30_seconds",
+      "value": "30 Sekunden"
+    },
+    {
+      "name": "s_4_minutes",
+      "value": "4 Minuten"
+    },
+    {
+      "name": "s_5_minutes",
+      "value": "5 Minuten"
+    },
+    {
+      "name": "a_network_connection_is_required_please_check_your_connectio",
+      "value": "Eine Netzwerkverbindung ist erforderlich. Bitte überprüfe deine Verbindung und versuche es erneut."
+    },
+    {
+      "name": "about",
+      "value": "Über"
+    },
+    {
+      "name": "accept",
+      "value": "Akzeptieren"
+    },
+    {
+      "name": "account",
+      "value": "Konto"
+    },
+    {
+      "name": "account_verification_required",
+      "value": "Kontobestätigung erforderlich"
+    },
+    {
+      "name": "add_a_new_collaborator",
+      "value": "Neuen Mitarbeiter hinzufügen…"
+    },
+    {
+      "name": "add_a_tag_to_the_current_note",
+      "value": "Schlagwort zur aktuellen Notiz hinzufügen"
+    },
+    {
+      "name": "add_an_email_address_to_share_this_note_with_someone_then_yo",
+      "value": "Füge eine E-Mail-Adresse hinzu, um diese Notiz mit jemandem zu teilen. Dann könnt ihr beide Änderungen daran vornehmen."
+    },
+    {
+      "name": "add_tag",
+      "value": "Schlagwort hinzufügen"
+    },
+    {
+      "name": "all_notes",
+      "value": "Alle Notizen"
+    },
+    {
+      "name": "an_email_has_been_sent_to_check_your_inbox_and_follow_the_in",
+      "value": "Wir haben eine E-Mail an %s gesendet. Bitte sieh in deinem Posteingang nach und folge den Anweisungen, um die Kontolöschung zu bestätigen.\n\nDein Konto wird erst gelöscht, wenn wir die Bestätigung dafür erhalten haben."
+    },
+    {
+      "name": "an_error_occured_please_try_again_if_the_problem_continues_c",
+      "value": "Es ist ein Fehler aufgetreten. Bitte versuche es erneut. Sollte das Problem weiterhin bestehen, kontaktiere uns unter support@simplenote.com, um Unterstützung zu erhalten."
+    },
+    {
+      "name": "an_error_was_encountered_while_signing_in",
+      "value": "Bei der Anmeldung ist ein Fehler aufgetreten."
+    },
+    {
+      "name": "appearance",
+      "value": "Design"
+    },
+    {
+      "name": "are_you_a_developer_we_re_hiring",
+      "value": "Bist du Entwickler? Wir stellen weitere Mitarbeiter ein."
+    },
+    {
+      "name": "are_you_sure_you_want_to_delete_1",
+      "value": "Willst du „%1$s“ wirklich löschen?"
+    },
+    {
+      "name": "are_you_sure_you_want_to_empty_the_trash_this_cannot_be_undo",
+      "value": "Soll der Papierkorb wirklich geleert werden? Dies kann nicht rückgängig gemacht werden."
+    },
+    {
+      "name": "attempt_to_fetch_current_note_content_failed_please_try_agai",
+      "value": "Versuch, aktuellen Notizeninhalt abzurufen, fehlgeschlagen.  Bitte versuche es später erneut."
+    },
+    {
+      "name": "attempt_to_fetch_entities_failed_please_try_again_later",
+      "value": "Abrufen von Einheiten fehlgeschlagen.  Bitte versuche es später erneut."
+    },
+    {
+      "name": "attempt_to_fetch_notes_failed_please_try_again_later",
+      "value": "Versuch, Notizen abzurufen, fehlgeschlagen.  Bitte versuche es später erneut."
+    },
+    {
+      "name": "attempt_to_fetch_tags_failed_please_try_again_later",
+      "value": "Versuch, Schlagwörter abzurufen, fehlgeschlagen.  Bitte versuche es später erneut."
+    },
+    {
+      "name": "authenticated",
+      "value": "Authentifiziert"
+    },
+    {
+      "name": "become_a_simplenote_sustainer",
+      "value": "Werde ein Simplenote-Unterstützer"
+    },
+    {
+      "name": "blog",
+      "value": "Blog"
+    },
+    {
+      "name": "by_creating_an_account_you_agree_to_our",
+      "value": "Indem du ein Konto erstellst, stimmst du Folgendem zu:"
+    },
+    {
+      "name": "by_deleting_the_account_for_all_notes_created_with_this_acco",
+      "value": "Wenn du das Konto für %s löschst, werden alle Notizen, die in diesem Konto erstellt wurden, unwiderruflich gelöscht. Dieser Vorgang kann nicht rückgängig gemacht werden."
+    },
+    {
+      "name": "cancel",
+      "value": "Abbrechen"
+    },
+    {
+      "name": "cancel_share",
+      "value": "Teilen abbrechen"
+    },
+    {
+      "name": "cannot_confirm_account",
+      "value": "Konto kann nicht bestätigt werden"
+    },
+    {
+      "name": "cannot_send_verification_email",
+      "value": "Verifizierungs-E-Mail kann nicht gesendet werden"
+    },
+    {
+      "name": "careers",
+      "value": "Jobs"
+    },
+    {
+      "name": "change_email",
+      "value": "E-Mail-Adresse ändern"
+    },
+    {
+      "name": "change_password",
+      "value": "Passwort ändern"
+    },
+    {
+      "name": "characters",
+      "value": "Zeichen"
+    },
+    {
+      "name": "check_your_email",
+      "value": "Überprüfe dein E-Mail-Postfach"
+    },
+    {
+      "name": "check_your_email_2",
+      "value": "Überprüfe dein E-Mail-Postfach"
+    },
+    {
+      "name": "choose_a_4_digit_passcode",
+      "value": "Vierstelligen Zugangscode auswählen"
+    },
+    {
+      "name": "code",
+      "value": "Code"
+    },
+    {
+      "name": "collaborate",
+      "value": "Zusammenarbeiten"
+    },
+    {
+      "name": "collaboration_has_moved",
+      "value": "Zusammenarbeit wurde verschoben"
+    },
+    {
+      "name": "collaborators",
+      "value": "Mitarbeiter"
+    },
+    {
+      "name": "compromised_password",
+      "value": "Kompromittiertes Passwort"
+    },
+    {
+      "name": "condensed_note_list",
+      "value": "Notizenliste Kurzfassung"
+    },
+    {
+      "name": "confirm",
+      "value": "Bestätigen"
+    },
+    {
+      "name": "confirm_your_passcode",
+      "value": "Zugangscode bestätigen"
+    },
+    {
+      "name": "contribute",
+      "value": "Beitragen"
+    },
+    {
+      "name": "copy_internal_link",
+      "value": "Internen Link kopieren"
+    },
+    {
+      "name": "copy_link_2",
+      "value": "Link kopieren"
+    },
+    {
+      "name": "copy_link",
+      "value": "Link kopieren"
+    },
+    {
+      "name": "could_be_better",
+      "value": "Könnte besser sein"
+    },
+    {
+      "name": "could_not_create_an_account_with_the_provided_email_address",
+      "value": "Mit der angegebenen E-Mail-Adresse und dem Passwort konnte kein Konto erstellt werden."
+    },
+    {
+      "name": "could_not_delete_tag",
+      "value": "Schlagwort konnte nicht gelöscht werden"
+    },
+    {
+      "name": "could_not_fetch_notes",
+      "value": "Notizen konnten nicht abgerufen werden"
+    },
+    {
+      "name": "could_not_fetch_tags",
+      "value": "Schlagwörter konnten nicht abgerufen werden"
+    },
+    {
+      "name": "could_not_fetch_entities",
+      "value": "Einheiten konnten nicht abgerufen werden"
+    },
+    {
+      "name": "could_not_fetch_note_content",
+      "value": "Notizeninhalt konnte nicht abgerufen werden"
+    },
+    {
+      "name": "could_not_login_with_the_provided_email_address_and_password",
+      "value": "Mit der angegebenen E-Mail-Adresse und dem Passwort war keine Anmeldung möglich."
+    },
+    {
+      "name": "could_you_tell_us_how_we_could_improve",
+      "value": "Könntest du uns Verbesserungsvorschläge machen?"
+    },
+    {
+      "name": "couldn_t_retrieve_history",
+      "value": "Verlauf konnte nicht abgerufen werden"
+    },
+    {
+      "name": "couldn_t_sign_in",
+      "value": "Anmeldung nicht möglich"
+    },
+    {
+      "name": "create_a_new_note",
+      "value": "Neue Notiz erstellen"
+    },
+    {
+      "name": "create_a_new_note_2",
+      "value": "Neue Notiz erstellen"
+    },
+    {
+      "name": "create_a_new_note_instantly_with_one_tap",
+      "value": "Erstelle mit nur einmal Tippen sofort eine neue Notiz."
+    },
+    {
+      "name": "create_a_new_note_titled",
+      "value": "Neue Notiz mit dem Titel „%s“ erstellen"
+    },
+    {
+      "name": "create_your_first_note",
+      "value": "Erste Notiz erstellen"
+    },
+    {
+      "name": "created",
+      "value": "Erstellt"
+    },
+    {
+      "name": "created_newest",
+      "value": "Erstellt: Neueste"
+    },
+    {
+      "name": "created_oldest",
+      "value": "Erstellt: Älteste"
+    },
+    {
+      "name": "current_collaborators",
+      "value": "Aktuelle Mitarbeiter"
+    },
+    {
+      "name": "dark",
+      "value": "Dunkel"
+    },
+    {
+      "name": "debug",
+      "value": "Debuggen"
+    },
+    {
+      "name": "debug_disabled",
+      "value": "Fehlersuche deaktiviert"
+    },
+    {
+      "name": "delete",
+      "value": "Löschen"
+    },
+    {
+      "name": "delete_account",
+      "value": "Konto löschen"
+    },
+    {
+      "name": "delete_note",
+      "value": "Notiz löschen"
+    },
+    {
+      "name": "delete_notes",
+      "value": "Notizen löschen"
+    },
+    {
+      "name": "delete_tag",
+      "value": "Schlagwort löschen"
+    },
+    {
+      "name": "deselect_all",
+      "value": "Alle abwählen"
+    },
+    {
+      "name": "diagnostics",
+      "value": "Diagnose"
+    },
+    {
+      "name": "didn_t_get_an_email_there_may_already_be_an_account_associat",
+      "value": "Du hast keine E-Mail bekommen? Mit dieser E-Mail-Adresse ist vielleicht schon ein Konto verknüpft. Wende dich an %1$s, um Unterstützung zu erhalten."
+    },
+    {
+      "name": "disable_markdown_formatting",
+      "value": "Markdown-Formatierung deaktivieren"
+    },
+    {
+      "name": "dismiss",
+      "value": "Verwerfen"
+    },
+    {
+      "name": "dismiss_history",
+      "value": "Verlauf verwerfen"
+    },
+    {
+      "name": "dismiss_information",
+      "value": "Informationen verwerfen"
+    },
+    {
+      "name": "dismiss_keyboard",
+      "value": "Tastatur ausblenden"
+    },
+    {
+      "name": "document",
+      "value": "Dokument"
+    },
+    {
+      "name": "done",
+      "value": "Fertig"
+    },
+    {
+      "name": "edit",
+      "value": "Bearbeiten"
+    },
+    {
+      "name": "email",
+      "value": "E-Mail"
+    },
+    {
+      "name": "email_in_use",
+      "value": "Verwendete E-Mail-Adresse"
+    },
+    {
+      "name": "empty",
+      "value": "Leer"
+    },
+    {
+      "name": "empty_trash",
+      "value": "Papierkorb leeren"
+    },
+    {
+      "name": "enable_markdown_formatting",
+      "value": "Markdown-Formatierung aktivieren"
+    },
+    {
+      "name": "end_editing",
+      "value": "Bearbeitung beenden"
+    },
+    {
+      "name": "enqueued",
+      "value": "In der Warteschlange"
+    },
+    {
+      "name": "enter_code",
+      "value": "Code eingeben"
+    },
+    {
+      "name": "enter_password",
+      "value": "Passwort eingeben"
+    },
+    {
+      "name": "enter_the_password_for_the_account_email",
+      "value": "Gib das Passwort für das Konto {{EMAIL}} ein"
+    },
+    {
+      "name": "enter_your_passcode",
+      "value": "Gib deinen Passcode ein"
+    },
+    {
+      "name": "error",
+      "value": "Fehler"
+    },
+    {
+      "name": "faq_or_contact_us",
+      "value": "FAQ oder Kontakt"
+    },
+    {
+      "name": "face_id",
+      "value": "Face ID"
+    },
+    {
+      "name": "fetching_version",
+      "value": "Version wird abgerufen"
+    },
+    {
+      "name": "forgot_your_password",
+      "value": "Passwort vergessen?"
+    },
+    {
+      "name": "get_help",
+      "value": "Hilfe bekommen"
+    },
+    {
+      "name": "get_quick_access_to_a_list_of_all_notes_or_based_on_the_sele",
+      "value": "Greife schnell auf eine Liste aller Notizen zu, die dem ausgewählten Schlagwort entspricht."
+    },
+    {
+      "name": "get_quick_access_to_one_of_your_notes",
+      "value": "Greife schnell auf eine deiner Notizen zu."
+    },
+    {
+      "name": "great_mind_leaving_a_review_to_tell_us_what_you_like",
+      "value": "Großartig! Kannst du eine Rezension hinterlassen und uns mitteilen, was dir besonders gut gefällt?"
+    },
+    {
+      "name": "help",
+      "value": "Hilfe"
+    },
+    {
+      "name": "help_us_improve_simplenote_by_sharing_usage_data_with_our_an",
+      "value": "Hilf uns, Simplenote zu verbessern, indem du Nutzungsdaten für unser Analysetool bereitstellst."
+    },
+    {
+      "name": "history",
+      "value": "Verlauf"
+    },
+    {
+      "name": "i_like_it",
+      "value": "Gefällt mir"
+    },
+    {
+      "name": "index_notes_in_spotlight",
+      "value": "Notizen in Spotlight indizieren"
+    },
+    {
+      "name": "index_removed",
+      "value": "Index entfernt"
+    },
+    {
+      "name": "information",
+      "value": "Informationen"
+    },
+    {
+      "name": "insert_checklist",
+      "value": "Checkliste einfügen"
+    },
+    {
+      "name": "inserts_a_new_checklist_item",
+      "value": "Fügt einen weiteren Punkt auf der Checkliste hinzu"
+    },
+    {
+      "name": "last_modified_1",
+      "value": "Zuletzt geändert: %1$s"
+    },
+    {
+      "name": "lastseen",
+      "value": "Zuletzt angesehen"
+    },
+    {
+      "name": "learn_more",
+      "value": "Mehr erfahren"
+    },
+    {
+      "name": "leave_a_review",
+      "value": "Rezension schreiben"
+    },
+    {
+      "name": "light",
+      "value": "Hell"
+    },
+    {
+      "name": "link_copied",
+      "value": "Link kopiert"
+    },
+    {
+      "name": "lock_timeout",
+      "value": "Sperrtimeout"
+    },
+    {
+      "name": "log_in",
+      "value": "Anmelden"
+    },
+    {
+      "name": "log_in_with_password",
+      "value": "Mit Passwort anmelden"
+    },
+    {
+      "name": "log_out",
+      "value": "Abmelden"
+    },
+    {
+      "name": "log_in_to_see_your_notes",
+      "value": "Melde dich an, um deine Notizen zu sehen"
+    },
+    {
+      "name": "log_in_with_wordpress_com",
+      "value": "Mit WordPress.com anmelden"
+    },
+    {
+      "name": "log_in_with_email",
+      "value": "Mit E-Mail-Adresse anmelden"
+    },
+    {
+      "name": "log_in_with_email_failed_please_enter_your_password",
+      "value": "Die Anmeldung per E-Mail ist fehlgeschlagen, bitte gib dein Passwort ein"
+    },
+    {
+      "name": "login_code_is_too_short",
+      "value": "Anmeldecode ist zu kurz"
+    },
+    {
+      "name": "mmm_d",
+      "value": "d. MMM"
+    },
+    {
+      "name": "mmm_d_h_mm_a",
+      "value": "d. MMM H:mm"
+    },
+    {
+      "name": "mmm_d_yyyy",
+      "value": "d. MMM yyyy"
+    },
+    {
+      "name": "mmm_yyyy",
+      "value": "MMM yyyy"
+    },
+    {
+      "name": "main_app_is_not_configured",
+      "value": "Haupt-App ist nicht konfiguriert"
+    },
+    {
+      "name": "markdown",
+      "value": "Markdown"
+    },
+    {
+      "name": "menu",
+      "value": "Menü"
+    },
+    {
+      "name": "modified",
+      "value": "Geändert"
+    },
+    {
+      "name": "modified_newest",
+      "value": "Geändert: Neueste"
+    },
+    {
+      "name": "modified_oldest",
+      "value": "Geändert: Älteste"
+    },
+    {
+      "name": "move_selected_notes_to_trash",
+      "value": "Verschiebe die ausgewählten Notizen in den Papierkorb"
+    },
+    {
+      "name": "move_to_trash",
+      "value": "In Papierkorb verschieben"
+    },
+    {
+      "name": "name_a_z",
+      "value": "Name: A-Z"
+    },
+    {
+      "name": "name_z_a",
+      "value": "Name: Z-A"
+    },
+    {
+      "name": "new_note",
+      "value": "Neue Notiz"
+    },
+    {
+      "name": "new_note_4",
+      "value": "Neue Notiz …"
+    },
+    {
+      "name": "new_note_2",
+      "value": "Neue Notiz"
+    },
+    {
+      "name": "new_note_3",
+      "value": "Neue Notiz…"
+    },
+    {
+      "name": "next_match",
+      "value": "Nächster Treffer"
+    },
+    {
+      "name": "no",
+      "value": "Nein"
+    },
+    {
+      "name": "no_results",
+      "value": "Keine Ergebnisse"
+    },
+    {
+      "name": "no_simplenote_account",
+      "value": "Kein Simplenote-Konto"
+    },
+    {
+      "name": "no_notes_tagged",
+      "value": "Keine Notizen mit „%s“ markiert"
+    },
+    {
+      "name": "no_previous_valid_purchases_found_for_the_current_period",
+      "value": "Für den aktuellen Zeitraum wurden keine vorherigen gültigen Käufe gefunden"
+    },
+    {
+      "name": "no_purchases_found",
+      "value": "Keine Käufe gefunden"
+    },
+    {
+      "name": "no_thanks",
+      "value": "Nein danke"
+    },
+    {
+      "name": "no_untagged_notes",
+      "value": "Keine nicht markierten Notizen"
+    },
+    {
+      "name": "note",
+      "value": "Notiz"
+    },
+    {
+      "name": "note_list",
+      "value": "Notizenliste"
+    },
+    {
+      "name": "note_trashed",
+      "value": "Notiz in den Papierkorb verschoben"
+    },
+    {
+      "name": "note_no_longer_available",
+      "value": "Notiz nicht mehr verfügbar"
+    },
+    {
+      "name": "notes",
+      "value": "Notizen"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "off",
+      "value": "Aus"
+    },
+    {
+      "name": "ok_2",
+      "value": "OK"
+    },
+    {
+      "name": "okay",
+      "value": "Okay"
+    },
+    {
+      "name": "on",
+      "value": "Ein"
+    },
+    {
+      "name": "open_simplenote",
+      "value": "Simplenote öffnen"
+    },
+    {
+      "name": "open_note",
+      "value": "Notiz öffnen"
+    },
+    {
+      "name": "options",
+      "value": "Optionen"
+    },
+    {
+      "name": "or",
+      "value": "Oder"
+    },
+    {
+      "name": "passcode",
+      "value": "Passcode"
+    },
+    {
+      "name": "passcodes_did_not_match_try_again",
+      "value": "Die Passcodes stimmten nicht überein. Versuch's nochmal."
+    },
+    {
+      "name": "password",
+      "value": "Passwort"
+    },
+    {
+      "name": "password_cannot_match_email_2",
+      "value": "Das Passwort darf nicht der E-Mail entsprechen."
+    },
+    {
+      "name": "password_must_contain_at_least_d_characters",
+      "value": "Das Passwort muss mindestens %d Zeichen enthalten."
+    },
+    {
+      "name": "password_must_not_contain_tabs_nor_newlines",
+      "value": "Das Passwort darf keine Tabs oder Zeilenvorschübe enthalten."
+    },
+    {
+      "name": "pendings",
+      "value": "Ausstehend"
+    },
+    {
+      "name": "pin_note",
+      "value": "Notiz anheften"
+    },
+    {
+      "name": "pin_to_top",
+      "value": "An Anfang heften"
+    },
+    {
+      "name": "please_activate_your_wordpress_com_account_via_email_and_try",
+      "value": "Aktiviere dein WordPress.com-Konto per E-Mail und versuche es erneut."
+    },
+    {
+      "name": "please_check_your_network_settings_and_try_again",
+      "value": "Prüfe bitte deine Netzwerkeinstellungen und versuche es noch einmal."
+    },
+    {
+      "name": "please_log_into_your_simplenote_account_first_by_using_the_s",
+      "value": "Bitte melde dich zuerst über die Simplenote-App bei deinem Simplenote-Konto an."
+    },
+    {
+      "name": "please_try_again",
+      "value": "Bitte versuche es erneut"
+    },
+    {
+      "name": "please_upgrade_to_the_latest_ios_release_to_restore_purchase",
+      "value": "Führe ein Upgrade auf die neueste iOS-Version durch, um Käufe wiederherzustellen"
+    },
+    {
+      "name": "preview",
+      "value": "Vorschau"
+    },
+    {
+      "name": "previous_match",
+      "value": "Vorheriger Treffer"
+    },
+    {
+      "name": "privacy_notice_for_california_users",
+      "value": "Datenschutzhinweis für Benutzer in Kalifornien"
+    },
+    {
+      "name": "privacy_policy",
+      "value": "Datenschutzerklärung"
+    },
+    {
+      "name": "privacy_settings",
+      "value": "Datenschutzeinstellungen"
+    },
+    {
+      "name": "publish",
+      "value": "Veröffentlichen"
+    },
+    {
+      "name": "publish_successful",
+      "value": "Veröffentlichung erfolgreich"
+    },
+    {
+      "name": "publish_note",
+      "value": "Notiz veröffentlichen"
+    },
+    {
+      "name": "publishing_note",
+      "value": "Notiz wird veröffentlicht …"
+    },
+    {
+      "name": "publishing",
+      "value": "Veröffentlichung läuft…"
+    },
+    {
+      "name": "rate_us",
+      "value": "Bewerte uns"
+    },
+    {
+      "name": "reachability",
+      "value": "Erreichbarkeit"
+    },
+    {
+      "name": "recent",
+      "value": "Kürzlich"
+    },
+    {
+      "name": "recovered_note_cotent",
+      "value": "Notizeninhalt wiederhergestellt – "
+    },
+    {
+      "name": "referenced_in",
+      "value": "Referenziert in"
+    },
+    {
+      "name": "remove_all_notes_from_trash",
+      "value": "Alle Notizen aus Papierkorb entfernen"
+    },
+    {
+      "name": "remove_tag_from_the_current_note",
+      "value": "Schlagwort aus aktueller Notiz entfernen"
+    },
+    {
+      "name": "rename",
+      "value": "Umbenennen"
+    },
+    {
+      "name": "request_account_deletion",
+      "value": "Kontolöschung anfragen"
+    },
+    {
+      "name": "request_error",
+      "value": "Anforderungsfehler"
+    },
+    {
+      "name": "resend_email",
+      "value": "E-Mail erneut senden"
+    },
+    {
+      "name": "resend_verification_email",
+      "value": "Verifizierungs-E-Mail erneut senden"
+    },
+    {
+      "name": "reset",
+      "value": "Zurücksetzen"
+    },
+    {
+      "name": "reset_required",
+      "value": "Passwort muss zurückgesetzt werden"
+    },
+    {
+      "name": "response",
+      "value": "Antwort"
+    },
+    {
+      "name": "restore_note",
+      "value": "Notiz wiederherstellen"
+    },
+    {
+      "name": "review_your_account",
+      "value": "Konto prüfen"
+    },
+    {
+      "name": "save",
+      "value": "Speichern"
+    },
+    {
+      "name": "search",
+      "value": "Suche"
+    },
+    {
+      "name": "search_by_tag",
+      "value": "Nach Schlagwort suchen"
+    },
+    {
+      "name": "search_notes_or_tags",
+      "value": "Notizen oder Schlagwörter suchen"
+    },
+    {
+      "name": "security",
+      "value": "Sicherheit"
+    },
+    {
+      "name": "select",
+      "value": "Auswählen"
+    },
+    {
+      "name": "select_all",
+      "value": "Alle auswählen"
+    },
+    {
+      "name": "select_a_version",
+      "value": "Wähle eine Version aus"
+    },
+    {
+      "name": "send_a_test_crash",
+      "value": "Testabsturz senden"
+    },
+    {
+      "name": "send_feedback",
+      "value": "Feedback senden"
+    },
+    {
+      "name": "set_up_passcode",
+      "value": "Zugangscode einrichten"
+    },
+    {
+      "name": "settings",
+      "value": "Einstellungen"
+    },
+    {
+      "name": "share",
+      "value": "Teilen"
+    },
+    {
+      "name": "share_analytics",
+      "value": "Analysen teilen"
+    },
+    {
+      "name": "share_2",
+      "value": "Teilen …"
+    },
+    {
+      "name": "sharing_notes_is_now_accessed_through_the_action_menu_from_t",
+      "value": "Du kannst Notizen jetzt über das Aktionsmenü in der Toolbar teilen."
+    },
+    {
+      "name": "sidebar",
+      "value": "Seitenleiste"
+    },
+    {
+      "name": "sign_up",
+      "value": "Registrieren"
+    },
+    {
+      "name": "signing_out_will_delete_any_unsynced_notes_you_can_verify_yo",
+      "value": "Bei der Abmeldung werden alle nicht synchronisierten Notizen gelöscht. Du kannst überprüfen, ob deine Notizen synchronisiert wurden, indem du dich in der Web-App anmeldest."
+    },
+    {
+      "name": "simplenote",
+      "value": "Simplenote"
+    },
+    {
+      "name": "simplenote_sustainer",
+      "value": "Simplenote-Unterstützer"
+    },
+    {
+      "name": "simplenote_ios_feedback",
+      "value": "Feedback zu Simplenote iOS"
+    },
+    {
+      "name": "simplenote_must_be_configured_and_logged_in_to_setup_widgets",
+      "value": "Um Widgets einzurichten, musst du Simplenote konfigurieren und dich dort anmelden"
+    },
+    {
+      "name": "sorry",
+      "value": "Entschuldigung!"
+    },
+    {
+      "name": "sort_alphabetically",
+      "value": "Alphabetisch sortieren"
+    },
+    {
+      "name": "sort_order",
+      "value": "Sortierung"
+    },
+    {
+      "name": "sort_by",
+      "value": "Sortiert nach:"
+    },
+    {
+      "name": "spotlight_history_may_still_appear_in_search_results_but_not",
+      "value": "Der Spotlight-Verlauf wird gegebenenfalls noch in den Suchergebnissen angezeigt, aber die Notizen wurden vom Index entfernt"
+    },
+    {
+      "name": "status_code",
+      "value": "Statuscode"
+    },
+    {
+      "name": "support_your_favorite_notes_app_to_help_unlock_future_featur",
+      "value": "Unterstütze deine bevorzugte Notizen-App, um von zukünftigen Funktionen zu profitieren"
+    },
+    {
+      "name": "sustainer_app_icon",
+      "value": "Unterstützer-App-Icon"
+    },
+    {
+      "name": "sustainer_subscription_restored_thank_you_for_supporting_sim",
+      "value": "Unterstützer-Abonnement wiederhergestellt. Danke für deine Unterstützung von Simplenote!"
+    },
+    {
+      "name": "system_default",
+      "value": "Systemstandard"
+    },
+    {
+      "name": "tag",
+      "value": "Schlagwort"
+    },
+    {
+      "name": "tag_no_longer_available",
+      "value": "Schlagwort nicht mehr verfügbar"
+    },
+    {
+      "name": "tags",
+      "value": "Schlagwörter"
+    },
+    {
+      "name": "tag_3",
+      "value": "Schlagwort …"
+    },
+    {
+      "name": "tap_button_to_select_or_deselect_all_notes",
+      "value": "Tippe auf den Button, um alle Notizen aus- oder abzuwählen"
+    },
+    {
+      "name": "terms_and_conditions",
+      "value": "Geschäftsbedingungen"
+    },
+    {
+      "name": "terms_of_service",
+      "value": "Geschäftsbedingungen"
+    },
+    {
+      "name": "thank_you",
+      "value": "Vielen Dank!"
+    },
+    {
+      "name": "thank_you_for_your_continued_support",
+      "value": "Danke für deine kontinuierliche Unterstützung"
+    },
+    {
+      "name": "the_authentication_code_you_ve_requested_has_expired_please",
+      "value": "Der angeforderte Authentifizierungscode ist abgelaufen. Bitte fordere einen neuen an"
+    },
+    {
+      "name": "the_code_you_ve_entered_is_not_correct_please_try_again",
+      "value": "Der eingegebene Code ist nicht korrekt. Bitte versuche es erneut"
+    },
+    {
+      "name": "the_email_you_ve_entered_is_already_associated_with_a_simple",
+      "value": "Die eingegebene E-Mail-Adresse ist bereits mit einem Simplenote-Konto verknüpft."
+    },
+    {
+      "name": "the_network_could_not_be_reached",
+      "value": "Das Netzwerk war nicht zu erreichen."
+    },
+    {
+      "name": "the_simplest_way_to_keep_notes",
+      "value": "Die einfachste Art, sich Notizen zu machen."
+    },
+    {
+      "name": "theme",
+      "value": "Theme"
+    },
+    {
+      "name": "themes",
+      "value": "Themes"
+    },
+    {
+      "name": "there_was_an_preparing_your_verification_email_please_try_ag",
+      "value": "Beim Erstellen deiner Verifizierungs-E-Mail ist ein Fehler aufgetreten. Versuche es später bitte erneut."
+    },
+    {
+      "name": "this_note_was_deleted_on_another_device",
+      "value": "Diese Notiz wurde auf einem anderen Gerät gelöscht"
+    },
+    {
+      "name": "this_password_has_appeared_in_a_data_breach_which_puts_your",
+      "value": "Dieses Passwort ist in einer Datenschutzverletzung aufgetaucht, sodass das Risiko einer Sicherheitsverletzung bei deinem Konto hoch ist. Um deine Daten zu schützen, musst du dein Passwort aktualisieren, bevor du dich wieder anmelden kannst."
+    },
+    {
+      "name": "to_enable_1_you_must_have_a_passcode_setup_first",
+      "value": "Um %1$s zu aktivieren, musst du zuerst einen Zugangscode eingerichtet haben."
+    },
+    {
+      "name": "to_unlock_the_application",
+      "value": "Zum Entsperren der Anwendung"
+    },
+    {
+      "name": "today",
+      "value": "Heute"
+    },
+    {
+      "name": "toggle_markdown",
+      "value": "Markdown umschalten"
+    },
+    {
+      "name": "toggle_tag_sidebar",
+      "value": "Schlagwort-Seitenleiste umschalten"
+    },
+    {
+      "name": "too_many_login_attempts",
+      "value": "Zu viele Anmeldeversuche"
+    },
+    {
+      "name": "too_many_login_attempts_try_again_later",
+      "value": "Zu viele Anmeldeversuche. Versuche es später erneut."
+    },
+    {
+      "name": "touch_id",
+      "value": "Touch ID"
+    },
+    {
+      "name": "trash",
+      "value": "Papierkorb"
+    },
+    {
+      "name": "trash_notes",
+      "value": "Verschieben von Notizen in den Papierkorb"
+    },
+    {
+      "name": "turn_off_passcode",
+      "value": "Passcode deaktivieren"
+    },
+    {
+      "name": "undo",
+      "value": "Rückgängig"
+    },
+    {
+      "name": "unnamed_tag",
+      "value": "Unbenanntes Schlagwort"
+    },
+    {
+      "name": "unpin",
+      "value": "Lösen"
+    },
+    {
+      "name": "unpin_note",
+      "value": "Notiz lösen"
+    },
+    {
+      "name": "unpublish_note",
+      "value": "Veröffentlichung von Notiz rückgängig machen"
+    },
+    {
+      "name": "unpublish_successful",
+      "value": "Vorgang zum Aufheben der Veröffentlichung erfolgreich"
+    },
+    {
+      "name": "unpublishing_note",
+      "value": "Veröffentlichung der Notiz wird rückgängig gemacht …"
+    },
+    {
+      "name": "unpublishing",
+      "value": "Veröffentlichung wird aufgehoben…"
+    },
+    {
+      "name": "unsupported",
+      "value": "Nicht unterstützt"
+    },
+    {
+      "name": "unsynced_notes_detected",
+      "value": "Nicht synchronisierte Notizen entdeckt"
+    },
+    {
+      "name": "untagged",
+      "value": "Nicht markiert"
+    },
+    {
+      "name": "untagged_notes",
+      "value": "Nicht markierte Notizen"
+    },
+    {
+      "name": "username",
+      "value": "Benutzername"
+    },
+    {
+      "name": "verify_your_email",
+      "value": "E-Mail-Adresse bestätigen"
+    },
+    {
+      "name": "version",
+      "value": "Version %s"
+    },
+    {
+      "name": "visit_web_app",
+      "value": "Web-App aufrufen"
+    },
+    {
+      "name": "we_ll_email_you_a_code_to_log_in_or_you_can",
+      "value": "Wir senden dir eine E-Mail mit einem Code zur Anmeldung."
+    },
+    {
+      "name": "we_re_having_problems_please_try_again_soon",
+      "value": "Momentan gibt es ein paar Probleme. Bitte versuche es später erneut."
+    },
+    {
+      "name": "we_ve_sent_a_code_to_email_the_code_will_be_valid_for_a_few",
+      "value": "Wir haben einen Code gesendet an: {{EMAIL}}. Der Code ist einige Minuten gültig."
+    },
+    {
+      "name": "websocket",
+      "value": "WebSocket"
+    },
+    {
+      "name": "we_ve_sent_a_verification_email_to_1_please_check_your_inbox",
+      "value": "Wir haben an %1$s eine Verifizierungs-E-Mail gesendet. Sieh bitte in deinem Posteingang nach und befolge die Anweisungen."
+    },
+    {
+      "name": "we_ve_sent_an_email_to_1_please_check_your_inbox_and_follow",
+      "value": "Wir haben eine E-Mail an %1$s gesendet. Sieh bitte in deinem Posteingang nach und befolge die Anweisungen."
+    },
+    {
+      "name": "what_do_you_think_about_simplenote",
+      "value": "Was hältst du von Simplenote?"
+    },
+    {
+      "name": "will_attempt_to_recover_shortcut_content_on_next_launch",
+      "value": "Wir werden versuchen, den Inhalt der Verknüpfungen bei der nächsten Veröffentlichung wiederherzustellen"
+    },
+    {
+      "name": "words",
+      "value": "Wörter"
+    },
+    {
+      "name": "yes",
+      "value": "Ja"
+    },
+    {
+      "name": "yesterday",
+      "value": "Gestern"
+    },
+    {
+      "name": "you_are_a_simplenote_sustainer",
+      "value": "Du bist ein Simplenote-Unterstützer"
+    },
+    {
+      "name": "you_are_registered_with_simplenote_using_the_email_1_improve",
+      "value": "Du bist mit der E-Mail-Adresse %1$s bei Simplenote registriert.\n\nVerbesserungen der Kontosicherheit können zum Verlust des Kontos führen, wenn du keinen Zugriff mehr auf diese E-Mail-Adresse hast."
+    },
+    {
+      "name": "you_must_verify_your_email_before_being_able_to_login",
+      "value": "Du musst deine E-Mail-Adresse bestätigen, bevor du dich anmelden kannst."
+    },
+    {
+      "name": "you_re_already_a_sustainer_thank_you_for_supporting_simpleno",
+      "value": "Du bist bereits ein Unterstützer. Danke für deine Unterstützung von Simplenote!"
+    },
+    {
+      "name": "your_authentication_code_has_expired_please_request_a_new_on",
+      "value": "Dein Authentifizierungscode ist abgelaufen. Bitte fordere einen neuen an"
+    },
+    {
+      "name": "your_email_address_is_not_valid",
+      "value": "Deine E-Mail-Adresse ist ungültig."
+    },
+    {
+      "name": "your_password_is_insecure_and_must_be_reset_the_password_req",
+      "value": "Dein Passwort ist nicht sicher und muss zurückgesetzt werden. Das Passwort muss folgende Anforderungen erfüllen:"
+    },
+    {
+      "name": "your_trash_is_empty",
+      "value": "Der Papierkorb ist leer"
+    },
+    {
+      "name": "log_in_manually",
+      "value": "Alternativ kannst du dich manuell anmelden."
+    },
+    {
+      "name": "tag_2",
+      "value": "Schlagwort:"
+    },
+    {
+      "name": "debug_enabled",
+      "value": "🐞 Fehlersuche aktiviert 🐞"
+    }
+  ]
+}

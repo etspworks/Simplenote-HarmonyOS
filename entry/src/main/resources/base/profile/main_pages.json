@@ -1,0 +1,21 @@
+{
+  "src": [
+    "pages/SPNoteListViewControllerPage",
+    "pages/SPNoteEditorViewControllerPage",
+    "pages/SPMarkdownPreviewViewControllerPage",
+    "pages/PinLockViewControllerPage",
+    "pages/AccountVerificationViewControllerPage",
+    "pages/SPOnboardingViewControllerPage",
+    "pages/SPAuthViewControllerPage",
+    "pages/SPSettingsViewControllerPage",
+    "pages/SPAddCollaboratorsViewControllerPage",
+    "pages/SignupVerificationViewControllerPage",
+    "pages/SPAboutViewControllerPage",
+    "pages/SPPrivacyViewControllerPage",
+    "pages/SPSortOrderViewControllerPage",
+    "pages/SPThemeViewControllerPage",
+    "pages/TagListViewControllerPage",
+    "pages/ShareViewControllerPage",
+    "pages/WidgetEditPage"
+  ]
+}

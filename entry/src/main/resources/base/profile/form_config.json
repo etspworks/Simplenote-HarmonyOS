@@ -1,0 +1,52 @@
+{
+  "forms": [
+    {
+      "name": "NewNoteWidget",
+      "displayName": "$string:new_note",
+      "description": "$string:create_a_new_note_instantly_with_one_tap",
+      "src": "./ets/widget/pages/NewNoteWidgetCard.ets",
+      "uiSyntax": "arkts",
+      "window": { "designWidth": 720, "autoDesignWidth": true },
+      "colorMode": "auto",
+      "isDynamic": false,
+      "isDefault": false,
+      "updateEnabled": false,
+      "defaultDimension": "2*2",
+      "supportDimensions": ["2*2"]
+    },
+    {
+      "name": "NoteWidget",
+      "displayName": "$string:note",
+      "description": "$string:get_quick_access_to_one_of_your_notes",
+      "src": "./ets/widget/pages/NoteWidgetCard.ets",
+      "uiSyntax": "arkts",
+      "window": { "designWidth": 720, "autoDesignWidth": true },
+      "colorMode": "auto",
+      "isDynamic": false,
+      "isDefault": true,
+      "formConfigAbility": "ability://WidgetEditAbility",
+      "updateEnabled": true,
+      "scheduledUpdateTime": "10:30",
+      "updateDuration": 1,
+      "defaultDimension": "2*2",
+      "supportDimensions": ["2*2", "2*4", "4*4"]
+    },
+    {
+      "name": "ListWidget",
+      "displayName": "$string:note_list",
+      "description": "$string:get_quick_access_to_a_list_of_all_notes_or_based_on_the_sele",
+      "src": "./ets/widget/pages/ListWidgetCard.ets",
+      "uiSyntax": "arkts",
+      "window": { "designWidth": 720, "autoDesignWidth": true },
+      "colorMode": "auto",
+      "isDynamic": true,
+      "isDefault": false,
+      "formConfigAbility": "ability://WidgetEditAbility",
+      "updateEnabled": true,
+      "scheduledUpdateTime": "10:30",
+      "updateDuration": 1,
+      "defaultDimension": "2*4",
+      "supportDimensions": ["2*4", "4*4"]
+    }
+  ]
+}

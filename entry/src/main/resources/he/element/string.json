@@ -1,0 +1,1340 @@
+{
+  "string": [
+    {
+      "name": "d_result",
+      "value": "תוצאה %d"
+    },
+    {
+      "name": "d_results",
+      "value": "%d תוצאות"
+    },
+    {
+      "name": "i_failed_passcode_attempt",
+      "value": "%d ניסיון קוד סיסמה שנכשל"
+    },
+    {
+      "name": "i_failed_passcode_attempts",
+      "value": "%d ניסיונות קוד סיסמה שנכשלו"
+    },
+    {
+      "name": "i_note_trashed",
+      "value": "פתק %d הועבר לפח"
+    },
+    {
+      "name": "i_notes_trashed",
+      "value": "%d פתקים הועברו לפח"
+    },
+    {
+      "name": "i_reference",
+      "value": "הפניה %d"
+    },
+    {
+      "name": "i_references",
+      "value": "%d הפניות"
+    },
+    {
+      "name": "i_selected",
+      "value": "%d נבחר"
+    },
+    {
+      "name": "minimum_of_8_characters",
+      "value": "- לפחות שמונה תווים"
+    },
+    {
+      "name": "neither_tabs_nor_newlines_are_allowed",
+      "value": "- אסור להוסיף סמני Tab או שורות חדשות"
+    },
+    {
+      "name": "password_cannot_match_email",
+      "value": "- הסיסמה לא יכולה להיות כתובת האימייל"
+    },
+    {
+      "name": "s_1_minute",
+      "value": "דקה אחת"
+    },
+    {
+      "name": "s_15_seconds",
+      "value": "15 שניות"
+    },
+    {
+      "name": "s_2_minutes",
+      "value": "שתי דקות"
+    },
+    {
+      "name": "s_3_minutes",
+      "value": "שלוש דקות"
+    },
+    {
+      "name": "s_30_seconds",
+      "value": "30 שניות"
+    },
+    {
+      "name": "s_4_minutes",
+      "value": "ארבע דקות"
+    },
+    {
+      "name": "s_5_minutes",
+      "value": "חמש דקות"
+    },
+    {
+      "name": "a_network_connection_is_required_please_check_your_connectio",
+      "value": "נדרש חיבור פעיל לרשת. יש לבדוק את החיבור ולנסות שוב."
+    },
+    {
+      "name": "about",
+      "value": "אודות"
+    },
+    {
+      "name": "accept",
+      "value": "קבלה"
+    },
+    {
+      "name": "account",
+      "value": "חשבון"
+    },
+    {
+      "name": "account_verification_required",
+      "value": "נדרש אימות לחשבון"
+    },
+    {
+      "name": "add_a_new_collaborator",
+      "value": "הוספת שותף עריכה חדש..."
+    },
+    {
+      "name": "add_a_tag_to_the_current_note",
+      "value": "להוסיף תגית לפתק הנוכחי"
+    },
+    {
+      "name": "add_an_email_address_to_share_this_note_with_someone_then_yo",
+      "value": "יש להוסיף כתובת אימייל כדי לשתף פתק זה עם מישהו. לאחר מכן תוכלו שניכם לערוך בו שינויים."
+    },
+    {
+      "name": "add_tag",
+      "value": "הוספת תגית"
+    },
+    {
+      "name": "all_notes",
+      "value": "כל הפתקים"
+    },
+    {
+      "name": "an_email_has_been_sent_to_check_your_inbox_and_follow_the_in",
+      "value": "הודעת אימייל נשלחה לכתובת %s. יש לבדוק את תיבת הדואר הנכנס ולפעול לפי ההוראות לאישור המחיקה של החשבון.\n\nהחשבון שלך לא יימחק עד שנקבל את אישורך"
+    },
+    {
+      "name": "an_error_occured_please_try_again_if_the_problem_continues_c",
+      "value": "אירעה שגיאה. יש לנסות שוב. אם הבעיה ממשיכה, ניתן ליצור איתנו קשר לעזרה בכתובת support@simplenote.com."
+    },
+    {
+      "name": "an_error_was_encountered_while_signing_in",
+      "value": "נתקלנו בשגיאה בתהליך ההתחברות."
+    },
+    {
+      "name": "appearance",
+      "value": "מראה"
+    },
+    {
+      "name": "are_you_a_developer_we_re_hiring",
+      "value": "האם יש לך ניסיון בפיתוח? אנחנו מחפשים עובדים."
+    },
+    {
+      "name": "are_you_sure_you_want_to_delete_1",
+      "value": "האם ברצונך למחוק את \"%1$s\"?"
+    },
+    {
+      "name": "are_you_sure_you_want_to_empty_the_trash_this_cannot_be_undo",
+      "value": "האם ברצונך לרוקן את הפח? לא ניתן לבטל את הפעולה."
+    },
+    {
+      "name": "attempt_to_fetch_current_note_content_failed_please_try_agai",
+      "value": "ניסיון להביא את תוכן הפתק הנוכחי נכשל.  יש לנסות שוב מאוחר יותר."
+    },
+    {
+      "name": "attempt_to_fetch_entities_failed_please_try_again_later",
+      "value": "ניסיון להביא את הישויות נכשל.  יש לנסות שוב מאוחר יותר."
+    },
+    {
+      "name": "attempt_to_fetch_notes_failed_please_try_again_later",
+      "value": "ניסיון להביא 'פתקים' נכשל.  יש לנסות שוב מאוחר יותר."
+    },
+    {
+      "name": "attempt_to_fetch_tags_failed_please_try_again_later",
+      "value": "ניסיון להביא 'תגיות' נכשל.  יש לנסות שוב מאוחר יותר."
+    },
+    {
+      "name": "authenticated",
+      "value": "האימות בוצע"
+    },
+    {
+      "name": "become_a_simplenote_sustainer",
+      "value": "להצטרף בתור Simplenote Sustainer"
+    },
+    {
+      "name": "blog",
+      "value": "בלוג"
+    },
+    {
+      "name": "by_creating_an_account_you_agree_to_our",
+      "value": "יצירת חשבון מהווה את הסכמתך אל"
+    },
+    {
+      "name": "by_deleting_the_account_for_all_notes_created_with_this_acco",
+      "value": "על ידי מחיקת החשבון עבור %s, כל הפתקים שנוצרו באמצעות החשבון הזה יימחקו לצמיתות. לא ניתן לבטל את הפעולה הזאת"
+    },
+    {
+      "name": "cancel",
+      "value": "ביטול"
+    },
+    {
+      "name": "cancel_share",
+      "value": "לבטל את השיתוף"
+    },
+    {
+      "name": "cannot_confirm_account",
+      "value": "אין אפשרות לאמת את החשבון"
+    },
+    {
+      "name": "cannot_send_verification_email",
+      "value": "אין אפשרות לשלוח אימייל לאימות"
+    },
+    {
+      "name": "careers",
+      "value": "משרות"
+    },
+    {
+      "name": "change_email",
+      "value": "לשנות כתובת אימייל"
+    },
+    {
+      "name": "change_password",
+      "value": "שינוי סיסמה"
+    },
+    {
+      "name": "characters",
+      "value": "תווים"
+    },
+    {
+      "name": "check_your_email",
+      "value": "יש לבדוק את תיבת האימייל"
+    },
+    {
+      "name": "check_your_email_2",
+      "value": "יש לבדוק את תיבת האימייל"
+    },
+    {
+      "name": "choose_a_4_digit_passcode",
+      "value": "לבחור קוד סיסמה בן 4 ספרות"
+    },
+    {
+      "name": "code",
+      "value": "קוד"
+    },
+    {
+      "name": "collaborate",
+      "value": "שיתוף פעולה בעריכה"
+    },
+    {
+      "name": "collaboration_has_moved",
+      "value": "שיתוף הפעולה עבר למקום אחר"
+    },
+    {
+      "name": "collaborators",
+      "value": "שותפי עריכה"
+    },
+    {
+      "name": "compromised_password",
+      "value": "סיסמה בסכנה"
+    },
+    {
+      "name": "condensed_note_list",
+      "value": "רשימת פתקים מכווצת"
+    },
+    {
+      "name": "confirm",
+      "value": "פעם נוספת"
+    },
+    {
+      "name": "confirm_your_passcode",
+      "value": "לאשר את קוד הסיסמה שלך"
+    },
+    {
+      "name": "contribute",
+      "value": "שיתוף"
+    },
+    {
+      "name": "copy_internal_link",
+      "value": "להעתיק קישור פנימי"
+    },
+    {
+      "name": "copy_link_2",
+      "value": "להעתיק את הקישור"
+    },
+    {
+      "name": "copy_link",
+      "value": "להעתיק את הקישור"
+    },
+    {
+      "name": "could_be_better",
+      "value": "יכול להיות יותר טוב"
+    },
+    {
+      "name": "could_not_create_an_account_with_the_provided_email_address",
+      "value": "לא ניתן ליצור חשבון באמצעות כתובת האימייל והסיסמה שסופקו."
+    },
+    {
+      "name": "could_not_delete_tag",
+      "value": "לא ניתן למחוק את התגית"
+    },
+    {
+      "name": "could_not_fetch_notes",
+      "value": "לא ניתן היה להביא 'פתקים'"
+    },
+    {
+      "name": "could_not_fetch_tags",
+      "value": "לא ניתן היה להביא 'תגיות'"
+    },
+    {
+      "name": "could_not_fetch_entities",
+      "value": "לא ניתן היה להביא את הישויות"
+    },
+    {
+      "name": "could_not_fetch_note_content",
+      "value": "לא ניתן היה להביא את תוכן הפתקים"
+    },
+    {
+      "name": "could_not_login_with_the_provided_email_address_and_password",
+      "value": "לא ניתן להיכנס באמצעות כתובת האימייל והסיסמה שסופקו."
+    },
+    {
+      "name": "could_you_tell_us_how_we_could_improve",
+      "value": "באפשרותך לומר לנו כיצד נוכל להשתפר?"
+    },
+    {
+      "name": "couldn_t_retrieve_history",
+      "value": "לא ניתן היה לאחזר את ההיסטוריה"
+    },
+    {
+      "name": "couldn_t_sign_in",
+      "value": "לא הייתה אפשרות להתחבר"
+    },
+    {
+      "name": "create_a_new_note",
+      "value": "ליצור פתק חדש"
+    },
+    {
+      "name": "create_a_new_note_2",
+      "value": "יצירת פתק חדש"
+    },
+    {
+      "name": "create_a_new_note_instantly_with_one_tap",
+      "value": "ליצור פתק חדש באופן מיידי בהקשה אחת."
+    },
+    {
+      "name": "create_a_new_note_titled",
+      "value": "ליצור פתק חדש עם הכותרת “%s”"
+    },
+    {
+      "name": "create_your_first_note",
+      "value": "ליצור את הפתק הראשון שלך"
+    },
+    {
+      "name": "created",
+      "value": "נוצר"
+    },
+    {
+      "name": "created_newest",
+      "value": "נוצר: החדש ביותר"
+    },
+    {
+      "name": "created_oldest",
+      "value": "נוצר: הישן ביותר"
+    },
+    {
+      "name": "current_collaborators",
+      "value": "שותפי עריכה קיימים"
+    },
+    {
+      "name": "dark",
+      "value": "צבעים כהים"
+    },
+    {
+      "name": "debug",
+      "value": "איתור באגים"
+    },
+    {
+      "name": "debug_disabled",
+      "value": "האפשרות לאיתור באגים מושבתת"
+    },
+    {
+      "name": "delete",
+      "value": "מחיקה"
+    },
+    {
+      "name": "delete_account",
+      "value": "למחוק חשבון"
+    },
+    {
+      "name": "delete_note",
+      "value": "למחוק את הפתק"
+    },
+    {
+      "name": "delete_notes",
+      "value": "למחוק את הפתקים"
+    },
+    {
+      "name": "delete_tag",
+      "value": "למחוק תגית"
+    },
+    {
+      "name": "deselect_all",
+      "value": "לבטל את הבחירה בכל הפריטים"
+    },
+    {
+      "name": "diagnostics",
+      "value": "אבחונים"
+    },
+    {
+      "name": "didn_t_get_an_email_there_may_already_be_an_account_associat",
+      "value": "לא קיבלת את הודעת האימייל? ייתכן שכבר יש חשבון שמשויך לכתובת אימייל זו. ניתן ליצור קשר עם %1$s לעזרה."
+    },
+    {
+      "name": "disable_markdown_formatting",
+      "value": "להשבית את העיצוב של Markdown"
+    },
+    {
+      "name": "dismiss",
+      "value": "סגור"
+    },
+    {
+      "name": "dismiss_history",
+      "value": "למחוק את ההיסטוריה"
+    },
+    {
+      "name": "dismiss_information",
+      "value": "למחוק את המידע"
+    },
+    {
+      "name": "dismiss_keyboard",
+      "value": "ביטול מקלדת"
+    },
+    {
+      "name": "document",
+      "value": "מסמך"
+    },
+    {
+      "name": "done",
+      "value": "בוצע"
+    },
+    {
+      "name": "edit",
+      "value": "עריכה"
+    },
+    {
+      "name": "email",
+      "value": "לשלוח מייל"
+    },
+    {
+      "name": "email_in_use",
+      "value": "כתובת האימייל בשימוש"
+    },
+    {
+      "name": "empty",
+      "value": "ריק"
+    },
+    {
+      "name": "empty_trash",
+      "value": "לרוקן את הפח"
+    },
+    {
+      "name": "enable_markdown_formatting",
+      "value": "להפעיל את העיצוב של Markdown"
+    },
+    {
+      "name": "end_editing",
+      "value": "לסיים לערוך"
+    },
+    {
+      "name": "enqueued",
+      "value": "צורף לתור"
+    },
+    {
+      "name": "enter_code",
+      "value": "להזין קוד"
+    },
+    {
+      "name": "enter_password",
+      "value": "להזין סיסמה"
+    },
+    {
+      "name": "enter_the_password_for_the_account_email",
+      "value": "יש להזין את הסיסמה לחשבון {{EMAIL}}"
+    },
+    {
+      "name": "enter_your_passcode",
+      "value": "הזנת קוד סיסמה"
+    },
+    {
+      "name": "error",
+      "value": "שגיאה"
+    },
+    {
+      "name": "faq_or_contact_us",
+      "value": "שאלות נפוצות או יצירת קשר"
+    },
+    {
+      "name": "face_id",
+      "value": "זיהוי פנים"
+    },
+    {
+      "name": "fetching_version",
+      "value": "מוריד גרסה"
+    },
+    {
+      "name": "forgot_your_password",
+      "value": "שכחת סיסמה?"
+    },
+    {
+      "name": "get_help",
+      "value": "לקבלת עזרה"
+    },
+    {
+      "name": "get_quick_access_to_a_list_of_all_notes_or_based_on_the_sele",
+      "value": "לקבל גישה מהירה לרשימה של כל הפתקים שלך או לפי תגית שנבחרה."
+    },
+    {
+      "name": "get_quick_access_to_one_of_your_notes",
+      "value": "לקבל גישה מהירה לאחד הפתקים שלך."
+    },
+    {
+      "name": "great_mind_leaving_a_review_to_tell_us_what_you_like",
+      "value": "נהדר! רוצה לשלוח לנו חוות דעת ולספר לנו מה אהבת?"
+    },
+    {
+      "name": "help",
+      "value": "עזרה"
+    },
+    {
+      "name": "help_us_improve_simplenote_by_sharing_usage_data_with_our_an",
+      "value": "שיתוף נתוני השימוש שלך בכלי הניתוח שלנו יעזור לנו לשפר את Simplenote."
+    },
+    {
+      "name": "history",
+      "value": "היסטוריה"
+    },
+    {
+      "name": "i_like_it",
+      "value": "אהבתי את זה"
+    },
+    {
+      "name": "index_notes_in_spotlight",
+      "value": "להוסיף אינדקס של פתקים אל Spotlight"
+    },
+    {
+      "name": "index_removed",
+      "value": "האינדקס הוסר"
+    },
+    {
+      "name": "information",
+      "value": "מידע"
+    },
+    {
+      "name": "insert_checklist",
+      "value": "להוסיף רשימת משימות"
+    },
+    {
+      "name": "inserts_a_new_checklist_item",
+      "value": "להוסיף פריט חדש של רשימת משימות"
+    },
+    {
+      "name": "last_modified_1",
+      "value": "תאריך שינוי אחרון %1$s"
+    },
+    {
+      "name": "lastseen",
+      "value": "נראה לאחרונה"
+    },
+    {
+      "name": "learn_more",
+      "value": "מידע נוסף"
+    },
+    {
+      "name": "leave_a_review",
+      "value": "השארת חוות דעת"
+    },
+    {
+      "name": "light",
+      "value": "צבעים בהירים"
+    },
+    {
+      "name": "link_copied",
+      "value": "הקישור הועתק"
+    },
+    {
+      "name": "lock_timeout",
+      "value": "זמן קצוב לנעילה"
+    },
+    {
+      "name": "log_in",
+      "value": "התחבר"
+    },
+    {
+      "name": "log_in_with_password",
+      "value": "להתחבר באמצעות סיסמה"
+    },
+    {
+      "name": "log_out",
+      "value": "התנתקות"
+    },
+    {
+      "name": "log_in_to_see_your_notes",
+      "value": "יש להתחבר לחשבון כדי לצפות בפתקים שלך"
+    },
+    {
+      "name": "log_in_with_wordpress_com",
+      "value": "התחברו באמצעות WordPress.com"
+    },
+    {
+      "name": "log_in_with_email",
+      "value": "התחברות באמצעות אימייל"
+    },
+    {
+      "name": "log_in_with_email_failed_please_enter_your_password",
+      "value": "ההתחברות באמצעות האימייל נכשלה, יש להזין סיסמה"
+    },
+    {
+      "name": "login_code_is_too_short",
+      "value": "קוד ההתחברות קצר מדי"
+    },
+    {
+      "name": "mmm_d",
+      "value": "d ‏MMM"
+    },
+    {
+      "name": "mmm_d_h_mm_a",
+      "value": "d ‏MMM, ‏hh:mm"
+    },
+    {
+      "name": "mmm_d_yyyy",
+      "value": "d ‏MMM, ‏yyyy"
+    },
+    {
+      "name": "mmm_yyyy",
+      "value": "MMM ‏yyyy"
+    },
+    {
+      "name": "main_app_is_not_configured",
+      "value": "האפליקציה הראשית לא הוגדרה"
+    },
+    {
+      "name": "markdown",
+      "value": "Markdown"
+    },
+    {
+      "name": "menu",
+      "value": "תפריט"
+    },
+    {
+      "name": "modified",
+      "value": "הותאם"
+    },
+    {
+      "name": "modified_newest",
+      "value": "עודכן: החדש ביותר"
+    },
+    {
+      "name": "modified_oldest",
+      "value": "עודכן: הישן ביותר"
+    },
+    {
+      "name": "move_selected_notes_to_trash",
+      "value": "להעביר את הפתקים שנבחרו לפח"
+    },
+    {
+      "name": "move_to_trash",
+      "value": "העברה לפח"
+    },
+    {
+      "name": "name_a_z",
+      "value": "שם: מ-A ל-Z"
+    },
+    {
+      "name": "name_z_a",
+      "value": "שם: מ-Z ל-A"
+    },
+    {
+      "name": "new_note",
+      "value": "פתק חדש"
+    },
+    {
+      "name": "new_note_4",
+      "value": "פתק חדש..."
+    },
+    {
+      "name": "new_note_2",
+      "value": "פתק חדש"
+    },
+    {
+      "name": "new_note_3",
+      "value": "פתק חדש..."
+    },
+    {
+      "name": "next_match",
+      "value": "התוצאה הבאה"
+    },
+    {
+      "name": "no",
+      "value": "לא"
+    },
+    {
+      "name": "no_results",
+      "value": "אין תוצאות"
+    },
+    {
+      "name": "no_simplenote_account",
+      "value": "אין חשבון ב-Simplenote"
+    },
+    {
+      "name": "no_notes_tagged",
+      "value": "אין פתקים עם התגית “%s”"
+    },
+    {
+      "name": "no_previous_valid_purchases_found_for_the_current_period",
+      "value": "לא נמצאו רכישות קודמות רלוונטיות עבור התקופה הנוכחית"
+    },
+    {
+      "name": "no_purchases_found",
+      "value": "לא נמצאו רכישות"
+    },
+    {
+      "name": "no_thanks",
+      "value": "לא תודה"
+    },
+    {
+      "name": "no_untagged_notes",
+      "value": "אין פתקים ללא תגיות"
+    },
+    {
+      "name": "note",
+      "value": "פתק"
+    },
+    {
+      "name": "note_list",
+      "value": "רשימת פתקים"
+    },
+    {
+      "name": "note_trashed",
+      "value": "הפתק הועבר לפח"
+    },
+    {
+      "name": "note_no_longer_available",
+      "value": "הפתק לא זמין עוד"
+    },
+    {
+      "name": "notes",
+      "value": "פתקים"
+    },
+    {
+      "name": "ok",
+      "value": "אישור"
+    },
+    {
+      "name": "off",
+      "value": "כבוי"
+    },
+    {
+      "name": "ok_2",
+      "value": "OK"
+    },
+    {
+      "name": "okay",
+      "value": "בסדר"
+    },
+    {
+      "name": "on",
+      "value": "מופעל"
+    },
+    {
+      "name": "open_simplenote",
+      "value": "לפתוח את Simplenote"
+    },
+    {
+      "name": "open_note",
+      "value": "פתיחת פתק"
+    },
+    {
+      "name": "options",
+      "value": "אפשרויות"
+    },
+    {
+      "name": "or",
+      "value": "או"
+    },
+    {
+      "name": "passcode",
+      "value": "קוד סיסמה"
+    },
+    {
+      "name": "passcodes_did_not_match_try_again",
+      "value": "קודי הסיסמה לא התאימו. יש לנסות שוב."
+    },
+    {
+      "name": "password",
+      "value": "סיסמה"
+    },
+    {
+      "name": "password_cannot_match_email_2",
+      "value": "הסיסמה לא יכולה להיות כתובת האימייל"
+    },
+    {
+      "name": "password_must_contain_at_least_d_characters",
+      "value": "הסיסמה חייבת להכיל לפחות %d תווים"
+    },
+    {
+      "name": "password_must_not_contain_tabs_nor_newlines",
+      "value": "הסיסמה לא יכולה להכיל סימני Tab או שורות חדשות"
+    },
+    {
+      "name": "pendings",
+      "value": "בהמתנה"
+    },
+    {
+      "name": "pin_note",
+      "value": "הצמדת פתק"
+    },
+    {
+      "name": "pin_to_top",
+      "value": "הצמדה לראש העמוד"
+    },
+    {
+      "name": "please_activate_your_wordpress_com_account_via_email_and_try",
+      "value": "יש להפעיל את החשבון שלך ב-WordPress.com באמצעות האימייל ולנסות שוב."
+    },
+    {
+      "name": "please_check_your_network_settings_and_try_again",
+      "value": "עליך לבדוק את הגדרות הרשת ולנסות שוב."
+    },
+    {
+      "name": "please_log_into_your_simplenote_account_first_by_using_the_s",
+      "value": "ראשית עליך להתחבר לחשבון שלך ב-Simplenote באמצעות האפליקציה של Simplenote."
+    },
+    {
+      "name": "please_try_again",
+      "value": "יש לנסות שוב"
+    },
+    {
+      "name": "please_upgrade_to_the_latest_ios_release_to_restore_purchase",
+      "value": "יש לשדרג לגרסה האחרונה של iOS כדי לשחזר רכישות"
+    },
+    {
+      "name": "preview",
+      "value": "תצוגה מקדימה"
+    },
+    {
+      "name": "previous_match",
+      "value": "התוצאה הקודמת"
+    },
+    {
+      "name": "privacy_notice_for_california_users",
+      "value": "הצהרת פרטיות למשתמשים מקליפורניה"
+    },
+    {
+      "name": "privacy_policy",
+      "value": "מדיניות פרטיות"
+    },
+    {
+      "name": "privacy_settings",
+      "value": "הגדרות פרטיות"
+    },
+    {
+      "name": "publish",
+      "value": "לפרסם"
+    },
+    {
+      "name": "publish_successful",
+      "value": "הפרסום בוצע בהצלחה"
+    },
+    {
+      "name": "publish_note",
+      "value": "פרסום פתק"
+    },
+    {
+      "name": "publishing_note",
+      "value": "מפרסם את הפתק..."
+    },
+    {
+      "name": "publishing",
+      "value": "מפרסם..."
+    },
+    {
+      "name": "rate_us",
+      "value": "נשמח לקבל ממך דירוג"
+    },
+    {
+      "name": "reachability",
+      "value": "נגישות"
+    },
+    {
+      "name": "recent",
+      "value": "אחרונים"
+    },
+    {
+      "name": "recovered_note_cotent",
+      "value": "תוכן הפתק ששוחזר – "
+    },
+    {
+      "name": "referenced_in",
+      "value": "מאוזכר בפתק"
+    },
+    {
+      "name": "remove_all_notes_from_trash",
+      "value": "הסרת כל הפתקים מהפח"
+    },
+    {
+      "name": "remove_tag_from_the_current_note",
+      "value": "להסיר תגית מהפתק הנוכחי"
+    },
+    {
+      "name": "rename",
+      "value": "שינוי שם"
+    },
+    {
+      "name": "request_account_deletion",
+      "value": "לבקש מחיקת חשבון"
+    },
+    {
+      "name": "request_error",
+      "value": "שגיאה בבקשה"
+    },
+    {
+      "name": "resend_email",
+      "value": "לשלוח אימייל מחדש"
+    },
+    {
+      "name": "resend_verification_email",
+      "value": "שלח מחדש דוא\"ל לאימות"
+    },
+    {
+      "name": "reset",
+      "value": "איפוס"
+    },
+    {
+      "name": "reset_required",
+      "value": "נדרש איפוס"
+    },
+    {
+      "name": "response",
+      "value": "תשובה"
+    },
+    {
+      "name": "restore_note",
+      "value": "שחזור פתק"
+    },
+    {
+      "name": "review_your_account",
+      "value": "לבדוק את החשבון שלך"
+    },
+    {
+      "name": "save",
+      "value": "לשמור"
+    },
+    {
+      "name": "search",
+      "value": "חיפוש"
+    },
+    {
+      "name": "search_by_tag",
+      "value": "לחפש לפי תגית"
+    },
+    {
+      "name": "search_notes_or_tags",
+      "value": "לחפש פתקים או תגיות"
+    },
+    {
+      "name": "security",
+      "value": "אבטחה"
+    },
+    {
+      "name": "select",
+      "value": "בחירה"
+    },
+    {
+      "name": "select_all",
+      "value": "לבחור הכול"
+    },
+    {
+      "name": "select_a_version",
+      "value": "לבחור גרסה"
+    },
+    {
+      "name": "send_a_test_crash",
+      "value": "לשלוח קריסה של בדיקה"
+    },
+    {
+      "name": "send_feedback",
+      "value": "שליחת משוב"
+    },
+    {
+      "name": "set_up_passcode",
+      "value": "להגדיר קוד סיסמה"
+    },
+    {
+      "name": "settings",
+      "value": "הגדרות"
+    },
+    {
+      "name": "share",
+      "value": "שיתוף"
+    },
+    {
+      "name": "share_analytics",
+      "value": "שיתוף הניתוח"
+    },
+    {
+      "name": "share_2",
+      "value": "לשתף..."
+    },
+    {
+      "name": "sharing_notes_is_now_accessed_through_the_action_menu_from_t",
+      "value": "ניתן כעת לגשת לשיתוף הפתקים דרך תפריט הפעולות מסרגל הכלים."
+    },
+    {
+      "name": "sidebar",
+      "value": "סרגל צדדי"
+    },
+    {
+      "name": "sign_up",
+      "value": "הרשמה"
+    },
+    {
+      "name": "signing_out_will_delete_any_unsynced_notes_you_can_verify_yo",
+      "value": "לאחר ההתנתקות, כל הפתקים שלא סוכרנו יימחקו. אפשר לאמת אילו פתקים סונכרנו באמצעות התחברות לאפליקציית הרשת."
+    },
+    {
+      "name": "simplenote",
+      "value": "Simplenote"
+    },
+    {
+      "name": "simplenote_sustainer",
+      "value": "Simplenote Sustainer"
+    },
+    {
+      "name": "simplenote_ios_feedback",
+      "value": "משוב על Simplenote iOS"
+    },
+    {
+      "name": "simplenote_must_be_configured_and_logged_in_to_setup_widgets",
+      "value": "יש להגדיר את Simplenote ולהתחבר אל השירות כדי להגדיר את הווידג'טים"
+    },
+    {
+      "name": "sorry",
+      "value": "מצטערים!"
+    },
+    {
+      "name": "sort_alphabetically",
+      "value": "מיון לפי סדר אלפביתי"
+    },
+    {
+      "name": "sort_order",
+      "value": "מיון לפי"
+    },
+    {
+      "name": "sort_by",
+      "value": "למיין לפי:"
+    },
+    {
+      "name": "spotlight_history_may_still_appear_in_search_results_but_not",
+      "value": "תוצאות החיפוש עדיין עשויות להציג את ההיסטוריה של Spotlight, אבל הפתקים הוסרו מהאינדקס"
+    },
+    {
+      "name": "status_code",
+      "value": "קוד מצב"
+    },
+    {
+      "name": "support_your_favorite_notes_app_to_help_unlock_future_featur",
+      "value": "ניתן לתמוך באפליקציית הפתקים המועדפת עליך כדי לעזור בהפעלת אפשרויות בעתיד"
+    },
+    {
+      "name": "sustainer_app_icon",
+      "value": "סמל האפליקציה של Sustainer"
+    },
+    {
+      "name": "sustainer_subscription_restored_thank_you_for_supporting_sim",
+      "value": "המינוי של Sustainer שוחזר. תודה על התמיכה ב-Simplenote!"
+    },
+    {
+      "name": "system_default",
+      "value": "ברירת המחדל לפי המערכת"
+    },
+    {
+      "name": "tag",
+      "value": "תגית"
+    },
+    {
+      "name": "tag_no_longer_available",
+      "value": "התגית לא זמינה עוד"
+    },
+    {
+      "name": "tags",
+      "value": "תגיות"
+    },
+    {
+      "name": "tag_3",
+      "value": "לתייג..."
+    },
+    {
+      "name": "tap_button_to_select_or_deselect_all_notes",
+      "value": "יש להקיש על הכפתור כדי לבחור את כל הכפתורים או לבטל את הבחירה בהם"
+    },
+    {
+      "name": "terms_and_conditions",
+      "value": "תנאים והתניות"
+    },
+    {
+      "name": "terms_of_service",
+      "value": "תנאי השירות"
+    },
+    {
+      "name": "thank_you",
+      "value": "תודה!"
+    },
+    {
+      "name": "thank_you_for_your_continued_support",
+      "value": "תודה על התמיכה המתמשכת"
+    },
+    {
+      "name": "the_authentication_code_you_ve_requested_has_expired_please",
+      "value": "פג תוקפו של קוד האימות שביקשת. יש לבקש קוד חדש"
+    },
+    {
+      "name": "the_code_you_ve_entered_is_not_correct_please_try_again",
+      "value": "הקוד שהזנת שגוי. יש לנסות שוב"
+    },
+    {
+      "name": "the_email_you_ve_entered_is_already_associated_with_a_simple",
+      "value": "כתובת האימייל שהזנת כבר משויכת לחשבון Simplenote."
+    },
+    {
+      "name": "the_network_could_not_be_reached",
+      "value": "לא ניתן היה להגיע לרשת."
+    },
+    {
+      "name": "the_simplest_way_to_keep_notes",
+      "value": "הדרך הפשוטה ביותר לרשום פתקים."
+    },
+    {
+      "name": "theme",
+      "value": "עיצוב"
+    },
+    {
+      "name": "themes",
+      "value": "ערכות עיצוב"
+    },
+    {
+      "name": "there_was_an_preparing_your_verification_email_please_try_ag",
+      "value": "אירעה שגיאה בהכנת האימייל לאימות, יש לנסות שוב מאוחר יותר"
+    },
+    {
+      "name": "this_note_was_deleted_on_another_device",
+      "value": "הפתק נמחק במכשיר אחר"
+    },
+    {
+      "name": "this_password_has_appeared_in_a_data_breach_which_puts_your",
+      "value": "הסיסמה הזאת מופיעה ברשימה של הפרת נתונים ולכן החשבון שלך נמצא בסיכון גבוה לפגיעה. כדי להגן על הנתונים שלך, עליך לעדכן את הסיסמה שלך לפני ההתחברות מחדש."
+    },
+    {
+      "name": "to_enable_1_you_must_have_a_passcode_setup_first",
+      "value": "כדי להפעיל את %1$s, עליך ראשית להגדיר קוד סיסמה."
+    },
+    {
+      "name": "to_unlock_the_application",
+      "value": "כדי לבטל את נעילת האפליקציה"
+    },
+    {
+      "name": "today",
+      "value": "היום"
+    },
+    {
+      "name": "toggle_markdown",
+      "value": "לשנות Markdown"
+    },
+    {
+      "name": "toggle_tag_sidebar",
+      "value": "החלפת מצב סרגל צדדי"
+    },
+    {
+      "name": "too_many_login_attempts",
+      "value": "יותר מדי ניסיונות התחברות"
+    },
+    {
+      "name": "too_many_login_attempts_try_again_later",
+      "value": "מספר ניסיונות התחברות גבוה מדי. יש לנסות שוב מאוחר יותר."
+    },
+    {
+      "name": "touch_id",
+      "value": "מזהה מגע"
+    },
+    {
+      "name": "trash",
+      "value": "פח אשפה"
+    },
+    {
+      "name": "trash_notes",
+      "value": "להעביר פתקים לפח"
+    },
+    {
+      "name": "turn_off_passcode",
+      "value": "השבתת קוד סיסמה"
+    },
+    {
+      "name": "undo",
+      "value": "ביטול פעולה אחרונה"
+    },
+    {
+      "name": "unnamed_tag",
+      "value": "תגית ללא שם"
+    },
+    {
+      "name": "unpin",
+      "value": "להסיר את הנעץ"
+    },
+    {
+      "name": "unpin_note",
+      "value": "ביטול הצמדת פתק"
+    },
+    {
+      "name": "unpublish_note",
+      "value": "ביטול פרסום פתק"
+    },
+    {
+      "name": "unpublish_successful",
+      "value": "הפרסום בוטל בהצלחה"
+    },
+    {
+      "name": "unpublishing_note",
+      "value": "מבטל את הפרסום של הפתק..."
+    },
+    {
+      "name": "unpublishing",
+      "value": "ביטול פרסום..."
+    },
+    {
+      "name": "unsupported",
+      "value": "לא נתמך"
+    },
+    {
+      "name": "unsynced_notes_detected",
+      "value": "אותרו הערות שלא סונכרנו"
+    },
+    {
+      "name": "untagged",
+      "value": "התיוג הוסר"
+    },
+    {
+      "name": "untagged_notes",
+      "value": "הסרת התגיות מהערות"
+    },
+    {
+      "name": "username",
+      "value": "שם משתמש"
+    },
+    {
+      "name": "verify_your_email",
+      "value": "לאמת את כתובת האימייל שלך"
+    },
+    {
+      "name": "version",
+      "value": "גרסה %s"
+    },
+    {
+      "name": "visit_web_app",
+      "value": "מעבר לאפליקציית הרשת"
+    },
+    {
+      "name": "we_ll_email_you_a_code_to_log_in_or_you_can",
+      "value": "אנחנו נשלח לך אימייל עם הקוד להתחברות, או שאפשר"
+    },
+    {
+      "name": "we_re_having_problems_please_try_again_soon",
+      "value": "נתקלנו בבעיות. יש לנסות שוב בקרוב."
+    },
+    {
+      "name": "we_ve_sent_a_code_to_email_the_code_will_be_valid_for_a_few",
+      "value": "שלחנו קוד אל {{EMAIL}}. הקוד הזה יהיה בתוקף למשך מספר דקות."
+    },
+    {
+      "name": "websocket",
+      "value": "WebSocket"
+    },
+    {
+      "name": "we_ve_sent_a_verification_email_to_1_please_check_your_inbox",
+      "value": "שלחנו את האימות לכתובת האימייל %1$s. יש לבדוק את תיבת הדואר הנכנס ולפעול לפי ההוראות."
+    },
+    {
+      "name": "we_ve_sent_an_email_to_1_please_check_your_inbox_and_follow",
+      "value": "שלחנו הודעה לאימייל %1$s. יש לבדוק את תיבת הדואר הנכנס ולפעול לפי ההוראות."
+    },
+    {
+      "name": "what_do_you_think_about_simplenote",
+      "value": "מה דעתך על Simplenote?"
+    },
+    {
+      "name": "will_attempt_to_recover_shortcut_content_on_next_launch",
+      "value": "ננסה לשחזר את התוכן של הקיצור בהפעלה הבאה"
+    },
+    {
+      "name": "words",
+      "value": "מילים"
+    },
+    {
+      "name": "yes",
+      "value": "כן"
+    },
+    {
+      "name": "yesterday",
+      "value": "אתמול"
+    },
+    {
+      "name": "you_are_a_simplenote_sustainer",
+      "value": "הצטרפת בתור Simplenote Sustainer"
+    },
+    {
+      "name": "you_are_registered_with_simplenote_using_the_email_1_improve",
+      "value": "החשבון שלך רשום עם Simplenote באמצעות האימייל %1$s.\n\nשיפורים באבטחת החשבון עלולים לגרום לאבדן החשבון אם אין לך עוד גישה לכתובת האימייל הזאת."
+    },
+    {
+      "name": "you_must_verify_your_email_before_being_able_to_login",
+      "value": "עליך לאמת את כתובת האימייל שלך לפני ההתחברות."
+    },
+    {
+      "name": "you_re_already_a_sustainer_thank_you_for_supporting_simpleno",
+      "value": "כבר הצטרפת בתור Sustainer. תודה על התמיכה ב-Simplenote!"
+    },
+    {
+      "name": "your_authentication_code_has_expired_please_request_a_new_on",
+      "value": "פג תוקפו של קוד האימות. יש לבקש קוד חדש"
+    },
+    {
+      "name": "your_email_address_is_not_valid",
+      "value": "כתובת האימייל שלך אינה חוקית."
+    },
+    {
+      "name": "your_password_is_insecure_and_must_be_reset_the_password_req",
+      "value": "הסיסמה שלך לא מאובטחת ועליך לאפס אותה. הדרישות לסיסמה הן:"
+    },
+    {
+      "name": "your_trash_is_empty",
+      "value": "הפח שלך ריק"
+    },
+    {
+      "name": "log_in_manually",
+      "value": "להתחבר באופן ידני."
+    },
+    {
+      "name": "tag_2",
+      "value": "תגית:"
+    },
+    {
+      "name": "debug_enabled",
+      "value": "🐞האפשרות לאיתור באגים מופעלת 🐞"
+    }
+  ]
+}

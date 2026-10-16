@@ -1,0 +1,300 @@
+{
+  "string": [
+    {
+      "name": "minimum_of_8_characters",
+      "value": "- دست‌ِکم ۸ نویسه"
+    },
+    {
+      "name": "neither_tabs_nor_newlines_are_allowed",
+      "value": "- جهش (tab) و سرخط مجاز نیست"
+    },
+    {
+      "name": "password_cannot_match_email",
+      "value": "- گذرواژه نمی‌تواند مطابقِ ایمیل باشد"
+    },
+    {
+      "name": "s_1_minute",
+      "value": "۱ دقیقه"
+    },
+    {
+      "name": "s_15_seconds",
+      "value": "۱۵ ثانیه"
+    },
+    {
+      "name": "s_2_minutes",
+      "value": "۲ دقیقه"
+    },
+    {
+      "name": "s_3_minutes",
+      "value": "۳ دقیقه"
+    },
+    {
+      "name": "s_30_seconds",
+      "value": "۳۰ ثانیه"
+    },
+    {
+      "name": "s_4_minutes",
+      "value": "۴ دقیقه"
+    },
+    {
+      "name": "s_5_minutes",
+      "value": "۵ دقیقه"
+    },
+    {
+      "name": "about",
+      "value": "درباره"
+    },
+    {
+      "name": "appearance",
+      "value": "نما"
+    },
+    {
+      "name": "blog",
+      "value": "وب‌نوشت"
+    },
+    {
+      "name": "create_a_new_note",
+      "value": "ایجادِ یک یادداشتِ تازه"
+    },
+    {
+      "name": "created",
+      "value": "ساخت‌شده"
+    },
+    {
+      "name": "created_newest",
+      "value": "ایجادشده: جدیدترین"
+    },
+    {
+      "name": "created_oldest",
+      "value": "ایجادشده : قدیمی‌ترین"
+    },
+    {
+      "name": "dark",
+      "value": "تاریک"
+    },
+    {
+      "name": "edit",
+      "value": "ویرایش"
+    },
+    {
+      "name": "email",
+      "value": "ایمیل"
+    },
+    {
+      "name": "great_mind_leaving_a_review_to_tell_us_what_you_like",
+      "value": "عالی! اگر مشکلی نیست لطفاً با نوشتنِ یک بررسی به ما بگویید چه چیزی دوست دارید؟"
+    },
+    {
+      "name": "lastseen",
+      "value": "آخرین بازدید"
+    },
+    {
+      "name": "learn_more",
+      "value": "بیشتر بدانید"
+    },
+    {
+      "name": "light",
+      "value": "روشن"
+    },
+    {
+      "name": "log_in",
+      "value": "ثبتِ ورود"
+    },
+    {
+      "name": "mmm_d",
+      "value": "d MMM"
+    },
+    {
+      "name": "mmm_d_h_mm_a",
+      "value": "d MMM، h:mm a"
+    },
+    {
+      "name": "mmm_d_yyyy",
+      "value": "d MMM yyyy"
+    },
+    {
+      "name": "mmm_yyyy",
+      "value": "MMM yyyy"
+    },
+    {
+      "name": "modified",
+      "value": "تغییریافته"
+    },
+    {
+      "name": "new_note_3",
+      "value": "یادداشت تازه..."
+    },
+    {
+      "name": "no",
+      "value": "خیر"
+    },
+    {
+      "name": "no_thanks",
+      "value": "نه ممنون"
+    },
+    {
+      "name": "password",
+      "value": "گذرواژه"
+    },
+    {
+      "name": "password_cannot_match_email_2",
+      "value": "گذرواژه نمی‌تواند مطابقِ ایمیل باشد"
+    },
+    {
+      "name": "password_must_contain_at_least_d_characters",
+      "value": "گذرواژه دست‌ِکم باید حاویِ %d نویسه باشد"
+    },
+    {
+      "name": "password_must_not_contain_tabs_nor_newlines",
+      "value": "گذرواژه نمی‌باید حاوی جهش (tab) و سرخط باشد"
+    },
+    {
+      "name": "pin_to_top",
+      "value": "سنجاق به بالا"
+    },
+    {
+      "name": "please_activate_your_wordpress_com_account_via_email_and_try",
+      "value": "لطفاً حسابِ WordPress.com ِخود را از راهِ ایمیل فعال کنید و سپس دوباره تلاش کنید."
+    },
+    {
+      "name": "preview",
+      "value": "پیش‌نمایش"
+    },
+    {
+      "name": "publishing",
+      "value": "در حالِ انتشار..."
+    },
+    {
+      "name": "rename",
+      "value": "تغییرِ نام"
+    },
+    {
+      "name": "reset",
+      "value": "بازنشانی"
+    },
+    {
+      "name": "reset_required",
+      "value": "بازنشانی لازم است"
+    },
+    {
+      "name": "search",
+      "value": "جست‌و‌جو"
+    },
+    {
+      "name": "search_by_tag",
+      "value": "جستجو برپایهٔ برچسب"
+    },
+    {
+      "name": "search_notes_or_tags",
+      "value": "جست‌وجویِ یادداشت‌ها یا برچسب‌ها"
+    },
+    {
+      "name": "security",
+      "value": "امنیت"
+    },
+    {
+      "name": "settings",
+      "value": "تنظیمات"
+    },
+    {
+      "name": "share",
+      "value": "اشتراک‌گذاری"
+    },
+    {
+      "name": "sidebar",
+      "value": "نوارِ کناری"
+    },
+    {
+      "name": "sign_up",
+      "value": "نام‌نویسی"
+    },
+    {
+      "name": "simplenote_ios_feedback",
+      "value": "بازخوردِ Simplenote iOS"
+    },
+    {
+      "name": "sorry",
+      "value": "پوزش!"
+    },
+    {
+      "name": "sort_alphabetically",
+      "value": "مرتب‌سازیِ الفبایی"
+    },
+    {
+      "name": "sort_by",
+      "value": "چینش بر پایهٔ:"
+    },
+    {
+      "name": "system_default",
+      "value": "پیش‌فرضِ سامانه"
+    },
+    {
+      "name": "tags",
+      "value": "برچسب‌ها"
+    },
+    {
+      "name": "terms_of_service",
+      "value": "شرایطِ خدمات"
+    },
+    {
+      "name": "the_email_you_ve_entered_is_already_associated_with_a_simple",
+      "value": "ایمیلی که فراهم کرده‌اید از پیش با یک حسابِ Simplenote مرتبط است."
+    },
+    {
+      "name": "the_simplest_way_to_keep_notes",
+      "value": "ساده‌ترین روش برای حفظِ یادداشت‌ها."
+    },
+    {
+      "name": "theme",
+      "value": "پوسته"
+    },
+    {
+      "name": "themes",
+      "value": "پوسته‌ها"
+    },
+    {
+      "name": "today",
+      "value": "امروز"
+    },
+    {
+      "name": "unpin",
+      "value": "برداشتنِ سنجاق"
+    },
+    {
+      "name": "untagged",
+      "value": "برچسب‌نخورده"
+    },
+    {
+      "name": "username",
+      "value": "نامِ کاربری"
+    },
+    {
+      "name": "version",
+      "value": "نسخهٔ %s"
+    },
+    {
+      "name": "we_re_having_problems_please_try_again_soon",
+      "value": "در حالِ حاضر با مشکلاتی مواجه هستیم. لطفاً به‌زودی دوباره امتحان کنید."
+    },
+    {
+      "name": "yes",
+      "value": "بله"
+    },
+    {
+      "name": "yesterday",
+      "value": "دیروز"
+    },
+    {
+      "name": "your_email_address_is_not_valid",
+      "value": "نشانیِ ایمیل شما معتبر نیست"
+    },
+    {
+      "name": "your_password_is_insecure_and_must_be_reset_the_password_req",
+      "value": "گذرواژهٔ شما ایمن نیست و باید بازنشانی شود. ملزوماتِ گذرواژه از این قرارند:"
+    },
+    {
+      "name": "tag_2",
+      "value": "برچسب:"
+    }
+  ]
+}

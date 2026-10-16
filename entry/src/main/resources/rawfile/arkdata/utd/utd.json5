@@ -1,0 +1,13 @@
+{
+  // TextPack (org.textbundle.textpack on iOS) has no system UTD, so the share extension (module.json5 skills)
+  // was never offered for it. A .textbundle is a folder: the Files app reports any folder as general.folder,
+  // so a custom directory type never matches and module.json5 accepts general.folder instead.
+  "UniformDataTypeDeclarations": [
+    {
+      "TypeId": "com.example.myapplication.textpack",
+      "BelongingToTypes": ["general.zip-archive"],
+      "FilenameExtensions": [".textpack", ".bearnote"],
+      "Description": "TextPack"
+    }
+  ]
+}

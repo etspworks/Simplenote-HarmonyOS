@@ -1,0 +1,1340 @@
+{
+  "string": [
+    {
+      "name": "d_result",
+      "value": "%d Sonuç"
+    },
+    {
+      "name": "d_results",
+      "value": "%d Sonuç"
+    },
+    {
+      "name": "i_failed_passcode_attempt",
+      "value": "%d Başarısız Parola Denemesi"
+    },
+    {
+      "name": "i_failed_passcode_attempts",
+      "value": "%d Başarısız Parola Denemesi"
+    },
+    {
+      "name": "i_note_trashed",
+      "value": "%d Not Çöp Kutusuna Gönderildi"
+    },
+    {
+      "name": "i_notes_trashed",
+      "value": "%d Not Çöp Kutusuna Gönderildi "
+    },
+    {
+      "name": "i_reference",
+      "value": "%d Referans"
+    },
+    {
+      "name": "i_references",
+      "value": "%d Referanslar"
+    },
+    {
+      "name": "i_selected",
+      "value": "%d Seçilen"
+    },
+    {
+      "name": "minimum_of_8_characters",
+      "value": "En az 8 karakter"
+    },
+    {
+      "name": "neither_tabs_nor_newlines_are_allowed",
+      "value": "Sekmelere veya satır başlarına izin verilmez"
+    },
+    {
+      "name": "password_cannot_match_email",
+      "value": "- Parola ile e-posta adresi aynı olamaz"
+    },
+    {
+      "name": "s_1_minute",
+      "value": "1 Dakika"
+    },
+    {
+      "name": "s_15_seconds",
+      "value": "15 Saniye"
+    },
+    {
+      "name": "s_2_minutes",
+      "value": "2 Dakika"
+    },
+    {
+      "name": "s_3_minutes",
+      "value": "3 Dakika"
+    },
+    {
+      "name": "s_30_seconds",
+      "value": "30 Saniye"
+    },
+    {
+      "name": "s_4_minutes",
+      "value": "4 Dakika"
+    },
+    {
+      "name": "s_5_minutes",
+      "value": "5 Dakika"
+    },
+    {
+      "name": "a_network_connection_is_required_please_check_your_connectio",
+      "value": "Bir ağ bağlantısı gereklidir. Lütfen bağlantınızı kontrol edip tekrar deneyin."
+    },
+    {
+      "name": "about",
+      "value": "Hakkında"
+    },
+    {
+      "name": "accept",
+      "value": "Kabul"
+    },
+    {
+      "name": "account",
+      "value": "Hesap"
+    },
+    {
+      "name": "account_verification_required",
+      "value": "Hesap Doğrulaması Gerekli"
+    },
+    {
+      "name": "add_a_new_collaborator",
+      "value": "Yeni çalışma arkadaşı ekle..."
+    },
+    {
+      "name": "add_a_tag_to_the_current_note",
+      "value": "Geçerli nota etiket ekle"
+    },
+    {
+      "name": "add_an_email_address_to_share_this_note_with_someone_then_yo",
+      "value": "Bu notu bir başka kişinin görebilmesi için o kişinin e-posta adresini ekleyin. Bunun ardından her ikiniz de not üzerinde değişiklik yapabilirsiniz."
+    },
+    {
+      "name": "add_tag",
+      "value": "Etiket ekle"
+    },
+    {
+      "name": "all_notes",
+      "value": "Tüm Notlar"
+    },
+    {
+      "name": "an_email_has_been_sent_to_check_your_inbox_and_follow_the_in",
+      "value": "%s adresine bir e-posta gönderildi Gelen kutunuzu kontrol edin ve hesap silme işlemini onaylamak için talimatları izleyin.\n\nOnayınız alınana kadar hesabınız silinmeyecek."
+    },
+    {
+      "name": "an_error_occured_please_try_again_if_the_problem_continues_c",
+      "value": "Bir hata oluştu. Lütfen tekrar deneyin. Sorun devam ederse yardım için support@simplenote.com adresinden bize ulaşın."
+    },
+    {
+      "name": "an_error_was_encountered_while_signing_in",
+      "value": "Oturum açılırken bir hata oluştu."
+    },
+    {
+      "name": "appearance",
+      "value": "Görünüm"
+    },
+    {
+      "name": "are_you_a_developer_we_re_hiring",
+      "value": "Bir geliştirici misiniz? Yeni çalışma arkadaşları arıyoruz."
+    },
+    {
+      "name": "are_you_sure_you_want_to_delete_1",
+      "value": "\"%1$s\" dosyasını silmek istediğinizden emin misiniz?"
+    },
+    {
+      "name": "are_you_sure_you_want_to_empty_the_trash_this_cannot_be_undo",
+      "value": "Çöp kutusunu boşaltmak istediğinizden emin misiniz? Bu işlem geri alınamaz."
+    },
+    {
+      "name": "attempt_to_fetch_current_note_content_failed_please_try_agai",
+      "value": "Mevcut not içeriğini getirme denemesi başarısız oldu.  Lütfen daha sonra tekrar deneyin."
+    },
+    {
+      "name": "attempt_to_fetch_entities_failed_please_try_again_later",
+      "value": "Varlıkları getirme işlemi başarısız oldu.  Lütfen daha sonra tekrar deneyin."
+    },
+    {
+      "name": "attempt_to_fetch_notes_failed_please_try_again_later",
+      "value": "Notları getirme denemesi başarısız oldu.  Lütfen daha sonra tekrar deneyin."
+    },
+    {
+      "name": "attempt_to_fetch_tags_failed_please_try_again_later",
+      "value": "Etiketleri alma denemesi başarısız oldu.  Lütfen daha sonra tekrar deneyin."
+    },
+    {
+      "name": "authenticated",
+      "value": "Kimliği Doğrulandı"
+    },
+    {
+      "name": "become_a_simplenote_sustainer",
+      "value": "Bir Simplenote Sustainer Olun"
+    },
+    {
+      "name": "blog",
+      "value": "Blog"
+    },
+    {
+      "name": "by_creating_an_account_you_agree_to_our",
+      "value": "Hesap oluşturarak şunları kabul etmiş olursunuz:"
+    },
+    {
+      "name": "by_deleting_the_account_for_all_notes_created_with_this_acco",
+      "value": "%s için hesabınızı sildiğinizde bu hesapla oluşturulan tüm notlar kalıcı olarak silinecektir. Bu eylem geri alınamaz."
+    },
+    {
+      "name": "cancel",
+      "value": "İptal"
+    },
+    {
+      "name": "cancel_share",
+      "value": "Paylaşımı İptal Et"
+    },
+    {
+      "name": "cannot_confirm_account",
+      "value": "Hesap Onaylanamıyor"
+    },
+    {
+      "name": "cannot_send_verification_email",
+      "value": "Doğrulama E-postası Gönderilemiyor"
+    },
+    {
+      "name": "careers",
+      "value": "Kariyer"
+    },
+    {
+      "name": "change_email",
+      "value": "E-posta Değiştir"
+    },
+    {
+      "name": "change_password",
+      "value": "Parola değiştir"
+    },
+    {
+      "name": "characters",
+      "value": "Karakter"
+    },
+    {
+      "name": "check_your_email",
+      "value": "E-postanızı kontrol edin"
+    },
+    {
+      "name": "check_your_email_2",
+      "value": "E-postanızı kontrol edin"
+    },
+    {
+      "name": "choose_a_4_digit_passcode",
+      "value": "4 basamaklı bir parola seçin"
+    },
+    {
+      "name": "code",
+      "value": "Kod"
+    },
+    {
+      "name": "collaborate",
+      "value": "İşbirliği Yap"
+    },
+    {
+      "name": "collaboration_has_moved",
+      "value": "İşbirliği taşındı"
+    },
+    {
+      "name": "collaborators",
+      "value": "Çalışma Arkadaşları"
+    },
+    {
+      "name": "compromised_password",
+      "value": "Güvenliği İhlal Edilmiş Şifre"
+    },
+    {
+      "name": "condensed_note_list",
+      "value": "Sıkıştırılmış Not Listesi"
+    },
+    {
+      "name": "confirm",
+      "value": "Onayla"
+    },
+    {
+      "name": "confirm_your_passcode",
+      "value": "Parolanızı tekrar girin"
+    },
+    {
+      "name": "contribute",
+      "value": "Katılımda Bulunun"
+    },
+    {
+      "name": "copy_internal_link",
+      "value": "Dahili Bağlantıyı Kopyala"
+    },
+    {
+      "name": "copy_link_2",
+      "value": "Bağlantıyı kopyala"
+    },
+    {
+      "name": "copy_link",
+      "value": "Bağlantıyı kopyala"
+    },
+    {
+      "name": "could_be_better",
+      "value": "Daha İyi Olabilir"
+    },
+    {
+      "name": "could_not_create_an_account_with_the_provided_email_address",
+      "value": "Verilen e-posta adresi ve parolayla hesap oluşturulamadı."
+    },
+    {
+      "name": "could_not_delete_tag",
+      "value": "Etiket silinemedi"
+    },
+    {
+      "name": "could_not_fetch_notes",
+      "value": "Notlar getirilemedi"
+    },
+    {
+      "name": "could_not_fetch_tags",
+      "value": "Etiketler getirilemedi"
+    },
+    {
+      "name": "could_not_fetch_entities",
+      "value": "Varlıklar getirilemedi"
+    },
+    {
+      "name": "could_not_fetch_note_content",
+      "value": "Not içeriği getirilemedi"
+    },
+    {
+      "name": "could_not_login_with_the_provided_email_address_and_password",
+      "value": "Verilen e-posta adresi ve parolayla oturum açılamadı."
+    },
+    {
+      "name": "could_you_tell_us_how_we_could_improve",
+      "value": "Bize nasıl daha iyi olabileceğimizi belirtir misiniz?"
+    },
+    {
+      "name": "couldn_t_retrieve_history",
+      "value": "Geçmiş Alınamadı."
+    },
+    {
+      "name": "couldn_t_sign_in",
+      "value": "Oturum Açılamadı"
+    },
+    {
+      "name": "create_a_new_note",
+      "value": "Yeni Not Oluştur"
+    },
+    {
+      "name": "create_a_new_note_2",
+      "value": "Yeni not oluştur"
+    },
+    {
+      "name": "create_a_new_note_instantly_with_one_tap",
+      "value": "Tek dokunuşla anında yeni bir not oluşturun."
+    },
+    {
+      "name": "create_a_new_note_titled",
+      "value": "“%s” başlıklı yeni bir not oluştur"
+    },
+    {
+      "name": "create_your_first_note",
+      "value": "İlk notunuzu oluşturun"
+    },
+    {
+      "name": "created",
+      "value": "Oluşturulma"
+    },
+    {
+      "name": "created_newest",
+      "value": "Oluşturma Tarihi: En yeni"
+    },
+    {
+      "name": "created_oldest",
+      "value": "Oluşturma Tarihi: Eski"
+    },
+    {
+      "name": "current_collaborators",
+      "value": "Şu Anki Çalışma Arkadaşları"
+    },
+    {
+      "name": "dark",
+      "value": "Koyu"
+    },
+    {
+      "name": "debug",
+      "value": "Hata ayıklama"
+    },
+    {
+      "name": "debug_disabled",
+      "value": "Hata Ayıklama Devre Dışı"
+    },
+    {
+      "name": "delete",
+      "value": "Sil"
+    },
+    {
+      "name": "delete_account",
+      "value": "Hesabı Sil"
+    },
+    {
+      "name": "delete_note",
+      "value": "Not Sil"
+    },
+    {
+      "name": "delete_notes",
+      "value": "Notları Sil"
+    },
+    {
+      "name": "delete_tag",
+      "value": "Etiketi sil"
+    },
+    {
+      "name": "deselect_all",
+      "value": "Tüm Seçimleri Kaldır"
+    },
+    {
+      "name": "diagnostics",
+      "value": "Tanılamalar"
+    },
+    {
+      "name": "didn_t_get_an_email_there_may_already_be_an_account_associat",
+      "value": "E-postayı almadınız mı? Bu e-posta adresiyle ilişkilendirilmiş bir hesap mevcut olabilir. Yardım için %1$s ile iletişime geçin."
+    },
+    {
+      "name": "disable_markdown_formatting",
+      "value": "Markdown biçimlendirmesini devre dışı bırak"
+    },
+    {
+      "name": "dismiss",
+      "value": "Gizle"
+    },
+    {
+      "name": "dismiss_history",
+      "value": "Geçmişi Göz Ardı Et"
+    },
+    {
+      "name": "dismiss_information",
+      "value": "Bilgiyi Göz Ardı Et"
+    },
+    {
+      "name": "dismiss_keyboard",
+      "value": "Klavyeyi kapat"
+    },
+    {
+      "name": "document",
+      "value": "Belge"
+    },
+    {
+      "name": "done",
+      "value": "Bitti"
+    },
+    {
+      "name": "edit",
+      "value": "Düzenle"
+    },
+    {
+      "name": "email",
+      "value": "E-posta"
+    },
+    {
+      "name": "email_in_use",
+      "value": "E-posta kullanılıyor"
+    },
+    {
+      "name": "empty",
+      "value": "Boş"
+    },
+    {
+      "name": "empty_trash",
+      "value": "Çöpü boşalt"
+    },
+    {
+      "name": "enable_markdown_formatting",
+      "value": "Markdown biçimlendirmesini etkinleştir"
+    },
+    {
+      "name": "end_editing",
+      "value": "Düzenlemeyi Bitir"
+    },
+    {
+      "name": "enqueued",
+      "value": "Sıraya Alındı"
+    },
+    {
+      "name": "enter_code",
+      "value": "Kod Girin"
+    },
+    {
+      "name": "enter_password",
+      "value": "Şifre girin"
+    },
+    {
+      "name": "enter_the_password_for_the_account_email",
+      "value": "{{EMAIL}} hesabınızın şifresini girin"
+    },
+    {
+      "name": "enter_your_passcode",
+      "value": "Parolanızı girin"
+    },
+    {
+      "name": "error",
+      "value": "Hata"
+    },
+    {
+      "name": "faq_or_contact_us",
+      "value": "SSS veya bize ulaşın"
+    },
+    {
+      "name": "face_id",
+      "value": "Yüz Kimliği"
+    },
+    {
+      "name": "fetching_version",
+      "value": "Sürüm Alınıyor"
+    },
+    {
+      "name": "forgot_your_password",
+      "value": "Şifrenizi mi unuttunuz?"
+    },
+    {
+      "name": "get_help",
+      "value": "Yardım Alın"
+    },
+    {
+      "name": "get_quick_access_to_a_list_of_all_notes_or_based_on_the_sele",
+      "value": "Tüm notları içeren listeye veya seçilen etikete göre hızlı erişim elde edin."
+    },
+    {
+      "name": "get_quick_access_to_one_of_your_notes",
+      "value": "Notlarınızdan birine hızlıca erişin."
+    },
+    {
+      "name": "great_mind_leaving_a_review_to_tell_us_what_you_like",
+      "value": "Harika! Neleri beğendiğiniz hakkında değerlendirme yapmaya ne dersiniz?"
+    },
+    {
+      "name": "help",
+      "value": "Yardım"
+    },
+    {
+      "name": "help_us_improve_simplenote_by_sharing_usage_data_with_our_an",
+      "value": "Analiz aracımızla kullanım verilerini paylaşarak Simplenote'u iyileştirmemize yardımcı olun."
+    },
+    {
+      "name": "history",
+      "value": "Geçmiş"
+    },
+    {
+      "name": "i_like_it",
+      "value": "Beğendim"
+    },
+    {
+      "name": "index_notes_in_spotlight",
+      "value": "Öne Çıkanlarda Notları Dizine Ekleyin"
+    },
+    {
+      "name": "index_removed",
+      "value": "Dizin Kaldırıldı"
+    },
+    {
+      "name": "information",
+      "value": "Bilgi"
+    },
+    {
+      "name": "insert_checklist",
+      "value": "Kontrol Listesi Ekle"
+    },
+    {
+      "name": "inserts_a_new_checklist_item",
+      "value": "Yeni bir Kontrol Listesi Öğesi ekler"
+    },
+    {
+      "name": "last_modified_1",
+      "value": "Son Değişiklik %1$s"
+    },
+    {
+      "name": "lastseen",
+      "value": "Son Görülen"
+    },
+    {
+      "name": "learn_more",
+      "value": "Daha fazlasını öğrenin"
+    },
+    {
+      "name": "leave_a_review",
+      "value": "Görüşünüzü Paylaşın"
+    },
+    {
+      "name": "light",
+      "value": "Açık"
+    },
+    {
+      "name": "link_copied",
+      "value": "Bağlantı kopyalandı"
+    },
+    {
+      "name": "lock_timeout",
+      "value": "Kilitlenme Zaman Aşımı"
+    },
+    {
+      "name": "log_in",
+      "value": "Giriş yap"
+    },
+    {
+      "name": "log_in_with_password",
+      "value": "Şifre ile Oturum Açın"
+    },
+    {
+      "name": "log_out",
+      "value": "Çıkış yap"
+    },
+    {
+      "name": "log_in_to_see_your_notes",
+      "value": "Notlarınızı görmek için giriş yapın"
+    },
+    {
+      "name": "log_in_with_wordpress_com",
+      "value": "WordPress.com ile oturum aç"
+    },
+    {
+      "name": "log_in_with_email",
+      "value": "E-postayla oturum aç"
+    },
+    {
+      "name": "log_in_with_email_failed_please_enter_your_password",
+      "value": "E-postayla oturum açma başarısız oldu, lütfen şifrenizi girin"
+    },
+    {
+      "name": "login_code_is_too_short",
+      "value": "Oturum Açma Kodu çok kısa"
+    },
+    {
+      "name": "mmm_d",
+      "value": "AAA g"
+    },
+    {
+      "name": "mmm_d_h_mm_a",
+      "value": "g, AAA, sa:dkdk sn"
+    },
+    {
+      "name": "mmm_d_yyyy",
+      "value": "g, AAA, yyyy"
+    },
+    {
+      "name": "mmm_yyyy",
+      "value": "AAA yyyy"
+    },
+    {
+      "name": "main_app_is_not_configured",
+      "value": "Ana Uygulama yapılandırılmamış"
+    },
+    {
+      "name": "markdown",
+      "value": "Markdown"
+    },
+    {
+      "name": "menu",
+      "value": "Menü"
+    },
+    {
+      "name": "modified",
+      "value": "Değiştirilme"
+    },
+    {
+      "name": "modified_newest",
+      "value": "Değiştirme Tarihi: En yeni"
+    },
+    {
+      "name": "modified_oldest",
+      "value": "Değiştirme Tarihi: Eski"
+    },
+    {
+      "name": "move_selected_notes_to_trash",
+      "value": "Seçili notları çöp kutusuna taşı"
+    },
+    {
+      "name": "move_to_trash",
+      "value": "Çöpe taşı"
+    },
+    {
+      "name": "name_a_z",
+      "value": "Ad: A-Z"
+    },
+    {
+      "name": "name_z_a",
+      "value": "Ad: Z-A"
+    },
+    {
+      "name": "new_note",
+      "value": "Yeni Not"
+    },
+    {
+      "name": "new_note_4",
+      "value": "Yeni Not..."
+    },
+    {
+      "name": "new_note_2",
+      "value": "Yeni not"
+    },
+    {
+      "name": "new_note_3",
+      "value": "Yeni not..."
+    },
+    {
+      "name": "next_match",
+      "value": "Sonraki Eşleşme"
+    },
+    {
+      "name": "no",
+      "value": "Hayır"
+    },
+    {
+      "name": "no_results",
+      "value": "Sonuç Yok"
+    },
+    {
+      "name": "no_simplenote_account",
+      "value": "Simplenote Hesabı Yok"
+    },
+    {
+      "name": "no_notes_tagged",
+      "value": "“%s” etiketli not yok"
+    },
+    {
+      "name": "no_previous_valid_purchases_found_for_the_current_period",
+      "value": "Geçerli dönem için daha önce yapılmış geçerli satın alma işlemi bulunamadı"
+    },
+    {
+      "name": "no_purchases_found",
+      "value": "Herhangi bir satın alma işlemi bulunamadı"
+    },
+    {
+      "name": "no_thanks",
+      "value": "Hayır, teşekkürler"
+    },
+    {
+      "name": "no_untagged_notes",
+      "value": "Etiketsiz not yok"
+    },
+    {
+      "name": "note",
+      "value": "Not"
+    },
+    {
+      "name": "note_list",
+      "value": "Not Listesi"
+    },
+    {
+      "name": "note_trashed",
+      "value": "Not Çöp Kutusuna Gönderildi"
+    },
+    {
+      "name": "note_no_longer_available",
+      "value": "Not artık mevcut değil"
+    },
+    {
+      "name": "notes",
+      "value": "Notlar"
+    },
+    {
+      "name": "ok",
+      "value": "Tamam"
+    },
+    {
+      "name": "off",
+      "value": "Kapalı"
+    },
+    {
+      "name": "ok_2",
+      "value": "Tamam"
+    },
+    {
+      "name": "okay",
+      "value": "Tamam"
+    },
+    {
+      "name": "on",
+      "value": "Açık"
+    },
+    {
+      "name": "open_simplenote",
+      "value": "Simplenote'u Aç"
+    },
+    {
+      "name": "open_note",
+      "value": "Notu aç"
+    },
+    {
+      "name": "options",
+      "value": "Seçenekler"
+    },
+    {
+      "name": "or",
+      "value": "Veya"
+    },
+    {
+      "name": "passcode",
+      "value": "Geçiş kodu"
+    },
+    {
+      "name": "passcodes_did_not_match_try_again",
+      "value": "Parolalar eşleşmiyor. Tekrar deneyin."
+    },
+    {
+      "name": "password",
+      "value": "Parola"
+    },
+    {
+      "name": "password_cannot_match_email_2",
+      "value": "Parola ile e-posta adresi aynı olamaz"
+    },
+    {
+      "name": "password_must_contain_at_least_d_characters",
+      "value": "Parola en az %d karakter içermelidir"
+    },
+    {
+      "name": "password_must_not_contain_tabs_nor_newlines",
+      "value": "Parola sekme veya satır başı içermemelidir"
+    },
+    {
+      "name": "pendings",
+      "value": "Bekleyenler"
+    },
+    {
+      "name": "pin_note",
+      "value": "Notu iğnele"
+    },
+    {
+      "name": "pin_to_top",
+      "value": "Üste İğnele"
+    },
+    {
+      "name": "please_activate_your_wordpress_com_account_via_email_and_try",
+      "value": "Lütfen WordPress.com hesabınızı e-posta aracılığıyla etkinleştirin ve tekrar deneyin."
+    },
+    {
+      "name": "please_check_your_network_settings_and_try_again",
+      "value": "Lütfen ağ ayarlarınızı kontrol edip tekrar deneyin."
+    },
+    {
+      "name": "please_log_into_your_simplenote_account_first_by_using_the_s",
+      "value": "Lütfen önce Simplenote uygulamasını kullanarak Simplenote hesabınıza giriş yapın."
+    },
+    {
+      "name": "please_try_again",
+      "value": "Lütfen tekrar deneyin"
+    },
+    {
+      "name": "please_upgrade_to_the_latest_ios_release_to_restore_purchase",
+      "value": "Satın alınanları geri yüklemek için lütfen en son iOS sürümüne yükseltin"
+    },
+    {
+      "name": "preview",
+      "value": "Önizleme"
+    },
+    {
+      "name": "previous_match",
+      "value": "Önceki Eşleşme"
+    },
+    {
+      "name": "privacy_notice_for_california_users",
+      "value": "Kaliforniya'daki Kullanıcılar için Gizlilik Bildirimi"
+    },
+    {
+      "name": "privacy_policy",
+      "value": "Gizlilik Politikası"
+    },
+    {
+      "name": "privacy_settings",
+      "value": "Gizlilik Ayarları"
+    },
+    {
+      "name": "publish",
+      "value": "Yayınla"
+    },
+    {
+      "name": "publish_successful",
+      "value": "Başarıyla yayımlandı"
+    },
+    {
+      "name": "publish_note",
+      "value": "Notu yayınla"
+    },
+    {
+      "name": "publishing_note",
+      "value": "Not yayımlanıyor..."
+    },
+    {
+      "name": "publishing",
+      "value": "Yayınlanıyor…"
+    },
+    {
+      "name": "rate_us",
+      "value": "Bizi Değerlendirin"
+    },
+    {
+      "name": "reachability",
+      "value": "Erişilebilirlik"
+    },
+    {
+      "name": "recent",
+      "value": "Son"
+    },
+    {
+      "name": "recovered_note_cotent",
+      "value": "Kurtarılan Not İçeriği - "
+    },
+    {
+      "name": "referenced_in",
+      "value": "Referans Verildiği Yer"
+    },
+    {
+      "name": "remove_all_notes_from_trash",
+      "value": "Çöp kutusundaki tüm notları kaldır"
+    },
+    {
+      "name": "remove_tag_from_the_current_note",
+      "value": "Geçerli nottan etiket kaldır"
+    },
+    {
+      "name": "rename",
+      "value": "Yeniden Adlandır"
+    },
+    {
+      "name": "request_account_deletion",
+      "value": "Hesap Silme İsteği"
+    },
+    {
+      "name": "request_error",
+      "value": "İstek Hatası"
+    },
+    {
+      "name": "resend_email",
+      "value": "E-postayı yeniden gönder"
+    },
+    {
+      "name": "resend_verification_email",
+      "value": "Doğrulama E-postasını Yeniden Gönder"
+    },
+    {
+      "name": "reset",
+      "value": "Sıfırla"
+    },
+    {
+      "name": "reset_required",
+      "value": "Sıfırlama Gerekli"
+    },
+    {
+      "name": "response",
+      "value": "Yanıt"
+    },
+    {
+      "name": "restore_note",
+      "value": "Notu Geri Yükle"
+    },
+    {
+      "name": "review_your_account",
+      "value": "Hesabınızı İnceleyin"
+    },
+    {
+      "name": "save",
+      "value": "Kaydet"
+    },
+    {
+      "name": "search",
+      "value": "Ara"
+    },
+    {
+      "name": "search_by_tag",
+      "value": "Etikete Göre Ara"
+    },
+    {
+      "name": "search_notes_or_tags",
+      "value": "Not ve etiket ara"
+    },
+    {
+      "name": "security",
+      "value": "Güvenlik"
+    },
+    {
+      "name": "select",
+      "value": "Seç"
+    },
+    {
+      "name": "select_all",
+      "value": "Tümünü Seç"
+    },
+    {
+      "name": "select_a_version",
+      "value": "Sürüm Seç"
+    },
+    {
+      "name": "send_a_test_crash",
+      "value": "Yanıt Vermeyen Test İletisi Gönder"
+    },
+    {
+      "name": "send_feedback",
+      "value": "Geri Bildirim Gönder"
+    },
+    {
+      "name": "set_up_passcode",
+      "value": "Parola Ayarlama"
+    },
+    {
+      "name": "settings",
+      "value": "Ayarlar"
+    },
+    {
+      "name": "share",
+      "value": "Paylaş"
+    },
+    {
+      "name": "share_analytics",
+      "value": "Analizleri paylaş"
+    },
+    {
+      "name": "share_2",
+      "value": "Paylaş..."
+    },
+    {
+      "name": "sharing_notes_is_now_accessed_through_the_action_menu_from_t",
+      "value": "Notların paylaşılmasına şimdi araç çubuğundaki işlem menüsünden erişilebilir."
+    },
+    {
+      "name": "sidebar",
+      "value": "Kenar çubuğu"
+    },
+    {
+      "name": "sign_up",
+      "value": "Kaydol"
+    },
+    {
+      "name": "signing_out_will_delete_any_unsynced_notes_you_can_verify_yo",
+      "value": "Oturumu kapattığınızda, senkronize edilmemiş tüm notlar silinir. Senkronize edilmiş notlarınızı Web Uygulamasında oturum açarak doğrulayabilirsiniz."
+    },
+    {
+      "name": "simplenote",
+      "value": "Simplenote"
+    },
+    {
+      "name": "simplenote_sustainer",
+      "value": "Simplenote Sustainer"
+    },
+    {
+      "name": "simplenote_ios_feedback",
+      "value": "Simplenote iOS Geri Bildirimi"
+    },
+    {
+      "name": "simplenote_must_be_configured_and_logged_in_to_setup_widgets",
+      "value": "Bileşenleri ayarlamak için Simplenote yapılandırılmalı ve oturum açılmalıdır"
+    },
+    {
+      "name": "sorry",
+      "value": "Üzgünüz!"
+    },
+    {
+      "name": "sort_alphabetically",
+      "value": "Alfabetik Olarak Sırala"
+    },
+    {
+      "name": "sort_order",
+      "value": "Sıralama"
+    },
+    {
+      "name": "sort_by",
+      "value": "Sıralama ölçütü:"
+    },
+    {
+      "name": "spotlight_history_may_still_appear_in_search_results_but_not",
+      "value": "Öne çıkanlar geçmişi arama sonuçlarında gösterilmeye devam edebilir ancak notlar dizine eklenmez"
+    },
+    {
+      "name": "status_code",
+      "value": "Durum Kodu"
+    },
+    {
+      "name": "support_your_favorite_notes_app_to_help_unlock_future_featur",
+      "value": "Gelecekte yeni özelliklerin sunulmasına yardımcı olmak için favori notlar uygulamanızı destekleyin"
+    },
+    {
+      "name": "sustainer_app_icon",
+      "value": "Sustainer Uygulaması Simgesi"
+    },
+    {
+      "name": "sustainer_subscription_restored_thank_you_for_supporting_sim",
+      "value": "Sustainer aboneliği geri yüklendi. Simplenote'u desteklediğiniz için teşekkür ederiz!"
+    },
+    {
+      "name": "system_default",
+      "value": "Sistem Varsayılanı"
+    },
+    {
+      "name": "tag",
+      "value": "Etiket"
+    },
+    {
+      "name": "tag_no_longer_available",
+      "value": "Etiket artık mevcut değil "
+    },
+    {
+      "name": "tags",
+      "value": "Etiketler"
+    },
+    {
+      "name": "tag_3",
+      "value": "Etiket..."
+    },
+    {
+      "name": "tap_button_to_select_or_deselect_all_notes",
+      "value": "Tüm notları seçmek veya seçimlerini kaldırmak için düğmeye dokunun"
+    },
+    {
+      "name": "terms_and_conditions",
+      "value": "Hüküm ve Koşullar"
+    },
+    {
+      "name": "terms_of_service",
+      "value": "Hizmet Koşulları"
+    },
+    {
+      "name": "thank_you",
+      "value": "Teşekkürler!"
+    },
+    {
+      "name": "thank_you_for_your_continued_support",
+      "value": "Devam eden desteğiniz için teşekkür ederiz"
+    },
+    {
+      "name": "the_authentication_code_you_ve_requested_has_expired_please",
+      "value": "Talep ettiğiniz doğrulama kodunun geçerlilik süresi doldu. Lütfen yeni bir kod talep edin"
+    },
+    {
+      "name": "the_code_you_ve_entered_is_not_correct_please_try_again",
+      "value": "Girdiğiniz kod geçersiz. Lütfen tekrar deneyin"
+    },
+    {
+      "name": "the_email_you_ve_entered_is_already_associated_with_a_simple",
+      "value": "Girdiğiniz e-posta adresi zaten bir Simplenote hesabıyla ilişkilendirilmiş."
+    },
+    {
+      "name": "the_network_could_not_be_reached",
+      "value": "Ağa ulaşılamadı."
+    },
+    {
+      "name": "the_simplest_way_to_keep_notes",
+      "value": "Not tutmanın en basit yolu."
+    },
+    {
+      "name": "theme",
+      "value": "Tema"
+    },
+    {
+      "name": "themes",
+      "value": "Temalar"
+    },
+    {
+      "name": "there_was_an_preparing_your_verification_email_please_try_ag",
+      "value": "Doğrulama e-postanız hazırlanırken bir hata oluştu, lütfen daha sonra tekrar deneyin"
+    },
+    {
+      "name": "this_note_was_deleted_on_another_device",
+      "value": "Bu not bir başka cihazda silindi"
+    },
+    {
+      "name": "this_password_has_appeared_in_a_data_breach_which_puts_your",
+      "value": "Bu şifre, hesabınızı ileri düzeyde tehlikeye atma riskine sokan bir veri ihlalinde ortaya çıktı. Verilerinizi korumak için tekrar oturum açmadan önce şifrenizi güncellemeniz gerekir."
+    },
+    {
+      "name": "to_enable_1_you_must_have_a_passcode_setup_first",
+      "value": "%1$s özelliğini etkinleştirmek için önce bir parola ayarlamalısınız."
+    },
+    {
+      "name": "to_unlock_the_application",
+      "value": "Uygulamanın kilidini açmak için"
+    },
+    {
+      "name": "today",
+      "value": "Bugün"
+    },
+    {
+      "name": "toggle_markdown",
+      "value": "Markdown'u Aç\\/Kapat"
+    },
+    {
+      "name": "toggle_tag_sidebar",
+      "value": "Etiket kenar çubuğunu aç\\/kapat"
+    },
+    {
+      "name": "too_many_login_attempts",
+      "value": "Çok Fazla Oturum Açma Denemesi"
+    },
+    {
+      "name": "too_many_login_attempts_try_again_later",
+      "value": "Çok fazla oturum açma denemesi. Daha sonra yeniden deneyin."
+    },
+    {
+      "name": "touch_id",
+      "value": "Touch ID"
+    },
+    {
+      "name": "trash",
+      "value": "Çöp Kutusu"
+    },
+    {
+      "name": "trash_notes",
+      "value": "Notları Çöp Kutusuna Gönder"
+    },
+    {
+      "name": "turn_off_passcode",
+      "value": "Parolayı Kapat"
+    },
+    {
+      "name": "undo",
+      "value": "Geri al"
+    },
+    {
+      "name": "unnamed_tag",
+      "value": "Adsız Etiket"
+    },
+    {
+      "name": "unpin",
+      "value": "Sabitlemeyi kaldır"
+    },
+    {
+      "name": "unpin_note",
+      "value": "Notu kaldır"
+    },
+    {
+      "name": "unpublish_note",
+      "value": "Notu yayından kaldır"
+    },
+    {
+      "name": "unpublish_successful",
+      "value": "Başarıyla yayından kaldırıldı"
+    },
+    {
+      "name": "unpublishing_note",
+      "value": "Not yayından kaldırılıyor..."
+    },
+    {
+      "name": "unpublishing",
+      "value": "Yayından kaldırılıyor..."
+    },
+    {
+      "name": "unsupported",
+      "value": "Desteklenmeyen"
+    },
+    {
+      "name": "unsynced_notes_detected",
+      "value": "Senkronize Edilmemiş Notlar Tespit Edildi"
+    },
+    {
+      "name": "untagged",
+      "value": "Etiketlenmemiş"
+    },
+    {
+      "name": "untagged_notes",
+      "value": "Etiketsiz Notlar"
+    },
+    {
+      "name": "username",
+      "value": "Kullanıcı adı"
+    },
+    {
+      "name": "verify_your_email",
+      "value": "Eposta Adresinizi Doğrulayın"
+    },
+    {
+      "name": "version",
+      "value": "Sürüm %s"
+    },
+    {
+      "name": "visit_web_app",
+      "value": "Web Uygulamasını Ziyaret Et"
+    },
+    {
+      "name": "we_ll_email_you_a_code_to_log_in_or_you_can",
+      "value": "Oturum açmanız için size e-postayla bir kod göndereceğiz veya manuel olarak"
+    },
+    {
+      "name": "we_re_having_problems_please_try_again_soon",
+      "value": "Sorun yaşanıyor. Lütfen kısa bir süre sonra tekrar deneyin."
+    },
+    {
+      "name": "we_ve_sent_a_code_to_email_the_code_will_be_valid_for_a_few",
+      "value": "Şuraya bir kod gönderildi: {{EMAIL}}. Kod birkaç dakikalığına geçerli olacak."
+    },
+    {
+      "name": "websocket",
+      "value": "WebSocket"
+    },
+    {
+      "name": "we_ve_sent_a_verification_email_to_1_please_check_your_inbox",
+      "value": "%1$s adresine bir doğrulama e-postası gönderdik. Lütfen gelen kutunuzu kontrol edin ve talimatları izleyin."
+    },
+    {
+      "name": "we_ve_sent_an_email_to_1_please_check_your_inbox_and_follow",
+      "value": "%1$s adresine bir doğrulama e-postası gönderdik. Lütfen gelen kutunuzu kontrol edin ve talimatları izleyin."
+    },
+    {
+      "name": "what_do_you_think_about_simplenote",
+      "value": "Simplenote hakkında ne düşünüyorsunuz?"
+    },
+    {
+      "name": "will_attempt_to_recover_shortcut_content_on_next_launch",
+      "value": "Sonraki kullanıma sunmada kısayol içeriği kurtarılmaya çalışılacak"
+    },
+    {
+      "name": "words",
+      "value": "Sözcük"
+    },
+    {
+      "name": "yes",
+      "value": "Evet"
+    },
+    {
+      "name": "yesterday",
+      "value": "Dün"
+    },
+    {
+      "name": "you_are_a_simplenote_sustainer",
+      "value": "Siz bir Simplenote Sustainer'sınız"
+    },
+    {
+      "name": "you_are_registered_with_simplenote_using_the_email_1_improve",
+      "value": "%1$s e-postasını kullanarak Simplenote'a kaydoldunuz.\n\nBu e-posta adresine artık erişiminiz yoksa, hesap güvenliğindeki iyileştirmeler hesap kaybına neden olabilir."
+    },
+    {
+      "name": "you_must_verify_your_email_before_being_able_to_login",
+      "value": "Oturum açmak için önce e-postanızı doğrulamanız gerekir."
+    },
+    {
+      "name": "you_re_already_a_sustainer_thank_you_for_supporting_simpleno",
+      "value": "Zaten bir Sustainer'sınız. Simplenote'u desteklediğiniz için teşekkür ederiz!"
+    },
+    {
+      "name": "your_authentication_code_has_expired_please_request_a_new_on",
+      "value": "Doğrulama kodunuzun geçerlilik süresi doldu. Lütfen yeni bir kod talep edin"
+    },
+    {
+      "name": "your_email_address_is_not_valid",
+      "value": "E-posta adresiniz geçerli değil."
+    },
+    {
+      "name": "your_password_is_insecure_and_must_be_reset_the_password_req",
+      "value": "Parolanız güvenli değil ve sıfırlanması gerekiyor. Parola gereksinimleri:"
+    },
+    {
+      "name": "your_trash_is_empty",
+      "value": "Çöp kutusu boş"
+    },
+    {
+      "name": "log_in_manually",
+      "value": "oturum açabilirsiniz."
+    },
+    {
+      "name": "tag_2",
+      "value": "etiket:"
+    },
+    {
+      "name": "debug_enabled",
+      "value": "🐞 Hata Ayıklama Etkinleştirildi 🐞"
+    }
+  ]
+}

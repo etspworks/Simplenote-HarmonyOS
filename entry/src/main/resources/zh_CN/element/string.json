@@ -1,0 +1,1340 @@
+{
+  "string": [
+    {
+      "name": "d_result",
+      "value": "%d 个结果"
+    },
+    {
+      "name": "d_results",
+      "value": "%d 个结果"
+    },
+    {
+      "name": "i_failed_passcode_attempt",
+      "value": "密码尝试失败 %d 次"
+    },
+    {
+      "name": "i_failed_passcode_attempts",
+      "value": "密码尝试失败 %d 次"
+    },
+    {
+      "name": "i_note_trashed",
+      "value": "已将 %d 个笔记放入回收站"
+    },
+    {
+      "name": "i_notes_trashed",
+      "value": "已将 %d 个笔记放入回收站"
+    },
+    {
+      "name": "i_reference",
+      "value": "%d 参考"
+    },
+    {
+      "name": "i_references",
+      "value": "%d 参考"
+    },
+    {
+      "name": "i_selected",
+      "value": "已选择 %d 个笔记"
+    },
+    {
+      "name": "minimum_of_8_characters",
+      "value": "- 至少需要有 8 个字符"
+    },
+    {
+      "name": "neither_tabs_nor_newlines_are_allowed",
+      "value": "- 不允许使用制表符和换行符"
+    },
+    {
+      "name": "password_cannot_match_email",
+      "value": "- 密码不能与电子邮件相同"
+    },
+    {
+      "name": "s_1_minute",
+      "value": "1 分钟"
+    },
+    {
+      "name": "s_15_seconds",
+      "value": "15 秒"
+    },
+    {
+      "name": "s_2_minutes",
+      "value": "2 分钟"
+    },
+    {
+      "name": "s_3_minutes",
+      "value": "3 分钟"
+    },
+    {
+      "name": "s_30_seconds",
+      "value": "30 秒"
+    },
+    {
+      "name": "s_4_minutes",
+      "value": "4 分钟"
+    },
+    {
+      "name": "s_5_minutes",
+      "value": "5 分钟"
+    },
+    {
+      "name": "a_network_connection_is_required_please_check_your_connectio",
+      "value": "需要网络连接。 请检查您的连接，然后重试。"
+    },
+    {
+      "name": "about",
+      "value": "关于"
+    },
+    {
+      "name": "accept",
+      "value": "接受"
+    },
+    {
+      "name": "account",
+      "value": "帐户"
+    },
+    {
+      "name": "account_verification_required",
+      "value": "需要验证账户"
+    },
+    {
+      "name": "add_a_new_collaborator",
+      "value": "添加新协作者..."
+    },
+    {
+      "name": "add_a_tag_to_the_current_note",
+      "value": "向当前笔记中添加标签"
+    },
+    {
+      "name": "add_an_email_address_to_share_this_note_with_someone_then_yo",
+      "value": "添加电子邮件地址即可与他人分享此笔记。 而且，您与协作者均可对笔记作出更改。"
+    },
+    {
+      "name": "add_tag",
+      "value": "添加标签"
+    },
+    {
+      "name": "all_notes",
+      "value": "全部笔记"
+    },
+    {
+      "name": "an_email_has_been_sent_to_check_your_inbox_and_follow_the_in",
+      "value": "我们已向 %s 发送一封电子邮件。请检查您的收件箱，按照电子邮件中的说明来确认账户删除。\n\n在收到您的确认之前，我们不会删除您的账户。"
+    },
+    {
+      "name": "an_error_occured_please_try_again_if_the_problem_continues_c",
+      "value": "发生错误。 请重试。 如果问题仍然存在，请通过 support@simplenote.com 联系我们，我们会竭诚相助。"
+    },
+    {
+      "name": "an_error_was_encountered_while_signing_in",
+      "value": "登录时出错。"
+    },
+    {
+      "name": "appearance",
+      "value": "外观"
+    },
+    {
+      "name": "are_you_a_developer_we_re_hiring",
+      "value": "您是开发人员吗？ 我们正在招贤纳士。"
+    },
+    {
+      "name": "are_you_sure_you_want_to_delete_1",
+      "value": "是否确定要删除“%1$s”？"
+    },
+    {
+      "name": "are_you_sure_you_want_to_empty_the_trash_this_cannot_be_undo",
+      "value": "是否确定要清空回收站？此操作无法撤消。"
+    },
+    {
+      "name": "attempt_to_fetch_current_note_content_failed_please_try_agai",
+      "value": "尝试获取当前注释内容失败。  请稍后重试。"
+    },
+    {
+      "name": "attempt_to_fetch_entities_failed_please_try_again_later",
+      "value": "尝试获取实体失败。  请稍后重试。"
+    },
+    {
+      "name": "attempt_to_fetch_notes_failed_please_try_again_later",
+      "value": "尝试获取注释失败。  请稍后重试。"
+    },
+    {
+      "name": "attempt_to_fetch_tags_failed_please_try_again_later",
+      "value": "尝试获取标签失败。  请稍后重试。"
+    },
+    {
+      "name": "authenticated",
+      "value": "已验证"
+    },
+    {
+      "name": "become_a_simplenote_sustainer",
+      "value": "成为 Simplenote 支持者"
+    },
+    {
+      "name": "blog",
+      "value": "博客"
+    },
+    {
+      "name": "by_creating_an_account_you_agree_to_our",
+      "value": "创建帐户即表示，您同意我们的"
+    },
+    {
+      "name": "by_deleting_the_account_for_all_notes_created_with_this_acco",
+      "value": "删除 %s 的账户后，使用此账户创建的所有笔记将永久删除。 此操作不可撤消"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "cancel_share",
+      "value": "取消共享"
+    },
+    {
+      "name": "cannot_confirm_account",
+      "value": "无法确认帐户"
+    },
+    {
+      "name": "cannot_send_verification_email",
+      "value": "无法发送验证电子邮件"
+    },
+    {
+      "name": "careers",
+      "value": "招贤纳士"
+    },
+    {
+      "name": "change_email",
+      "value": "更改电子邮件地址"
+    },
+    {
+      "name": "change_password",
+      "value": "修改密码"
+    },
+    {
+      "name": "characters",
+      "value": "字符"
+    },
+    {
+      "name": "check_your_email",
+      "value": "检查您的电子邮件"
+    },
+    {
+      "name": "check_your_email_2",
+      "value": "检查您的电子邮件"
+    },
+    {
+      "name": "choose_a_4_digit_passcode",
+      "value": "选择一个 4 位数密码"
+    },
+    {
+      "name": "code",
+      "value": "代码"
+    },
+    {
+      "name": "collaborate",
+      "value": "协作"
+    },
+    {
+      "name": "collaboration_has_moved",
+      "value": "已移动协作功能"
+    },
+    {
+      "name": "collaborators",
+      "value": "协作者"
+    },
+    {
+      "name": "compromised_password",
+      "value": "遭盗密码"
+    },
+    {
+      "name": "condensed_note_list",
+      "value": "压缩的笔记列表"
+    },
+    {
+      "name": "confirm",
+      "value": "确认"
+    },
+    {
+      "name": "confirm_your_passcode",
+      "value": "确认您的密码"
+    },
+    {
+      "name": "contribute",
+      "value": "贡献"
+    },
+    {
+      "name": "copy_internal_link",
+      "value": "复制内部链接"
+    },
+    {
+      "name": "copy_link_2",
+      "value": "复制链接"
+    },
+    {
+      "name": "copy_link",
+      "value": "复制链接"
+    },
+    {
+      "name": "could_be_better",
+      "value": "还可以更好"
+    },
+    {
+      "name": "could_not_create_an_account_with_the_provided_email_address",
+      "value": "无法使用所提供的电子邮件地址和密码创建帐户。"
+    },
+    {
+      "name": "could_not_delete_tag",
+      "value": "无法删除标签"
+    },
+    {
+      "name": "could_not_fetch_notes",
+      "value": "无法获取注释"
+    },
+    {
+      "name": "could_not_fetch_tags",
+      "value": "无法获取标签"
+    },
+    {
+      "name": "could_not_fetch_entities",
+      "value": "无法获取实体"
+    },
+    {
+      "name": "could_not_fetch_note_content",
+      "value": "无法获取注释内容"
+    },
+    {
+      "name": "could_not_login_with_the_provided_email_address_and_password",
+      "value": "无法使用所提供的电子邮件地址和密码登录。"
+    },
+    {
+      "name": "could_you_tell_us_how_we_could_improve",
+      "value": "您可以告诉我们如何改进吗？"
+    },
+    {
+      "name": "couldn_t_retrieve_history",
+      "value": "无法检索历史记录"
+    },
+    {
+      "name": "couldn_t_sign_in",
+      "value": "无法登录"
+    },
+    {
+      "name": "create_a_new_note",
+      "value": "创建新笔记"
+    },
+    {
+      "name": "create_a_new_note_2",
+      "value": "创建新笔记"
+    },
+    {
+      "name": "create_a_new_note_instantly_with_one_tap",
+      "value": "点击一下即可立即创建新笔记。"
+    },
+    {
+      "name": "create_a_new_note_titled",
+      "value": "创建标题为“%s”的新笔记"
+    },
+    {
+      "name": "create_your_first_note",
+      "value": "创建您的第一个笔记"
+    },
+    {
+      "name": "created",
+      "value": "创建日期"
+    },
+    {
+      "name": "created_newest",
+      "value": "创建时间：最新"
+    },
+    {
+      "name": "created_oldest",
+      "value": "创建时间：最旧"
+    },
+    {
+      "name": "current_collaborators",
+      "value": "当前协作者"
+    },
+    {
+      "name": "dark",
+      "value": "深色"
+    },
+    {
+      "name": "debug",
+      "value": "调试"
+    },
+    {
+      "name": "debug_disabled",
+      "value": "调试已禁用"
+    },
+    {
+      "name": "delete",
+      "value": "删除"
+    },
+    {
+      "name": "delete_account",
+      "value": "删除账户"
+    },
+    {
+      "name": "delete_note",
+      "value": "删除笔记"
+    },
+    {
+      "name": "delete_notes",
+      "value": "删除笔记"
+    },
+    {
+      "name": "delete_tag",
+      "value": "删除标签"
+    },
+    {
+      "name": "deselect_all",
+      "value": "全部不选"
+    },
+    {
+      "name": "diagnostics",
+      "value": "诊断"
+    },
+    {
+      "name": "didn_t_get_an_email_there_may_already_be_an_account_associat",
+      "value": "没有收到电子邮件？ 可能已经有一个与此电子邮件地址相关联的帐户。 请联系 %1$s 寻求帮助。"
+    },
+    {
+      "name": "disable_markdown_formatting",
+      "value": "禁用 Markdown 格式"
+    },
+    {
+      "name": "dismiss",
+      "value": "不再显示"
+    },
+    {
+      "name": "dismiss_history",
+      "value": "忽略历史记录"
+    },
+    {
+      "name": "dismiss_information",
+      "value": "忽略信息"
+    },
+    {
+      "name": "dismiss_keyboard",
+      "value": "关闭键盘"
+    },
+    {
+      "name": "document",
+      "value": "文档"
+    },
+    {
+      "name": "done",
+      "value": "完成"
+    },
+    {
+      "name": "edit",
+      "value": "编辑"
+    },
+    {
+      "name": "email",
+      "value": "电子邮件"
+    },
+    {
+      "name": "email_in_use",
+      "value": "电子邮件在使用中"
+    },
+    {
+      "name": "empty",
+      "value": "清空"
+    },
+    {
+      "name": "empty_trash",
+      "value": "清空回收站"
+    },
+    {
+      "name": "enable_markdown_formatting",
+      "value": "启用 Markdown 格式"
+    },
+    {
+      "name": "end_editing",
+      "value": "结束编辑"
+    },
+    {
+      "name": "enqueued",
+      "value": "已排入队列数"
+    },
+    {
+      "name": "enter_code",
+      "value": "输入代码"
+    },
+    {
+      "name": "enter_password",
+      "value": "输入密码"
+    },
+    {
+      "name": "enter_the_password_for_the_account_email",
+      "value": "输入账户 {{EMAIL}} 的密码"
+    },
+    {
+      "name": "enter_your_passcode",
+      "value": "输入您的密码"
+    },
+    {
+      "name": "error",
+      "value": "错误"
+    },
+    {
+      "name": "faq_or_contact_us",
+      "value": "常见问题解答或与我们联系"
+    },
+    {
+      "name": "face_id",
+      "value": "面容 ID"
+    },
+    {
+      "name": "fetching_version",
+      "value": "正在提取版本"
+    },
+    {
+      "name": "forgot_your_password",
+      "value": "忘记密码？"
+    },
+    {
+      "name": "get_help",
+      "value": "获取帮助"
+    },
+    {
+      "name": "get_quick_access_to_a_list_of_all_notes_or_based_on_the_sele",
+      "value": "快速访问所有笔记列表或基于所选标签的笔记。"
+    },
+    {
+      "name": "get_quick_access_to_one_of_your_notes",
+      "value": "快速访问您的某一条笔记。"
+    },
+    {
+      "name": "great_mind_leaving_a_review_to_tell_us_what_you_like",
+      "value": "太棒了！能否写下评论，告知我们您具体喜欢哪些方面？"
+    },
+    {
+      "name": "help",
+      "value": "帮助"
+    },
+    {
+      "name": "help_us_improve_simplenote_by_sharing_usage_data_with_our_an",
+      "value": "与分析工具分享使用数据，帮助我们改善 Simplenote。"
+    },
+    {
+      "name": "history",
+      "value": "历史"
+    },
+    {
+      "name": "i_like_it",
+      "value": "我喜欢"
+    },
+    {
+      "name": "index_notes_in_spotlight",
+      "value": "Spotlight 中的索引注释"
+    },
+    {
+      "name": "index_removed",
+      "value": "索引已删除"
+    },
+    {
+      "name": "information",
+      "value": "信息"
+    },
+    {
+      "name": "insert_checklist",
+      "value": "插入清单"
+    },
+    {
+      "name": "inserts_a_new_checklist_item",
+      "value": "插入新的检查清单项"
+    },
+    {
+      "name": "last_modified_1",
+      "value": "上次修改日期：%1$s"
+    },
+    {
+      "name": "lastseen",
+      "value": "上一次查看时间"
+    },
+    {
+      "name": "learn_more",
+      "value": "了解更多"
+    },
+    {
+      "name": "leave_a_review",
+      "value": "留下评价"
+    },
+    {
+      "name": "light",
+      "value": "浅色"
+    },
+    {
+      "name": "link_copied",
+      "value": "链接已复制"
+    },
+    {
+      "name": "lock_timeout",
+      "value": "锁定超时"
+    },
+    {
+      "name": "log_in",
+      "value": "登录"
+    },
+    {
+      "name": "log_in_with_password",
+      "value": "使用密码登录"
+    },
+    {
+      "name": "log_out",
+      "value": "注销"
+    },
+    {
+      "name": "log_in_to_see_your_notes",
+      "value": "登录以查看您的笔记"
+    },
+    {
+      "name": "log_in_with_wordpress_com",
+      "value": "使用 WordPress.com 帐户登录"
+    },
+    {
+      "name": "log_in_with_email",
+      "value": "使用电子邮件登录"
+    },
+    {
+      "name": "log_in_with_email_failed_please_enter_your_password",
+      "value": "使用电子邮箱登录失败，请输入您的密码"
+    },
+    {
+      "name": "login_code_is_too_short",
+      "value": "登录代码过短"
+    },
+    {
+      "name": "mmm_d",
+      "value": "MMM d"
+    },
+    {
+      "name": "mmm_d_h_mm_a",
+      "value": "MMM d h:mm a"
+    },
+    {
+      "name": "mmm_d_yyyy",
+      "value": "yyyy MMM d"
+    },
+    {
+      "name": "mmm_yyyy",
+      "value": "yyyy MMM"
+    },
+    {
+      "name": "main_app_is_not_configured",
+      "value": "未配置主应用程序"
+    },
+    {
+      "name": "markdown",
+      "value": "Markdown"
+    },
+    {
+      "name": "menu",
+      "value": "菜单"
+    },
+    {
+      "name": "modified",
+      "value": "修改日期"
+    },
+    {
+      "name": "modified_newest",
+      "value": "修改时间：最新"
+    },
+    {
+      "name": "modified_oldest",
+      "value": "修改时间：最旧"
+    },
+    {
+      "name": "move_selected_notes_to_trash",
+      "value": "将选中的笔记放入回收站"
+    },
+    {
+      "name": "move_to_trash",
+      "value": "移动到回收站"
+    },
+    {
+      "name": "name_a_z",
+      "value": "名称：A-Z"
+    },
+    {
+      "name": "name_z_a",
+      "value": "名称：Z-A"
+    },
+    {
+      "name": "new_note",
+      "value": "新建笔记"
+    },
+    {
+      "name": "new_note_4",
+      "value": "新建笔记..."
+    },
+    {
+      "name": "new_note_2",
+      "value": "新建笔记"
+    },
+    {
+      "name": "new_note_3",
+      "value": "新建笔记..."
+    },
+    {
+      "name": "next_match",
+      "value": "下个匹配项"
+    },
+    {
+      "name": "no",
+      "value": "否"
+    },
+    {
+      "name": "no_results",
+      "value": "无结果"
+    },
+    {
+      "name": "no_simplenote_account",
+      "value": "无 Simplenote 账户"
+    },
+    {
+      "name": "no_notes_tagged",
+      "value": "没有标记为“%s”的笔记"
+    },
+    {
+      "name": "no_previous_valid_purchases_found_for_the_current_period",
+      "value": "当前时段内找不到以前的有效购买"
+    },
+    {
+      "name": "no_purchases_found",
+      "value": "找不到购买的内容"
+    },
+    {
+      "name": "no_thanks",
+      "value": "不用了，谢谢"
+    },
+    {
+      "name": "no_untagged_notes",
+      "value": "没有未标记的笔记"
+    },
+    {
+      "name": "note",
+      "value": "注意"
+    },
+    {
+      "name": "note_list",
+      "value": "笔记列表"
+    },
+    {
+      "name": "note_trashed",
+      "value": "已将笔记放入回收站"
+    },
+    {
+      "name": "note_no_longer_available",
+      "value": "笔记不再可用"
+    },
+    {
+      "name": "notes",
+      "value": "笔记"
+    },
+    {
+      "name": "ok",
+      "value": "确定"
+    },
+    {
+      "name": "off",
+      "value": "关闭"
+    },
+    {
+      "name": "ok_2",
+      "value": "确定"
+    },
+    {
+      "name": "okay",
+      "value": "好的"
+    },
+    {
+      "name": "on",
+      "value": "打开"
+    },
+    {
+      "name": "open_simplenote",
+      "value": "打开 Simplenote"
+    },
+    {
+      "name": "open_note",
+      "value": "打开笔记"
+    },
+    {
+      "name": "options",
+      "value": "选项"
+    },
+    {
+      "name": "or",
+      "value": "或"
+    },
+    {
+      "name": "passcode",
+      "value": "密码"
+    },
+    {
+      "name": "passcodes_did_not_match_try_again",
+      "value": "密码不匹配。重试。"
+    },
+    {
+      "name": "password",
+      "value": "密码"
+    },
+    {
+      "name": "password_cannot_match_email_2",
+      "value": "密码不能与电子邮件相同"
+    },
+    {
+      "name": "password_must_contain_at_least_d_characters",
+      "value": "密码中必须至少包含 %d个字符"
+    },
+    {
+      "name": "password_must_not_contain_tabs_nor_newlines",
+      "value": "密码不得包含制表符或换行符"
+    },
+    {
+      "name": "pendings",
+      "value": "待处理数"
+    },
+    {
+      "name": "pin_note",
+      "value": "固定笔记"
+    },
+    {
+      "name": "pin_to_top",
+      "value": "固定至顶部"
+    },
+    {
+      "name": "please_activate_your_wordpress_com_account_via_email_and_try",
+      "value": "请通过电子邮件激活您的 WordPress.com 帐户，然后重试。"
+    },
+    {
+      "name": "please_check_your_network_settings_and_try_again",
+      "value": "请检查您的网络设置，然后重试。"
+    },
+    {
+      "name": "please_log_into_your_simplenote_account_first_by_using_the_s",
+      "value": "请先使用 Simplenote 应用程序登录您的 Simplenote 账户。"
+    },
+    {
+      "name": "please_try_again",
+      "value": "请重试"
+    },
+    {
+      "name": "please_upgrade_to_the_latest_ios_release_to_restore_purchase",
+      "value": "请升级至最新 iOS 版本以恢复购买"
+    },
+    {
+      "name": "preview",
+      "value": "预览"
+    },
+    {
+      "name": "previous_match",
+      "value": "上个匹配项"
+    },
+    {
+      "name": "privacy_notice_for_california_users",
+      "value": "面向加州用户的隐私声明"
+    },
+    {
+      "name": "privacy_policy",
+      "value": "隐私政策"
+    },
+    {
+      "name": "privacy_settings",
+      "value": "隐私设置"
+    },
+    {
+      "name": "publish",
+      "value": "发布"
+    },
+    {
+      "name": "publish_successful",
+      "value": "发布成功"
+    },
+    {
+      "name": "publish_note",
+      "value": "发布笔记"
+    },
+    {
+      "name": "publishing_note",
+      "value": "正在发布笔记…"
+    },
+    {
+      "name": "publishing",
+      "value": "正在发布..."
+    },
+    {
+      "name": "rate_us",
+      "value": "给我们评分"
+    },
+    {
+      "name": "reachability",
+      "value": "可访问性"
+    },
+    {
+      "name": "recent",
+      "value": "最近"
+    },
+    {
+      "name": "recovered_note_cotent",
+      "value": "已恢复注释内容 — "
+    },
+    {
+      "name": "referenced_in",
+      "value": "引用于"
+    },
+    {
+      "name": "remove_all_notes_from_trash",
+      "value": "从回收站中移除所有笔记"
+    },
+    {
+      "name": "remove_tag_from_the_current_note",
+      "value": "将标签从当前笔记中删除"
+    },
+    {
+      "name": "rename",
+      "value": "重命名"
+    },
+    {
+      "name": "request_account_deletion",
+      "value": "请求账户删除"
+    },
+    {
+      "name": "request_error",
+      "value": "请求错误"
+    },
+    {
+      "name": "resend_email",
+      "value": "重发电子邮件"
+    },
+    {
+      "name": "resend_verification_email",
+      "value": "重新发送验证电子邮件"
+    },
+    {
+      "name": "reset",
+      "value": "重置"
+    },
+    {
+      "name": "reset_required",
+      "value": "需要重置"
+    },
+    {
+      "name": "response",
+      "value": "回应"
+    },
+    {
+      "name": "restore_note",
+      "value": "恢复笔记"
+    },
+    {
+      "name": "review_your_account",
+      "value": "检查您的帐户"
+    },
+    {
+      "name": "save",
+      "value": "保存"
+    },
+    {
+      "name": "search",
+      "value": "搜索"
+    },
+    {
+      "name": "search_by_tag",
+      "value": "按标签搜索"
+    },
+    {
+      "name": "search_notes_or_tags",
+      "value": "搜索笔记或标签"
+    },
+    {
+      "name": "security",
+      "value": "安全"
+    },
+    {
+      "name": "select",
+      "value": "选择"
+    },
+    {
+      "name": "select_all",
+      "value": "全选"
+    },
+    {
+      "name": "select_a_version",
+      "value": "选择版本"
+    },
+    {
+      "name": "send_a_test_crash",
+      "value": "发送测试崩溃"
+    },
+    {
+      "name": "send_feedback",
+      "value": "发送反馈"
+    },
+    {
+      "name": "set_up_passcode",
+      "value": "设置密码"
+    },
+    {
+      "name": "settings",
+      "value": "设置"
+    },
+    {
+      "name": "share",
+      "value": "共享"
+    },
+    {
+      "name": "share_analytics",
+      "value": "共享分析数据"
+    },
+    {
+      "name": "share_2",
+      "value": "分享..."
+    },
+    {
+      "name": "sharing_notes_is_now_accessed_through_the_action_menu_from_t",
+      "value": "现在可通过工具栏上的操作菜单访问共享笔记。"
+    },
+    {
+      "name": "sidebar",
+      "value": "侧边栏"
+    },
+    {
+      "name": "sign_up",
+      "value": "注册"
+    },
+    {
+      "name": "signing_out_will_delete_any_unsynced_notes_you_can_verify_yo",
+      "value": "注销会删除所有未同步的备注。您可以通过登录 Web 应用程序以确认您已同步的备注。"
+    },
+    {
+      "name": "simplenote",
+      "value": "Simplenote"
+    },
+    {
+      "name": "simplenote_sustainer",
+      "value": "Simplenote 支持者"
+    },
+    {
+      "name": "simplenote_ios_feedback",
+      "value": "Simplenote iOS 反馈"
+    },
+    {
+      "name": "simplenote_must_be_configured_and_logged_in_to_setup_widgets",
+      "value": "必须配置 Simplenote 并登录以设置小组件"
+    },
+    {
+      "name": "sorry",
+      "value": "抱歉！"
+    },
+    {
+      "name": "sort_alphabetically",
+      "value": "按字母顺序排列"
+    },
+    {
+      "name": "sort_order",
+      "value": "排序"
+    },
+    {
+      "name": "sort_by",
+      "value": "排序方式："
+    },
+    {
+      "name": "spotlight_history_may_still_appear_in_search_results_but_not",
+      "value": "Spotlight 历史记录仍可能出现在搜索结果中，但注释已取消索引"
+    },
+    {
+      "name": "status_code",
+      "value": "状态码"
+    },
+    {
+      "name": "support_your_favorite_notes_app_to_help_unlock_future_featur",
+      "value": "支持您喜爱的笔记应用，帮助该产品在未来提供更多功能"
+    },
+    {
+      "name": "sustainer_app_icon",
+      "value": "Sustainer 应用程序图标"
+    },
+    {
+      "name": "sustainer_subscription_restored_thank_you_for_supporting_sim",
+      "value": "支持者订阅已恢复。 感谢您支持 Simplenote！"
+    },
+    {
+      "name": "system_default",
+      "value": "系统默认"
+    },
+    {
+      "name": "tag",
+      "value": "标签"
+    },
+    {
+      "name": "tag_no_longer_available",
+      "value": "标签不再可用"
+    },
+    {
+      "name": "tags",
+      "value": "标签"
+    },
+    {
+      "name": "tag_3",
+      "value": "标记…"
+    },
+    {
+      "name": "tap_button_to_select_or_deselect_all_notes",
+      "value": "轻点按钮，选择或取消选择所有笔记"
+    },
+    {
+      "name": "terms_and_conditions",
+      "value": "条款和条件"
+    },
+    {
+      "name": "terms_of_service",
+      "value": "服务条款"
+    },
+    {
+      "name": "thank_you",
+      "value": "谢谢！"
+    },
+    {
+      "name": "thank_you_for_your_continued_support",
+      "value": "感谢您的继续支持"
+    },
+    {
+      "name": "the_authentication_code_you_ve_requested_has_expired_please",
+      "value": "您请求的验证码已过期。 请重新请求"
+    },
+    {
+      "name": "the_code_you_ve_entered_is_not_correct_please_try_again",
+      "value": "您输入的代码不正确。 请重试"
+    },
+    {
+      "name": "the_email_you_ve_entered_is_already_associated_with_a_simple",
+      "value": "您输入的电子邮件已与 Simplenote 帐户关联。"
+    },
+    {
+      "name": "the_network_could_not_be_reached",
+      "value": "无法访问网络。"
+    },
+    {
+      "name": "the_simplest_way_to_keep_notes",
+      "value": "记录笔记最简单的方法。"
+    },
+    {
+      "name": "theme",
+      "value": "主题"
+    },
+    {
+      "name": "themes",
+      "value": "主题"
+    },
+    {
+      "name": "there_was_an_preparing_your_verification_email_please_try_ag",
+      "value": "正在准备您的验证电子邮件地址，请稍后重试"
+    },
+    {
+      "name": "this_note_was_deleted_on_another_device",
+      "value": "此笔记已从其他设备上删除"
+    },
+    {
+      "name": "this_password_has_appeared_in_a_data_breach_which_puts_your",
+      "value": "此密码似乎存在数据泄露，使您的账户存在高盗用风险。 为了保护您的数据，您需要先更新密码，然后才能再次进行登录。"
+    },
+    {
+      "name": "to_enable_1_you_must_have_a_passcode_setup_first",
+      "value": "要启用 %1$s，必须先设置密码。"
+    },
+    {
+      "name": "to_unlock_the_application",
+      "value": "解锁应用程序"
+    },
+    {
+      "name": "today",
+      "value": "今天"
+    },
+    {
+      "name": "toggle_markdown",
+      "value": "切换 Markdown"
+    },
+    {
+      "name": "toggle_tag_sidebar",
+      "value": "切换标签侧边栏"
+    },
+    {
+      "name": "too_many_login_attempts",
+      "value": "尝试登录次数过多"
+    },
+    {
+      "name": "too_many_login_attempts_try_again_later",
+      "value": "尝试登录次数过多。 请稍后重试。"
+    },
+    {
+      "name": "touch_id",
+      "value": "触摸 ID"
+    },
+    {
+      "name": "trash",
+      "value": "移到回收站"
+    },
+    {
+      "name": "trash_notes",
+      "value": "将笔记放入回收站"
+    },
+    {
+      "name": "turn_off_passcode",
+      "value": "关闭密码"
+    },
+    {
+      "name": "undo",
+      "value": "撤消"
+    },
+    {
+      "name": "unnamed_tag",
+      "value": "未命名标签"
+    },
+    {
+      "name": "unpin",
+      "value": "取消钉选"
+    },
+    {
+      "name": "unpin_note",
+      "value": "取消固定笔记"
+    },
+    {
+      "name": "unpublish_note",
+      "value": "取消发布笔记"
+    },
+    {
+      "name": "unpublish_successful",
+      "value": "取消发布成功"
+    },
+    {
+      "name": "unpublishing_note",
+      "value": "正在取消发布笔记…"
+    },
+    {
+      "name": "unpublishing",
+      "value": "正在取消发布..."
+    },
+    {
+      "name": "unsupported",
+      "value": "不受支持"
+    },
+    {
+      "name": "unsynced_notes_detected",
+      "value": "检测到未同步的备注"
+    },
+    {
+      "name": "untagged",
+      "value": "已取消标记"
+    },
+    {
+      "name": "untagged_notes",
+      "value": "未标记备注"
+    },
+    {
+      "name": "username",
+      "value": "用户名"
+    },
+    {
+      "name": "verify_your_email",
+      "value": "验证您的电子邮件"
+    },
+    {
+      "name": "version",
+      "value": "版本 %s"
+    },
+    {
+      "name": "visit_web_app",
+      "value": "访问 Web 应用程序"
+    },
+    {
+      "name": "we_ll_email_you_a_code_to_log_in_or_you_can",
+      "value": "我们将通过电子邮件向您发送登录代码，您也可以"
+    },
+    {
+      "name": "we_re_having_problems_please_try_again_soon",
+      "value": "我们遇到了问题。请稍后重试。"
+    },
+    {
+      "name": "we_ve_sent_a_code_to_email_the_code_will_be_valid_for_a_few",
+      "value": "我们已向 {{EMAIL}} 发送代码。 此代码将在几分钟后失效。"
+    },
+    {
+      "name": "websocket",
+      "value": "WebSocket"
+    },
+    {
+      "name": "we_ve_sent_a_verification_email_to_1_please_check_your_inbox",
+      "value": "我们已向 %1$s 发送了一封验证电子邮件。 请检查您的收件箱并按照说明执行操作。"
+    },
+    {
+      "name": "we_ve_sent_an_email_to_1_please_check_your_inbox_and_follow",
+      "value": "我们向 %1$s 发送了一封电子邮件。 请检查您的收件箱并按照说明执行操作。"
+    },
+    {
+      "name": "what_do_you_think_about_simplenote",
+      "value": "您觉得 Simplenote 怎么样？"
+    },
+    {
+      "name": "will_attempt_to_recover_shortcut_content_on_next_launch",
+      "value": "下次启动时将尝试恢复快捷方式内容"
+    },
+    {
+      "name": "words",
+      "value": "字数"
+    },
+    {
+      "name": "yes",
+      "value": "是"
+    },
+    {
+      "name": "yesterday",
+      "value": "昨天"
+    },
+    {
+      "name": "you_are_a_simplenote_sustainer",
+      "value": "您已成为 Simplenote 支持者"
+    },
+    {
+      "name": "you_are_registered_with_simplenote_using_the_email_1_improve",
+      "value": "您已使用电子邮件 %1$s 注册 Simplenote。\n\n如果您无法再访问此电子邮件地址，那么帐户安全性的改进可能会导致您无法找回帐户。"
+    },
+    {
+      "name": "you_must_verify_your_email_before_being_able_to_login",
+      "value": "您必须先验证电子邮件地址，才能登录。"
+    },
+    {
+      "name": "you_re_already_a_sustainer_thank_you_for_supporting_simpleno",
+      "value": "您已成为支持者。 感谢您支持 Simplenote！"
+    },
+    {
+      "name": "your_authentication_code_has_expired_please_request_a_new_on",
+      "value": "您的验证码已过期。 请重新请求"
+    },
+    {
+      "name": "your_email_address_is_not_valid",
+      "value": "您输入的电子邮件地址无效。"
+    },
+    {
+      "name": "your_password_is_insecure_and_must_be_reset_the_password_req",
+      "value": "您的密码不安全，需要重置。密码要求："
+    },
+    {
+      "name": "your_trash_is_empty",
+      "value": "您的回收站为空"
+    },
+    {
+      "name": "log_in_manually",
+      "value": "手动登录。"
+    },
+    {
+      "name": "tag_2",
+      "value": "标签："
+    },
+    {
+      "name": "debug_enabled",
+      "value": "🐞 调试已启用 🐞"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "shortcuts": [
+    {
+      "shortcutId": "search",
+      "label": "$string:search",
+      "icon": "$media:ic_search",
+      "wants": [
+        {
+          "bundleName": "com.example.myapplication",
+          "moduleName": "entry",
+          "abilityName": "EntryAbility",
+          "parameters": {
+            "shortcutType": "search"
+          }
+        }
+      ]
+    },
+    {
+      "shortcutId": "newNote",
+      "label": "$string:new_note",
+      "icon": "$media:ic_new_note",
+      "wants": [
+        {
+          "bundleName": "com.example.myapplication",
+          "moduleName": "entry",
+          "abilityName": "EntryAbility",
+          "parameters": {
+            "shortcutType": "newNote"
+          }
+        }
+      ]
+    },
+    {
+      "shortcutId": "recent",
+      "label": "$string:recent",
+      "icon": "$media:ic_allnotes",
+      "visible": false,
+      "wants": [
+        {
+          "bundleName": "com.example.myapplication",
+          "moduleName": "entry",
+          "abilityName": "EntryAbility",
+          "parameters": {
+            "shortcutType": "recent"
+          }
+        }
+      ]
+    }
+  ]
+}

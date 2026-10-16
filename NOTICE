@@ -1,0 +1,39 @@
+Simplenote for HarmonyOS
+========================
+
+This project is an unofficial HarmonyOS (ArkTS / ArkUI) port of Simplenote for
+iOS, the Simplenote client for iPhone and iPad by Automattic and its
+contributors.
+
+Upstream project: https://github.com/Automattic/simplenote-ios
+Upstream base:    release 4.55 (build 4.55.0.4)
+
+The upstream software is distributed under the GNU General Public License,
+version 2 (GPLv2), reproduced unchanged in the LICENSE file at the root of this
+repository. This port reuses upstream source logic, strings, resources and
+artwork; all of it remains under that license. Modifications made for the
+HarmonyOS platform are released under the same terms (GPLv2).
+
+This port is NOT affiliated with, endorsed by, or supported by Automattic.
+Please do not report problems with this port to the upstream project.
+"Simplenote" and the Simplenote logo are trademarks of Automattic Inc.; the
+GPLv2 covers the source code, not that name or that artwork.
+
+
+Services
+--------
+
+Notes are synchronised with Simperium (https://simperium.com), the sync
+service Simplenote uses. The port ships with the same public demo Simperium
+application id and key as the upstream repository's SPCredentials-demo.swift.
+Production Simplenote features that depend on Automattic's servers
+(publishing a note, collaboration, WordPress.com login) do not work with those
+demo credentials, exactly as upstream documents for its development builds.
+
+
+Bundled third-party assets
+--------------------------
+
+* entry/src/main/resources/rawfile/markdown-*.css
+  Markdown preview style sheets, carried over unchanged from upstream
+  (Simplenote/Resources/markdown-*.css). GPLv2, as above.

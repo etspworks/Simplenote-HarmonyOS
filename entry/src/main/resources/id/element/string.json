@@ -1,0 +1,1336 @@
+{
+  "string": [
+    {
+      "name": "d_result",
+      "value": "%d Hasil"
+    },
+    {
+      "name": "d_results",
+      "value": "%d Hasil"
+    },
+    {
+      "name": "i_failed_passcode_attempt",
+      "value": "%d Upaya Kode Sandi Gagal"
+    },
+    {
+      "name": "i_failed_passcode_attempts",
+      "value": "%d Upaya Kode Sandi Gagal"
+    },
+    {
+      "name": "i_note_trashed",
+      "value": "%d Catatan Dibuang"
+    },
+    {
+      "name": "i_notes_trashed",
+      "value": "%d Catatan Dibuang"
+    },
+    {
+      "name": "i_reference",
+      "value": "%d Referensi"
+    },
+    {
+      "name": "i_references",
+      "value": "%d Referensi"
+    },
+    {
+      "name": "i_selected",
+      "value": "%d Terpilih"
+    },
+    {
+      "name": "minimum_of_8_characters",
+      "value": "- Minimum 8 karakter"
+    },
+    {
+      "name": "neither_tabs_nor_newlines_are_allowed",
+      "value": "- Tidak boleh ada tab maupun baris baru"
+    },
+    {
+      "name": "password_cannot_match_email",
+      "value": "- Kata sandi tidak boleh sama dengan email"
+    },
+    {
+      "name": "s_1_minute",
+      "value": "1 Menit"
+    },
+    {
+      "name": "s_15_seconds",
+      "value": "15 Detik"
+    },
+    {
+      "name": "s_2_minutes",
+      "value": "2 Menit"
+    },
+    {
+      "name": "s_3_minutes",
+      "value": "3 Menit"
+    },
+    {
+      "name": "s_30_seconds",
+      "value": "30 Detik"
+    },
+    {
+      "name": "s_4_minutes",
+      "value": "4 Menit"
+    },
+    {
+      "name": "s_5_minutes",
+      "value": "5 Menit"
+    },
+    {
+      "name": "a_network_connection_is_required_please_check_your_connectio",
+      "value": "Koneksi jaringan dibutuhkan. Periksa koneksi Anda dan coba lagi."
+    },
+    {
+      "name": "about",
+      "value": "Tentang"
+    },
+    {
+      "name": "accept",
+      "value": "Terima"
+    },
+    {
+      "name": "account",
+      "value": "Account"
+    },
+    {
+      "name": "account_verification_required",
+      "value": "Dibutuhkan Verifikasi Akun"
+    },
+    {
+      "name": "add_a_new_collaborator",
+      "value": "Tambahkan kolaborator baru..."
+    },
+    {
+      "name": "add_a_tag_to_the_current_note",
+      "value": "Tambahkan label pada catatan saat ini"
+    },
+    {
+      "name": "add_an_email_address_to_share_this_note_with_someone_then_yo",
+      "value": "Tambahkan alamat email untuk membagikan catatan ini dengan pengguna. Selanjutnya Anda dan pengguna yang diberi akses dapat membuat perubahan."
+    },
+    {
+      "name": "add_tag",
+      "value": "Tambahkan label"
+    },
+    {
+      "name": "all_notes",
+      "value": "Semua Catatan"
+    },
+    {
+      "name": "an_email_has_been_sent_to_check_your_inbox_and_follow_the_in",
+      "value": "Email sudah dikirimkan ke %s Periksa kotak masuk Anda dan ikuti petunjuk untuk mengonfirmasi penghapusan akun.\n\nAkun tidak akan dihapus hingga kami menerima konfirmasi Anda."
+    },
+    {
+      "name": "an_error_occured_please_try_again_if_the_problem_continues_c",
+      "value": "Terjadi kesalahan. Harap coba lagi. Jika masalah berlanjut, hubungi kami di support@simplenote.com untuk mendapatkan bantuan."
+    },
+    {
+      "name": "an_error_was_encountered_while_signing_in",
+      "value": "Terjadi error saat mencoba masuk."
+    },
+    {
+      "name": "appearance",
+      "value": "Tampilan"
+    },
+    {
+      "name": "are_you_a_developer_we_re_hiring",
+      "value": "Apakah Anda pengembang? Kami membuka lowongan."
+    },
+    {
+      "name": "are_you_sure_you_want_to_empty_the_trash_this_cannot_be_undo",
+      "value": "Anda yakin ingin mengosongkan tempat sampah? Ini tidak dapat dibatalkan."
+    },
+    {
+      "name": "attempt_to_fetch_current_note_content_failed_please_try_agai",
+      "value": "Upaya untuk mengambil konten catatan terbaru gagal.  Coba lagi nanti."
+    },
+    {
+      "name": "attempt_to_fetch_entities_failed_please_try_again_later",
+      "value": "Upaya untuk mengambil entitas gagal.  Silakan coba lagi nanti."
+    },
+    {
+      "name": "attempt_to_fetch_notes_failed_please_try_again_later",
+      "value": "Upaya untuk mengambil catatan gagal.  Coba lagi nanti."
+    },
+    {
+      "name": "attempt_to_fetch_tags_failed_please_try_again_later",
+      "value": "Upaya untuk mengambil tag gagal.  Coba lagi nanti."
+    },
+    {
+      "name": "authenticated",
+      "value": "Diautentikasi"
+    },
+    {
+      "name": "become_a_simplenote_sustainer",
+      "value": "Jadilah Simplenote Sustainer"
+    },
+    {
+      "name": "blog",
+      "value": "Blog"
+    },
+    {
+      "name": "by_creating_an_account_you_agree_to_our",
+      "value": "Dengan membuat akun, Anda menyetujui"
+    },
+    {
+      "name": "by_deleting_the_account_for_all_notes_created_with_this_acco",
+      "value": "Dengan menghapus akun untuk  %s, semua catatan yang dibuat dengan akun ini akan dihapus secara permanen. Tindakan ini tidak dapat dibatalkan"
+    },
+    {
+      "name": "cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "cancel_share",
+      "value": "Batalkan Berbagi"
+    },
+    {
+      "name": "cannot_confirm_account",
+      "value": "Tidak Dapat Mengonfirmasi Akun"
+    },
+    {
+      "name": "cannot_send_verification_email",
+      "value": "Tidak Dapat Mengirimkan Email Verifikasi"
+    },
+    {
+      "name": "careers",
+      "value": "Karier"
+    },
+    {
+      "name": "change_email",
+      "value": "Ubah Email"
+    },
+    {
+      "name": "change_password",
+      "value": "Ganti Kata Sandi"
+    },
+    {
+      "name": "characters",
+      "value": "Karakter"
+    },
+    {
+      "name": "check_your_email",
+      "value": "Periksa Email Anda"
+    },
+    {
+      "name": "check_your_email_2",
+      "value": "Periksa Email Anda"
+    },
+    {
+      "name": "choose_a_4_digit_passcode",
+      "value": "Pilih kode sandi 4 digit"
+    },
+    {
+      "name": "code",
+      "value": "Kode"
+    },
+    {
+      "name": "collaborate",
+      "value": "Kolaborasi"
+    },
+    {
+      "name": "collaboration_has_moved",
+      "value": "Kolaborasi telah dipindah"
+    },
+    {
+      "name": "collaborators",
+      "value": "Kolaborator"
+    },
+    {
+      "name": "compromised_password",
+      "value": "Kata Sandi yang Disusupi"
+    },
+    {
+      "name": "condensed_note_list",
+      "value": "Daftar Catatan Ringkas"
+    },
+    {
+      "name": "confirm",
+      "value": "Konfirmasi"
+    },
+    {
+      "name": "confirm_your_passcode",
+      "value": "Konfirmasi kode sandi Anda"
+    },
+    {
+      "name": "contribute",
+      "value": "Kontribusi"
+    },
+    {
+      "name": "copy_internal_link",
+      "value": "Salin Tautan Internal"
+    },
+    {
+      "name": "copy_link_2",
+      "value": "Salin tautan"
+    },
+    {
+      "name": "copy_link",
+      "value": "Salin tautan"
+    },
+    {
+      "name": "could_be_better",
+      "value": "Bisa Lebih Baik"
+    },
+    {
+      "name": "could_not_create_an_account_with_the_provided_email_address",
+      "value": "Tidak dapat membuat akun dengan alamat email dan kata sandi yang diberikan."
+    },
+    {
+      "name": "could_not_delete_tag",
+      "value": "Tidak dapat menghapus tag"
+    },
+    {
+      "name": "could_not_fetch_notes",
+      "value": "Tidak dapat mengambil Catatan"
+    },
+    {
+      "name": "could_not_fetch_tags",
+      "value": "Tidak dapat mengambil Tag"
+    },
+    {
+      "name": "could_not_fetch_entities",
+      "value": "Tidak dapat mengambil entitas"
+    },
+    {
+      "name": "could_not_fetch_note_content",
+      "value": "Tidak dapat mengambil konten catatan"
+    },
+    {
+      "name": "could_not_login_with_the_provided_email_address_and_password",
+      "value": "Tidak dapat masuk dengan alamat email dan kata sandi yang diberikan."
+    },
+    {
+      "name": "could_you_tell_us_how_we_could_improve",
+      "value": "Menurut Anda, penyempurnaan apa yang dapat kami lakukan?"
+    },
+    {
+      "name": "couldn_t_retrieve_history",
+      "value": "Tidak Dapat Mengambil Riwayat"
+    },
+    {
+      "name": "couldn_t_sign_in",
+      "value": "Tidak Dapat Masuk"
+    },
+    {
+      "name": "create_a_new_note",
+      "value": "Buat Catatan Baru"
+    },
+    {
+      "name": "create_a_new_note_2",
+      "value": "Buat catatan baru"
+    },
+    {
+      "name": "create_a_new_note_instantly_with_one_tap",
+      "value": "Buat catatan baru secara instan dengan sekali ketuk."
+    },
+    {
+      "name": "create_a_new_note_titled",
+      "value": "Buat catatan baru berjudul “%s”"
+    },
+    {
+      "name": "create_your_first_note",
+      "value": "Buat catatan pertama Anda"
+    },
+    {
+      "name": "created",
+      "value": "Dibuat"
+    },
+    {
+      "name": "created_newest",
+      "value": "Dibuat: Paling baru"
+    },
+    {
+      "name": "created_oldest",
+      "value": "Dibuat: Paling lama"
+    },
+    {
+      "name": "current_collaborators",
+      "value": "Kolaborator Saat Ini"
+    },
+    {
+      "name": "dark",
+      "value": "Gelap"
+    },
+    {
+      "name": "debug",
+      "value": "Debug"
+    },
+    {
+      "name": "debug_disabled",
+      "value": "Debug Dinonaktifkan"
+    },
+    {
+      "name": "delete",
+      "value": "Hapus"
+    },
+    {
+      "name": "delete_account",
+      "value": "Hapus Akun"
+    },
+    {
+      "name": "delete_note",
+      "value": "Hapus Catatan"
+    },
+    {
+      "name": "delete_notes",
+      "value": "Hapus Catatan"
+    },
+    {
+      "name": "delete_tag",
+      "value": "Hapus label"
+    },
+    {
+      "name": "deselect_all",
+      "value": "Batalkan semua pilihan"
+    },
+    {
+      "name": "diagnostics",
+      "value": "Diagnostik"
+    },
+    {
+      "name": "didn_t_get_an_email_there_may_already_be_an_account_associat",
+      "value": "Belum menerima email? Mungkin sudah ada akun yang dikaitkan dengan alamat email ini. Hubungi %1$s untuk mendapatkan bantuan."
+    },
+    {
+      "name": "disable_markdown_formatting",
+      "value": "Nonaktifkan pemformatan Markdown"
+    },
+    {
+      "name": "dismiss",
+      "value": "Selesai"
+    },
+    {
+      "name": "dismiss_history",
+      "value": "Tutup Riwayat"
+    },
+    {
+      "name": "dismiss_information",
+      "value": "Tutup Informasi"
+    },
+    {
+      "name": "dismiss_keyboard",
+      "value": "Abaikan keyboard"
+    },
+    {
+      "name": "document",
+      "value": "Dokumen"
+    },
+    {
+      "name": "done",
+      "value": "Selesai"
+    },
+    {
+      "name": "edit",
+      "value": "Sunting"
+    },
+    {
+      "name": "email",
+      "value": "Email"
+    },
+    {
+      "name": "email_in_use",
+      "value": "Email digunakan"
+    },
+    {
+      "name": "empty",
+      "value": "Kosong"
+    },
+    {
+      "name": "empty_trash",
+      "value": "Kosongkan sampah"
+    },
+    {
+      "name": "enable_markdown_formatting",
+      "value": "Aktifkan pemformatan Markdown"
+    },
+    {
+      "name": "end_editing",
+      "value": "Akhiri Penyuntingan"
+    },
+    {
+      "name": "enqueued",
+      "value": "Dalam antrean"
+    },
+    {
+      "name": "enter_code",
+      "value": "Masukkan Kode"
+    },
+    {
+      "name": "enter_password",
+      "value": "Masukkan kata sandi"
+    },
+    {
+      "name": "enter_the_password_for_the_account_email",
+      "value": "Masukkan kata sandi untuk akun {{EMAIL}}"
+    },
+    {
+      "name": "enter_your_passcode",
+      "value": "Masukkan kode sandi Anda"
+    },
+    {
+      "name": "error",
+      "value": "Kesalahan"
+    },
+    {
+      "name": "faq_or_contact_us",
+      "value": "FAQ atau hubungi kami"
+    },
+    {
+      "name": "face_id",
+      "value": "Face ID"
+    },
+    {
+      "name": "fetching_version",
+      "value": "Mengambil Versi"
+    },
+    {
+      "name": "forgot_your_password",
+      "value": "Lupa kata sandi?"
+    },
+    {
+      "name": "get_help",
+      "value": "Dapatkan Bantuan"
+    },
+    {
+      "name": "get_quick_access_to_a_list_of_all_notes_or_based_on_the_sele",
+      "value": "Dapatkan akses cepat ke daftar semua catatan atau berdasarkan tag yang dipilih."
+    },
+    {
+      "name": "get_quick_access_to_one_of_your_notes",
+      "value": "Dapatkan akses cepat ke salah satu catatan Anda."
+    },
+    {
+      "name": "great_mind_leaving_a_review_to_tell_us_what_you_like",
+      "value": "Bagus! Ingin memberikan ulasan tentang apa yang Anda suka?"
+    },
+    {
+      "name": "help",
+      "value": "Bantuan"
+    },
+    {
+      "name": "help_us_improve_simplenote_by_sharing_usage_data_with_our_an",
+      "value": "Bantu kami menyempurnakan Simplenote dengan berbagi data penggunaan dengan alat analitik kami."
+    },
+    {
+      "name": "history",
+      "value": "Riwayat"
+    },
+    {
+      "name": "i_like_it",
+      "value": "Saya Menyukainya"
+    },
+    {
+      "name": "index_notes_in_spotlight",
+      "value": "Indeks Catatan dalam Sorotan"
+    },
+    {
+      "name": "index_removed",
+      "value": "Indeks Dihapus"
+    },
+    {
+      "name": "information",
+      "value": "Informasi"
+    },
+    {
+      "name": "insert_checklist",
+      "value": "Masukkan Daftar Periksa"
+    },
+    {
+      "name": "inserts_a_new_checklist_item",
+      "value": "Masukkan Item Daftar Periksa baru"
+    },
+    {
+      "name": "last_modified_1",
+      "value": "Terakhir Diubah %1$s"
+    },
+    {
+      "name": "lastseen",
+      "value": "Terakhir Dilihat"
+    },
+    {
+      "name": "learn_more",
+      "value": "Pelajari lebih lanjut"
+    },
+    {
+      "name": "leave_a_review",
+      "value": "Berikan Tinjauan"
+    },
+    {
+      "name": "light",
+      "value": "Terang"
+    },
+    {
+      "name": "link_copied",
+      "value": "Tautan disalin"
+    },
+    {
+      "name": "lock_timeout",
+      "value": "Waktu Habis Penguncian"
+    },
+    {
+      "name": "log_in",
+      "value": "Masuk"
+    },
+    {
+      "name": "log_in_with_password",
+      "value": "Login dengan Kata Sandi"
+    },
+    {
+      "name": "log_out",
+      "value": "Logout"
+    },
+    {
+      "name": "log_in_to_see_your_notes",
+      "value": "Masuk untuk melihat catatan Anda"
+    },
+    {
+      "name": "log_in_with_wordpress_com",
+      "value": "Login dengan WordPress.com"
+    },
+    {
+      "name": "log_in_with_email",
+      "value": "Login dengan email"
+    },
+    {
+      "name": "log_in_with_email_failed_please_enter_your_password",
+      "value": "Login dengan email gagal, masukkan kata sandi"
+    },
+    {
+      "name": "login_code_is_too_short",
+      "value": "Kode Login terlalu pendek"
+    },
+    {
+      "name": "mmm_d",
+      "value": "d MMM"
+    },
+    {
+      "name": "mmm_d_h_mm_a",
+      "value": "d MMM, h:mm a"
+    },
+    {
+      "name": "mmm_d_yyyy",
+      "value": "d MMM yyyy"
+    },
+    {
+      "name": "mmm_yyyy",
+      "value": "MMM yyyy"
+    },
+    {
+      "name": "main_app_is_not_configured",
+      "value": "Aplikasi Utama tidak dikonfigurasikan"
+    },
+    {
+      "name": "markdown",
+      "value": "Markdown"
+    },
+    {
+      "name": "menu",
+      "value": "Menu"
+    },
+    {
+      "name": "modified",
+      "value": "Dimodifikasi"
+    },
+    {
+      "name": "modified_newest",
+      "value": "Diubah: Paling baru"
+    },
+    {
+      "name": "modified_oldest",
+      "value": "Diubah: Paling lama"
+    },
+    {
+      "name": "move_selected_notes_to_trash",
+      "value": "Pindahkan catatan yang dipilih ke tong sampah"
+    },
+    {
+      "name": "move_to_trash",
+      "value": "Pindahkan ke Sampah"
+    },
+    {
+      "name": "name_a_z",
+      "value": "Nama: A-Z"
+    },
+    {
+      "name": "name_z_a",
+      "value": "Nama: Z-A"
+    },
+    {
+      "name": "new_note",
+      "value": "Catatan Baru"
+    },
+    {
+      "name": "new_note_4",
+      "value": "Catatan Baru..."
+    },
+    {
+      "name": "new_note_2",
+      "value": "Catatan baru"
+    },
+    {
+      "name": "new_note_3",
+      "value": "Catatan baru..."
+    },
+    {
+      "name": "next_match",
+      "value": "Hasil Berikutnya"
+    },
+    {
+      "name": "no",
+      "value": "Tidak"
+    },
+    {
+      "name": "no_results",
+      "value": "Tidak ada Hasil"
+    },
+    {
+      "name": "no_simplenote_account",
+      "value": "Tidak Ada Akun Simplenote"
+    },
+    {
+      "name": "no_notes_tagged",
+      "value": "Tidak ada catatan yang diberi tag “%s”"
+    },
+    {
+      "name": "no_previous_valid_purchases_found_for_the_current_period",
+      "value": "Untuk periode saat ini, tidak ada pembelian valid sebelumnya yang ditemukan"
+    },
+    {
+      "name": "no_purchases_found",
+      "value": "Tidak ada pembelian yang ditemukan"
+    },
+    {
+      "name": "no_thanks",
+      "value": "Tidak, Terima Kasih"
+    },
+    {
+      "name": "no_untagged_notes",
+      "value": "Tidak ada catatan tanpa tag"
+    },
+    {
+      "name": "note",
+      "value": "Catatan"
+    },
+    {
+      "name": "note_list",
+      "value": "Daftar Catatan"
+    },
+    {
+      "name": "note_trashed",
+      "value": "Catatan Dibuang"
+    },
+    {
+      "name": "note_no_longer_available",
+      "value": "Catatan tidak lagi tersedia"
+    },
+    {
+      "name": "notes",
+      "value": "Catatan"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "off",
+      "value": "Matikan"
+    },
+    {
+      "name": "ok_2",
+      "value": "OK"
+    },
+    {
+      "name": "okay",
+      "value": "Oke"
+    },
+    {
+      "name": "on",
+      "value": "Menyala"
+    },
+    {
+      "name": "open_simplenote",
+      "value": "Buka Simplenote"
+    },
+    {
+      "name": "open_note",
+      "value": "Buka catatan"
+    },
+    {
+      "name": "options",
+      "value": "Opsi-opsi"
+    },
+    {
+      "name": "or",
+      "value": "Atau"
+    },
+    {
+      "name": "passcode",
+      "value": "Kode sandi"
+    },
+    {
+      "name": "passcodes_did_not_match_try_again",
+      "value": "Kode sandi tidak cocok. Coba lagi."
+    },
+    {
+      "name": "password",
+      "value": "Kata sandi"
+    },
+    {
+      "name": "password_cannot_match_email_2",
+      "value": "Kata sandi tidak boleh sama dengan email"
+    },
+    {
+      "name": "password_must_contain_at_least_d_characters",
+      "value": "Kata sandi harus berisi setidaknya %d karakter"
+    },
+    {
+      "name": "password_must_not_contain_tabs_nor_newlines",
+      "value": "Kata sandi tidak boleh berisi tab atau baris baru"
+    },
+    {
+      "name": "pendings",
+      "value": "Tertunda"
+    },
+    {
+      "name": "pin_note",
+      "value": "Sematkan catatan"
+    },
+    {
+      "name": "pin_to_top",
+      "value": "Sematkan ke Atas"
+    },
+    {
+      "name": "please_activate_your_wordpress_com_account_via_email_and_try",
+      "value": "Harap aktifkan akun WordPress.com Anda melalui email dan coba lagi."
+    },
+    {
+      "name": "please_check_your_network_settings_and_try_again",
+      "value": "Harap periksa pengaturan jaringan Anda lalu coba lagi."
+    },
+    {
+      "name": "please_log_into_your_simplenote_account_first_by_using_the_s",
+      "value": "Silakan masuk ke akun Simplenote Anda terlebih dahulu menggunakan aplikasi Simplenote."
+    },
+    {
+      "name": "please_try_again",
+      "value": "Coba lagi"
+    },
+    {
+      "name": "please_upgrade_to_the_latest_ios_release_to_restore_purchase",
+      "value": "Upgrade ke rilis iOS terbaru untuk memulihkan pembelian"
+    },
+    {
+      "name": "preview",
+      "value": "Pratinjau"
+    },
+    {
+      "name": "previous_match",
+      "value": "Hasil Sebelumnya"
+    },
+    {
+      "name": "privacy_notice_for_california_users",
+      "value": "Pemberitahuan Privasi untuk Pengguna di California"
+    },
+    {
+      "name": "privacy_policy",
+      "value": "Kebijakan Privasi"
+    },
+    {
+      "name": "privacy_settings",
+      "value": "Pengaturan Privasi"
+    },
+    {
+      "name": "publish",
+      "value": "Terbitkan"
+    },
+    {
+      "name": "publish_successful",
+      "value": "Penerbitan Berhasil"
+    },
+    {
+      "name": "publish_note",
+      "value": "Terbitkan catatan"
+    },
+    {
+      "name": "publishing_note",
+      "value": "Menerbitkan catatan..."
+    },
+    {
+      "name": "publishing",
+      "value": "Menerbitkan..."
+    },
+    {
+      "name": "rate_us",
+      "value": "Beri Rating"
+    },
+    {
+      "name": "reachability",
+      "value": "Keterjangkauan"
+    },
+    {
+      "name": "recent",
+      "value": "Terkini"
+    },
+    {
+      "name": "recovered_note_cotent",
+      "value": "Pemulihan Konten Catatan - "
+    },
+    {
+      "name": "referenced_in",
+      "value": "Dirujuk di"
+    },
+    {
+      "name": "remove_all_notes_from_trash",
+      "value": "Buang semua catatan dari sampah"
+    },
+    {
+      "name": "remove_tag_from_the_current_note",
+      "value": "Hapus label dari catatan saat ini"
+    },
+    {
+      "name": "rename",
+      "value": "Ubah Nama"
+    },
+    {
+      "name": "request_account_deletion",
+      "value": "Lakukan Permintaan Penghapusan Akun"
+    },
+    {
+      "name": "request_error",
+      "value": "Permintaan Error"
+    },
+    {
+      "name": "resend_email",
+      "value": "Kirim Ulang Email"
+    },
+    {
+      "name": "resend_verification_email",
+      "value": "Kirim ulang Email Verifikasi"
+    },
+    {
+      "name": "reset",
+      "value": "Atur Ulang"
+    },
+    {
+      "name": "reset_required",
+      "value": "Diperlukan Pengaturan Ulang"
+    },
+    {
+      "name": "response",
+      "value": "Respons"
+    },
+    {
+      "name": "restore_note",
+      "value": "Pulihkan Catatan"
+    },
+    {
+      "name": "review_your_account",
+      "value": "Tinjau Akun Anda"
+    },
+    {
+      "name": "save",
+      "value": "Simpan"
+    },
+    {
+      "name": "search",
+      "value": "Cari"
+    },
+    {
+      "name": "search_by_tag",
+      "value": "Cari berdasarkan Tag"
+    },
+    {
+      "name": "search_notes_or_tags",
+      "value": "Cari catatan atau tag"
+    },
+    {
+      "name": "security",
+      "value": "Keamanan"
+    },
+    {
+      "name": "select",
+      "value": "Pilih"
+    },
+    {
+      "name": "select_all",
+      "value": "Pilih Semua"
+    },
+    {
+      "name": "select_a_version",
+      "value": "Pilih Versi"
+    },
+    {
+      "name": "send_a_test_crash",
+      "value": "Kirim Uji Kesalahan"
+    },
+    {
+      "name": "send_feedback",
+      "value": "Kirim Masukan"
+    },
+    {
+      "name": "set_up_passcode",
+      "value": "Siapkan Kode Sandi"
+    },
+    {
+      "name": "settings",
+      "value": "Settings"
+    },
+    {
+      "name": "share",
+      "value": "Bagikan"
+    },
+    {
+      "name": "share_analytics",
+      "value": "Berbagi analitik"
+    },
+    {
+      "name": "share_2",
+      "value": "Bagikan..."
+    },
+    {
+      "name": "sharing_notes_is_now_accessed_through_the_action_menu_from_t",
+      "value": "Berbagi catatan kini dapat diakses melalui menu tindakan dari bilah peralatan."
+    },
+    {
+      "name": "sidebar",
+      "value": "Panel Sisi"
+    },
+    {
+      "name": "sign_up",
+      "value": "Mendaftar"
+    },
+    {
+      "name": "signing_out_will_delete_any_unsynced_notes_you_can_verify_yo",
+      "value": "Catatan yang tidak disinkronkan akan dihapus saat Anda keluar. Anda dapat memverifikasi catatan Anda yang disinkronkan dengan masuk ke Aplikasi Web."
+    },
+    {
+      "name": "simplenote",
+      "value": "Simplenote"
+    },
+    {
+      "name": "simplenote_sustainer",
+      "value": "Simplenote Sustainer"
+    },
+    {
+      "name": "simplenote_ios_feedback",
+      "value": "Umpan Balik Simplenote iOS"
+    },
+    {
+      "name": "simplenote_must_be_configured_and_logged_in_to_setup_widgets",
+      "value": "Simplenote harus dikonfigurasi dan masuk ke widget pengaturan"
+    },
+    {
+      "name": "sorry",
+      "value": "Maaf!"
+    },
+    {
+      "name": "sort_alphabetically",
+      "value": "Urutkan Menurut Abjad"
+    },
+    {
+      "name": "sort_order",
+      "value": "Urutkan"
+    },
+    {
+      "name": "sort_by",
+      "value": "Urutkan berdasarkan:"
+    },
+    {
+      "name": "spotlight_history_may_still_appear_in_search_results_but_not",
+      "value": "Riwayat sorotan mungkin masih muncul di hasil pencarian, tetapi catatan tidak terindeks"
+    },
+    {
+      "name": "status_code",
+      "value": "Kode Status"
+    },
+    {
+      "name": "support_your_favorite_notes_app_to_help_unlock_future_featur",
+      "value": "Dukung aplikasi pencatatan favorit Anda untuk membantu pengembangan fitur masa depan"
+    },
+    {
+      "name": "sustainer_app_icon",
+      "value": "Ikon Aplikasi Sustainer"
+    },
+    {
+      "name": "sustainer_subscription_restored_thank_you_for_supporting_sim",
+      "value": "Langganan Sustainer dipulihkan. Terima kasih telah mendukung Simplenote!"
+    },
+    {
+      "name": "system_default",
+      "value": "Pengaturan Asal Sistem"
+    },
+    {
+      "name": "tag",
+      "value": "Tag"
+    },
+    {
+      "name": "tag_no_longer_available",
+      "value": "Tag tidak lagi tersedia"
+    },
+    {
+      "name": "tags",
+      "value": "Tag"
+    },
+    {
+      "name": "tag_3",
+      "value": "Tag..."
+    },
+    {
+      "name": "tap_button_to_select_or_deselect_all_notes",
+      "value": "Ketuk tombol untuk memilih atau membatalkan pilihan semua catatan"
+    },
+    {
+      "name": "terms_and_conditions",
+      "value": "Syarat dan Ketentuan"
+    },
+    {
+      "name": "terms_of_service",
+      "value": "Ketentuan Layanan"
+    },
+    {
+      "name": "thank_you",
+      "value": "Terima Kasih!"
+    },
+    {
+      "name": "thank_you_for_your_continued_support",
+      "value": "Terima kasih atas dukungan Anda yang berkelanjutan"
+    },
+    {
+      "name": "the_authentication_code_you_ve_requested_has_expired_please",
+      "value": "Kode autentikasi yang diminta telah kedaluwarsa. Silakan minta kode yang baru"
+    },
+    {
+      "name": "the_code_you_ve_entered_is_not_correct_please_try_again",
+      "value": "Kode yang Anda masukkan salah. Coba lagi"
+    },
+    {
+      "name": "the_email_you_ve_entered_is_already_associated_with_a_simple",
+      "value": "Email yang Anda masukkan telah digunakan oleh akun Simplenote lain."
+    },
+    {
+      "name": "the_network_could_not_be_reached",
+      "value": "Jaringan tidak dapat dijangkau."
+    },
+    {
+      "name": "the_simplest_way_to_keep_notes",
+      "value": "Cara paling mudah menyimpan catatan."
+    },
+    {
+      "name": "theme",
+      "value": "Tema"
+    },
+    {
+      "name": "themes",
+      "value": "Tema"
+    },
+    {
+      "name": "there_was_an_preparing_your_verification_email_please_try_ag",
+      "value": "Ada email persiapan verifikasi, silakan coba lagi nanti"
+    },
+    {
+      "name": "this_note_was_deleted_on_another_device",
+      "value": "Catatan ini dihapus pada perangkat lain"
+    },
+    {
+      "name": "this_password_has_appeared_in_a_data_breach_which_puts_your",
+      "value": "Kata sandi ini muncul dalam kasus pelanggaran data, yang membuat akun Anda berisiko tinggi untuk disusupi. Untuk melindungi data, Anda perlu memperbarui kata sandi sebelum dapat login kembali."
+    },
+    {
+      "name": "to_enable_1_you_must_have_a_passcode_setup_first",
+      "value": "Untuk mengaktifkan %1$s, Anda harus menyiapkan kode sandi terlebih dahulu."
+    },
+    {
+      "name": "to_unlock_the_application",
+      "value": "Untuk membuka aplikasi"
+    },
+    {
+      "name": "today",
+      "value": "Hari ini"
+    },
+    {
+      "name": "toggle_markdown",
+      "value": "Tombol Markdown"
+    },
+    {
+      "name": "toggle_tag_sidebar",
+      "value": "Panel sisi label pilihan"
+    },
+    {
+      "name": "too_many_login_attempts",
+      "value": "Terlalu Banyak Upaya Login"
+    },
+    {
+      "name": "too_many_login_attempts_try_again_later",
+      "value": "Terlalu banyak upaya login. Coba lagi nanti."
+    },
+    {
+      "name": "touch_id",
+      "value": "ID Sentuhan"
+    },
+    {
+      "name": "trash",
+      "value": "Sampah"
+    },
+    {
+      "name": "trash_notes",
+      "value": "Buang Catatan"
+    },
+    {
+      "name": "turn_off_passcode",
+      "value": "Matikan Kode Sandi"
+    },
+    {
+      "name": "undo",
+      "value": "Urungkan"
+    },
+    {
+      "name": "unnamed_tag",
+      "value": "Tag Tanpa Nama"
+    },
+    {
+      "name": "unpin",
+      "value": "Lapas sematan"
+    },
+    {
+      "name": "unpin_note",
+      "value": "Lepas sematan catatan"
+    },
+    {
+      "name": "unpublish_note",
+      "value": "Batalkan menerbitkan catatan"
+    },
+    {
+      "name": "unpublish_successful",
+      "value": "Pembatalan penerbitan berhasil"
+    },
+    {
+      "name": "unpublishing_note",
+      "value": "Membatalkan penerbitan catatan..."
+    },
+    {
+      "name": "unpublishing",
+      "value": "Batal menerbitkan..."
+    },
+    {
+      "name": "unsupported",
+      "value": "Tidak didukung"
+    },
+    {
+      "name": "unsynced_notes_detected",
+      "value": "Catatan yang Tidak Disinkronkan Terdeteksi"
+    },
+    {
+      "name": "untagged",
+      "value": "Tidak ditandai"
+    },
+    {
+      "name": "untagged_notes",
+      "value": "Catatan Tanpa Tag"
+    },
+    {
+      "name": "username",
+      "value": "Nama pengguna"
+    },
+    {
+      "name": "verify_your_email",
+      "value": "Verifikasi Email Anda"
+    },
+    {
+      "name": "version",
+      "value": "Versi %s"
+    },
+    {
+      "name": "visit_web_app",
+      "value": "Kunjungi Aplikasi Web"
+    },
+    {
+      "name": "we_ll_email_you_a_code_to_log_in_or_you_can",
+      "value": "Kami akan mengirimkan email berisi kode untuk login atau Anda dapat"
+    },
+    {
+      "name": "we_re_having_problems_please_try_again_soon",
+      "value": "Kami mengalami masalah. Harap coba lagi nanti."
+    },
+    {
+      "name": "we_ve_sent_a_code_to_email_the_code_will_be_valid_for_a_few",
+      "value": "Kami telah mengirimkan kode ke {{EMAIL}}. Kode ini valid selama beberapa menit."
+    },
+    {
+      "name": "websocket",
+      "value": "WebSocket"
+    },
+    {
+      "name": "we_ve_sent_a_verification_email_to_1_please_check_your_inbox",
+      "value": "Kami telah mengirimkan email verifikasi ke %1$s. Harap periksa kotak masuk Anda dan ikuti instruksi berikut."
+    },
+    {
+      "name": "we_ve_sent_an_email_to_1_please_check_your_inbox_and_follow",
+      "value": "Kami telah mengirimkan email ke %1$s. Harap periksa kotak masuk Anda dan ikuti instruksi berikut."
+    },
+    {
+      "name": "what_do_you_think_about_simplenote",
+      "value": "Apa pendapat Anda tentang Simplenote?"
+    },
+    {
+      "name": "will_attempt_to_recover_shortcut_content_on_next_launch",
+      "value": "Konten pintasan akan coba dipulihkan pada saat aplikasi dibuka lagi"
+    },
+    {
+      "name": "words",
+      "value": "Kata"
+    },
+    {
+      "name": "yes",
+      "value": "Ya"
+    },
+    {
+      "name": "yesterday",
+      "value": "Kemarin"
+    },
+    {
+      "name": "you_are_a_simplenote_sustainer",
+      "value": "Anda adalah seorang Simplenote Sustainer."
+    },
+    {
+      "name": "you_are_registered_with_simplenote_using_the_email_1_improve",
+      "value": "Anda terdaftar pada SImplenote menggunakan email %1$s.\n\nPeningkatan keamanan akun dapat menyebabkan akun hilang jika Anda tidak lagi memiliki akses ke alamat email ini."
+    },
+    {
+      "name": "you_must_verify_your_email_before_being_able_to_login",
+      "value": "Anda harus memverifikasi email agar bisa login."
+    },
+    {
+      "name": "you_re_already_a_sustainer_thank_you_for_supporting_simpleno",
+      "value": "Anda sudah menjadi Sustainer. Terima kasih telah mendukung Simplenote!"
+    },
+    {
+      "name": "your_authentication_code_has_expired_please_request_a_new_on",
+      "value": "Kode autentikasi telah kedaluwarsa. Silakan minta kode yang baru"
+    },
+    {
+      "name": "your_email_address_is_not_valid",
+      "value": "Alamat email Anda tidak valid."
+    },
+    {
+      "name": "your_password_is_insecure_and_must_be_reset_the_password_req",
+      "value": "Kata sandi Anda tidak aman dan harus diatur ulang. Persyaratan kata sandi adalah:"
+    },
+    {
+      "name": "your_trash_is_empty",
+      "value": "Sampah Anda kosong"
+    },
+    {
+      "name": "log_in_manually",
+      "value": "login secara manual"
+    },
+    {
+      "name": "tag_2",
+      "value": "tag:"
+    },
+    {
+      "name": "debug_enabled",
+      "value": "🐞 Debug Diaktifkan 🐞"
+    }
+  ]
+}
